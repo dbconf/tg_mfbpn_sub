@@ -23,7 +23,7 @@ jobs:
       - name: Run get_trial.py
         run: python get_trial.py
       - name: Commit
-        id: 提交
+        id: commit
         continue-on-error: true
         run: |
           git config user.email "actions@github.com"
