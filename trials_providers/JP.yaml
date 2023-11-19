@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: af36b1aa-3096-4732-be87-b08775f6c72b, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 8c1d6d83-ed07-4e3a-a9c6-a19b27f17dbe, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19831, type: vmess, uuid: ce34a4aa-95c6-3a5c-b397-1901fe7a0fcc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: ce34a4aa-95c6-3a5c-b397-1901fe7a0fcc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 8c1d6d83-ed07-4e3a-a9c6-a19b27f17dbe, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: af36b1aa-3096-4732-be87-b08775f6c72b, udp: true}
 - {name: 🇯🇵 <日本高速>-0.5x - 大湾区机场, server: 125.124.196.171, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇯🇵 <日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇯🇵 <日本>②-1x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
