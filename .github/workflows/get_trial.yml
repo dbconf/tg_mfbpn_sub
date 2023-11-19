@@ -2,7 +2,7 @@ name: get_trial.py
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '40 * * * *'
+    - cron:  '10 * * * *'
 permissions: write-all
 jobs:
   main:
@@ -23,7 +23,7 @@ jobs:
       - name: Run get_trial.py
         run: python get_trial.py
       - name: Commit
-        id: commit
+        id: 提交
         continue-on-error: true
         run: |
           git config user.email "actions@github.com"
