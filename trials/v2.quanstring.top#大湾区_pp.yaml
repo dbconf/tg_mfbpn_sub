@@ -117,7 +117,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top#大湾区/HK.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/HK.yaml
     interval: 180
     path: trials_providers/v2.quanstring.top#大湾区/HK.yaml
     health-check:
@@ -126,7 +126,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top#大湾区/SG.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/SG.yaml
     interval: 180
     path: trials_providers/v2.quanstring.top#大湾区/SG.yaml
     health-check:
@@ -135,7 +135,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top#大湾区/JP.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/JP.yaml
     interval: 180
     path: trials_providers/v2.quanstring.top#大湾区/JP.yaml
     health-check:
@@ -144,7 +144,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top#大湾区/US.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/US.yaml
     interval: 180
     path: trials_providers/v2.quanstring.top#大湾区/US.yaml
     health-check:
@@ -153,7 +153,7 @@ proxy-providers:
       interval: 30
   p_All_Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/v2.quanstring.top#大湾区/p_All_Other.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/p_All_Other.yaml
     interval: 180
     path: trials_providers/v2.quanstring.top#大湾区/p_All_Other.yaml
     health-check:
@@ -206,7 +206,7 @@ rules:
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,api.tsutsu.one,🛩️ ‍墙内
-- DOMAIN,ghproxy.com,🛩️ ‍墙内
+- DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
@@ -1876,6 +1876,8 @@ rules:
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
 - DOMAIN-SUFFIX,openai.com,🤖 ‍OpenAI+Bing
+- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍OpenAI+Bing
+- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,bing.com,🤖 ‍OpenAI+Bing
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
