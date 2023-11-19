@@ -28,14 +28,12 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 <香港>-2x - 大湾区机场
+  - 🇭🇰 <香港高速>-2x - 大湾区机场
   - 🇭🇰 <香港-奈飞>-2x - 大湾区机场
   - 🇭🇰 <香港>①-2.5倍 - 大湾区机场
   - 🇭🇰 <香港>②-2.5倍 - 大湾区机场
-  - 🇸🇬 <新加坡>-1x - 大湾区机场
+  - 🇸🇬 <新加坡高速>-1x - 大湾区机场
   - 🇸🇬 <新加坡-奈飞>-1x - 大湾区机场
-  - 🇸🇬 <新加坡>①-1.2x - 大湾区机场
-  - 🇸🇬 <新加坡>②-1.2x - 大湾区机场
   - 🇯🇵 <日本高速>-0.5x - 大湾区机场
   - 🇯🇵 <日本>①-1x - 大湾区机场
   - 🇯🇵 <日本>②-1x - 大湾区机场
@@ -93,7 +91,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 <香港>-2x - 大湾区机场
+  - 🇭🇰 <香港高速>-2x - 大湾区机场
   - 🇭🇰 <香港-奈飞>-2x - 大湾区机场
   - 🇭🇰 <香港>①-2.5倍 - 大湾区机场
   - 🇭🇰 <香港>②-2.5倍 - 大湾区机场
@@ -103,10 +101,8 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 <新加坡>-1x - 大湾区机场
+  - 🇸🇬 <新加坡高速>-1x - 大湾区机场
   - 🇸🇬 <新加坡-奈飞>-1x - 大湾区机场
-  - 🇸🇬 <新加坡>①-1.2x - 大湾区机场
-  - 🇸🇬 <新加坡>②-1.2x - 大湾区机场
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -160,16 +156,14 @@ proxies:
 - {name: 🇺🇸 <美国RN>-0.5x - 大湾区机场, server: 125.124.196.171, port: 34524, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇺🇸 <美国-奈飞>0.5x - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: <油管无广告>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
-- {name: 🇸🇬 <新加坡>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
+- {name: 🇸🇬 <新加坡高速>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇸🇬 <新加坡-奈飞>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
-- {name: 🇭🇰 <香港>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
+- {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇭🇰 <香港-奈飞>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: <ChatGPT-流媒体>②-0.85倍 - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇯🇵 <日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇯🇵 <日本>②-1x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: <原生IP>①-0.85倍 - 大湾区机场, server: s1.956256.xyz, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
-- {name: 🇸🇬 <新加坡>①-1.2x - 大湾区机场, server: s1.956256.xyz, port: 17844, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
-- {name: 🇸🇬 <新加坡>②-1.2x - 大湾区机场, server: s2.956256.xyz, port: 22065, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇭🇰 <香港>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇭🇰 <香港>②-2.5倍 - 大湾区机场, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: cc91a53f-fa7f-4713-9ded-5743c3d6d416, udp: true}
 - {name: 🇺🇸 美国直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: cc91a53f-fa7f-4713-9ded-5743c3d6d416, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
