@@ -18,7 +18,7 @@ GITHUB_SHA = getoutput('git rev-parse HEAD')
 DDAL_EMAIL = os.getenv('DDAL_EMAIL')
 DDAL_PASSWORD = os.getenv('DDAL_PASSWORD')
 
-GH_RAW_URL_PREFIX = f'https://raw.kgithub.com/{GITHUB_REPOSITORY}/{GITHUB_REF_NAME}'
+GH_RAW_URL_PREFIX = f'https://raw.github.com/{GITHUB_REPOSITORY}/{GITHUB_REF_NAME}'
 GH_RAW_URL_PREFIX_SHA = f'https://cdn.jsdelivr.net/gh/{GITHUB_REPOSITORY}@{GITHUB_SHA}'
 
 re_ddal_alias = re.compile(r'[\da-z]+(?:-[\da-z]+)*', re.I)
