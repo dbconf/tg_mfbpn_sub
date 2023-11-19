@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 公益台湾 - 锦瑜小窝, server: ahzf.jykeji.xyz, port: 31239, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}

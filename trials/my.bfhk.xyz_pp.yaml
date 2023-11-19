@@ -65,7 +65,7 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/my.bfhk.xyz/All.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/my.bfhk.xyz/All.yaml
     interval: 180
     path: trials_providers/my.bfhk.xyz/All.yaml
     health-check:
@@ -74,7 +74,7 @@ proxy-providers:
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/my.bfhk.xyz/Other.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/my.bfhk.xyz/Other.yaml
     interval: 180
     path: trials_providers/my.bfhk.xyz/Other.yaml
     health-check:

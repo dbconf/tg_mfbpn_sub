@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 距离下次重置剩余：29 天 - Lx-Cloud, server: 111.47.212.12, port: 60937, type: vmess, uuid: 1533ba62-63e1-4cbe-a9c2-82ff1b27034c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

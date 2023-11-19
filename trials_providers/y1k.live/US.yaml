@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国堪萨斯1 - 一颗机场, server: us1.cou.gay, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
-- {name: 🇺🇸 美国堪萨斯2 - 一颗机场, server: cf.13d7s.site, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
-- {name: 🇺🇸 美国堪萨斯3 - 一颗机场, server: time.is, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us1?ed=2048', headers: {Host: us1.cou.gay}}, udp: true}
-- {name: 🇺🇸 美国圣何塞1 - 一颗机场, server: us2.cou.gay, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us2?ed=2048', headers: {Host: us2.cou.gay}}, udp: true}
-- {name: 🇺🇸 美国圣何塞2 - 一颗机场, server: 443.cf.bestl.de, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us2?ed=2048', headers: {Host: us2.cou.gay}}, udp: true}
-- {name: 🇺🇸 美国圣何塞3 - 一颗机场, server: cfip.gay, port: 443, type: vmess, uuid: 33150641-f991-4b89-b31b-d2cfd0817f31, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: '/us2?ed=2048', headers: {Host: us2.cou.gay}}, udp: true}

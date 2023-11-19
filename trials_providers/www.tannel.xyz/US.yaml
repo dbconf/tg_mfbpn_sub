@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇲 美国A丨芝加哥丨流媒体 - Tannel中继网络服务, server: www.zztannel.com, port: 62028, type: vmess, uuid: ede8daee-0604-34db-bb2d-2c7b51ba246d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

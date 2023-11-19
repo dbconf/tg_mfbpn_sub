@@ -65,7 +65,7 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/mfbpn/tg_mfbpn_sub/main/trials_providers/22.lownet.xyz/All.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/22.lownet.xyz/All.yaml
     interval: 180
     path: trials_providers/22.lownet.xyz/All.yaml
     health-check:

@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国02|日沪专线|NF - 紅魔館網路, server: shshcua.073505.cn, port: 23603, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
-- {name: 🇺🇸 美国03|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 49726, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
-- {name: 🇺🇸 美国04|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 57756, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
-- {name: 🇺🇸 美国07|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 32859, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
-- {name: 🇺🇸 美国08|沪美专线|NF - 紅魔館網路, server: shdx.073505.cn, port: 64206, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}
-- {name: 🇺🇸 美国09|沪美专线|NF - 紅魔館網路, server: bjcu.073505.cn, port: 27944, type: ss, cipher: aes-128-gcm, password: 72d0d7d9-f1a7-4a32-80ef-d9fa432b7120, udp: true}

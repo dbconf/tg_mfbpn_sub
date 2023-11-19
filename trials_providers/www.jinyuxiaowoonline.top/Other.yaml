@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇲🇾 公益马来 - 锦瑜小窝, server: shcm.motions.top, port: 14195, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}
-- {name: 🇩🇪 公益德国 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 53930, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}
-- {name: 🇫🇷 公益法国 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 35152, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}
-- {name: 🇦🇺 公益澳洲 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 12632, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}
-- {name: 🇬🇧 公益英国 - 锦瑜小窝, server: gyzf.jykeji.xyz, port: 35163, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}
-- {name: 公益土耳 - 锦瑜小窝, server: shcu.xn--fiqr9egvchy8d.com, port: 30091, type: ss, cipher: chacha20-ietf-poly1305, password: 63905fa3-5aa4-40b1-9f64-06247bc01a9f, udp: true}
