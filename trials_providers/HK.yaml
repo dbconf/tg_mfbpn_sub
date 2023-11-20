@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19811, type: vmess, uuid: a1a9aa26-af20-3e99-a8d4-bd7b9a8175f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: a1a9aa26-af20-3e99-a8d4-bd7b9a8175f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: af36b1aa-3096-4732-be87-b08775f6c72b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
 - {name: 🇭🇰 Hongkong 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: af36b1aa-3096-4732-be87-b08775f6c72b, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19811, type: vmess, uuid: 7d2d2dd9-c803-342a-96e2-e2981658cd91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 7d2d2dd9-c803-342a-96e2-e2981658cd91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 <香港备用>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
 - {name: 🇭🇰 <香港>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
 - {name: 🇭🇰 <香港>②-2.5倍 - 大湾区机场, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
