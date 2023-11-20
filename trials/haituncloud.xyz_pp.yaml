@@ -11,32 +11,28 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 <香港高速>-2x - 大湾区机场
-  - 🇭🇰 <香港备用>-2x - 大湾区机场
-  - 🇭🇰 <香港>①-2.5倍 - 大湾区机场
-  - 🇭🇰 <香港>②-2.5倍 - 大湾区机场
-  - 🇯🇵 <日本备用>-1x - 大湾区机场
-  - 🇯🇵 <日本>①-1x - 大湾区机场
-  - 🇯🇵 <日本>②-1x - 大湾区机场
-  - 🇺🇸 <美国备用>-0.5x - 大湾区机场
-  - 🇺🇸 美国直连-联通推荐 - 大湾区机场
-  - 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场
-  - <原生IP>①-0.85倍 - 大湾区机场
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -52,20 +48,26 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -77,66 +79,102 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 <香港高速>-2x - 大湾区机场
-  - 🇭🇰 <香港备用>-2x - 大湾区机场
-  - 🇭🇰 <香港>①-2.5倍 - 大湾区机场
-  - 🇭🇰 <香港>②-2.5倍 - 大湾区机场
+  use: &id002
+  - HK
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  tolerance: 100
+  use: &id003
+  - TW
+- name: 🇨🇳 ‍中国
+  type: url-test
+  tolerance: 100
+  use: &id004
+  - HK
+  - TW
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  tolerance: 100
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇯🇵 <日本备用>-1x - 大湾区机场
-  - 🇯🇵 <日本>①-1x - 大湾区机场
-  - 🇯🇵 <日本>②-1x - 大湾区机场
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id004
-  - 🇺🇸 <美国备用>-0.5x - 大湾区机场
-  - 🇺🇸 美国直连-联通推荐 - 大湾区机场
-  - 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id005
-  - <原生IP>①-0.85倍 - 大湾区机场
+  use: &id007
+  - US
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  use: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  use: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id003
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id005
-proxies:
-- {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 49157, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇺🇸 <美国备用>-0.5x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇯🇵 <日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇭🇰 <香港备用>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇯🇵 <日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇯🇵 <日本>②-1x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: <原生IP>①-0.85倍 - 大湾区机场, server: s1.956256.xyz, port: 11644, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇭🇰 <香港>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇭🇰 <香港>②-2.5倍 - 大湾区机场, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇺🇸 美国直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
-- {name: 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+  use: *id007
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/haituncloud.xyz/HK.yaml
+    interval: 180
+    path: trials_providers/haituncloud.xyz/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/haituncloud.xyz/TW.yaml
+    interval: 180
+    path: trials_providers/haituncloud.xyz/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/haituncloud.xyz/SG.yaml
+    interval: 180
+    path: trials_providers/haituncloud.xyz/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/haituncloud.xyz/JP.yaml
+    interval: 180
+    path: trials_providers/haituncloud.xyz/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/haituncloud.xyz/US.yaml
+    interval: 180
+    path: trials_providers/haituncloud.xyz/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
