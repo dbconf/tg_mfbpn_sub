@@ -32,7 +32,8 @@ proxy-groups:
   - 🇭🇰 <香港备用>-2x - 大湾区机场
   - 🇭🇰 <香港>①-2.5倍 - 大湾区机场
   - 🇭🇰 <香港>②-2.5倍 - 大湾区机场
-  - 🇸🇬 <新加坡高速>-1x - 大湾区机场
+  - 🇸🇬 <新加坡高速>-1.5x - 大湾区机场
+  - 🇯🇵 <日本高速>-1x - 大湾区机场
   - 🇯🇵 <日本备用>-1x - 大湾区机场
   - 🇯🇵 <日本>①-1x - 大湾区机场
   - 🇯🇵 <日本>②-1x - 大湾区机场
@@ -97,13 +98,14 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬 <新加坡高速>-1x - 大湾区机场
+  - 🇸🇬 <新加坡高速>-1.5x - 大湾区机场
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
+  - 🇯🇵 <日本高速>-1x - 大湾区机场
   - 🇯🇵 <日本备用>-1x - 大湾区机场
   - 🇯🇵 <日本>①-1x - 大湾区机场
   - 🇯🇵 <日本>②-1x - 大湾区机场
@@ -144,8 +146,9 @@ proxy-groups:
   proxies: *id006
 proxies:
 - {name: 🇺🇸 <美国高速>-1x - 大湾区机场, server: gd.888888.wtf, port: 44444, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
+- {name: 🇯🇵 <日本高速>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
+- {name: 🇸🇬 <新加坡高速>-1.5x - 大湾区机场, server: gd.888888.wtf, port: 22670, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: gd.888888.wtf, port: 37244, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
-- {name: 🇸🇬 <新加坡高速>-1x - 大湾区机场, server: gd.888888.wtf, port: 22670, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇺🇸 <美国备用>-0.5x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇯🇵 <日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇭🇰 <香港备用>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
