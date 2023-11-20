@@ -33,6 +33,7 @@ proxy-groups:
   - 🇯🇵 <日本备用>-1x - 大湾区机场
   - 🇯🇵 <日本>①-1x - 大湾区机场
   - 🇯🇵 <日本>②-1x - 大湾区机场
+  - 🇺🇸 <美国备用>-0.5x - 大湾区机场
   - 🇺🇸 美国直连-联通推荐 - 大湾区机场
   - 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场
   - <原生IP>①-0.85倍 - 大湾区机场
@@ -99,6 +100,7 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id004
+  - 🇺🇸 <美国备用>-0.5x - 大湾区机场
   - 🇺🇸 美国直连-联通推荐 - 大湾区机场
   - 🇺🇸 美国-ChatGPT-1 倍 - 大湾区机场
 - name: 🎏 ‍其他
@@ -125,6 +127,7 @@ proxy-groups:
   proxies: *id005
 proxies:
 - {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 49157, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
+- {name: 🇺🇸 <美国备用>-0.5x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇯🇵 <日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇭🇰 <香港备用>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇯🇵 <日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
