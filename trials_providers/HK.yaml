@@ -8,7 +8,7 @@ proxies:
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: bca0ab83-ec9c-3221-b68d-f8a3b113de19, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 4200219a-0b55-4ac9-ac48-62ef0f92e218, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
 - {name: 🇭🇰 Hongkong 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: 4200219a-0b55-4ac9-ac48-62ef0f92e218, udp: true}
-- {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 49157, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
+- {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: gd.888888.wtf, port: 37244, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇭🇰 <香港备用>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇭🇰 <香港>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
 - {name: 🇭🇰 <香港>②-2.5倍 - 大湾区机场, server: s2.956256.xyz, port: 20803, type: ss, cipher: chacha20-ietf-poly1305, password: eafeb954-4ec8-4962-8e22-ea508a0b6ce4, udp: true}
