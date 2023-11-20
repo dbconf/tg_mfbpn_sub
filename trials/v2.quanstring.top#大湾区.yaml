@@ -26,6 +26,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 <香港高速>-2x - 大湾区机场
   - 🇭🇰 <香港备用>-2x - 大湾区机场
   - 🇭🇰 <香港>①-2.5倍 - 大湾区机场
   - 🇭🇰 <香港>②-2.5倍 - 大湾区机场
@@ -79,6 +80,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 <香港高速>-2x - 大湾区机场
   - 🇭🇰 <香港备用>-2x - 大湾区机场
   - 🇭🇰 <香港>①-2.5倍 - 大湾区机场
   - 🇭🇰 <香港>②-2.5倍 - 大湾区机场
@@ -122,6 +124,7 @@ proxy-groups:
   type: select
   proxies: *id005
 proxies:
+- {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 49157, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
 - {name: 🇯🇵 <日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
 - {name: 🇭🇰 <香港备用>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
 - {name: 🇯🇵 <日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
