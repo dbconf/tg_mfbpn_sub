@@ -1,16 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 <日本高速>-0.5x - 大湾区机场, server: 125.124.196.171, port: 24130, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: 🇺🇸 <美国高速>-0.5x - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: 🇺🇸 <美国RN>-0.5x - 大湾区机场, server: 125.124.196.171, port: 34524, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: 🇺🇸 <美国-奈飞>0.5x - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: <油管无广告>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: 🇸🇬 <新加坡高速>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: 🇸🇬 <新加坡-奈飞>-1x - 大湾区机场, server: 125.124.196.171, port: 41807, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: 🇭🇰 <香港高速>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: 🇭🇰 <香港-奈飞>-2x - 大湾区机场, server: 125.124.196.171, port: 36113, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
-- {name: <ChatGPT-流媒体>②-0.85倍 - 大湾区机场, server: 125.124.196.171, port: 20485, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
 - {name: 🇯🇵 <日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
 - {name: 🇭🇰 <香港备用>-2x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 12919, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
 - {name: 🇯🇵 <日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
