@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 距离下次重置剩余：10 天 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 34e2a0bc-2a16-4131-bd50-182e7950b9a8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: ws, ws-opts: {path: /, headers: {Host: gg.looooooongnet.lol}}, udp: true}
 - {name: 距离下次重置剩余：10 天 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: 848e9ef9-e1b2-45b7-95b4-571889d6589b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 距离下次重置剩余：10 天 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 34e2a0bc-2a16-4131-bd50-182e7950b9a8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: ws, ws-opts: {path: /, headers: {Host: gg.looooooongnet.lol}}, udp: true}
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: da52756a-22f4-41b9-b862-0abd5f3d5af8, udp: true}
