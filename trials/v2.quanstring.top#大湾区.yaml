@@ -31,7 +31,7 @@ proxy-groups:
   - 🇭🇰<香港>①-2.5倍 - 大湾区机场
   - 🇭🇰<香港高速>-2x - 大湾区机场
   - 🇭🇰<香港备用>-2x - 大湾区机场
-  - 🇸🇬新加坡1号 - 大湾区机场
+  - 🇸🇬新加坡-1x - 大湾区机场
   - 🇸🇬<新加坡高速>-1.5x - 大湾区机场
   - 🇯🇵<日本>①-1x - 大湾区机场
   - 🇯🇵<日本高速>-1.25x - 大湾区机场
@@ -99,7 +99,7 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇸🇬新加坡1号 - 大湾区机场
+  - 🇸🇬新加坡-1x - 大湾区机场
   - 🇸🇬<新加坡高速>-1.5x - 大湾区机场
 - name: 🇯🇵 ‍日本
   type: url-test
@@ -149,14 +149,14 @@ proxy-groups:
   type: select
   proxies: *id006
 proxies:
-- {name: 🇦🇺<澳洲高速>2x - 大湾区机场, server: gd.888888.wtf, port: 30058, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
 - {name: 🇯🇵<日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
-- {name: 🇸🇬新加坡1号 - 大湾区机场, server: s1.956256.xyz, port: 43532, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
-- {name: 🇭🇰<香港>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
+- {name: 🇯🇵<日本高速>-1.25x - 大湾区机场, server: sh.888888.wtf, port: 16213, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
+- {name: 🇦🇺<澳洲高速>2x - 大湾区机场, server: gd.888888.wtf, port: 30058, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
 - {name: 🇺🇸<美国高速>-1x - 大湾区机场, server: gd.888888.wtf, port: 44444, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
 - {name: 🇺🇸<美国-北方>1x - 大湾区机场, server: sh.888888.wtf, port: 38181, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
-- {name: 🇯🇵<日本高速>-1.25x - 大湾区机场, server: sh.888888.wtf, port: 16213, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
+- {name: 🇸🇬新加坡-1x - 大湾区机场, server: s1.956256.xyz, port: 43532, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
 - {name: 🇸🇬<新加坡高速>-1.5x - 大湾区机场, server: gd.888888.wtf, port: 22670, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
+- {name: 🇭🇰<香港>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
 - {name: 🇭🇰<香港高速>-2x - 大湾区机场, server: gd.888888.wtf, port: 37244, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
 - {name: 🇺🇸<美国备用>-0.5x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
 - {name: 🇯🇵<日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
