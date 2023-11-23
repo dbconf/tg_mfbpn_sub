@@ -2,4 +2,3 @@
 ---
 proxies:
 - {name: 🇦🇺<澳洲高速>2x - 大湾区机场, server: gd.888888.wtf, port: 30058, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
-- {name: 🇦🇺 澳洲 - 大湾区机场, server: 103.65.140.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
