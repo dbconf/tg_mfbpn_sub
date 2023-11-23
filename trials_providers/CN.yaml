@@ -27,6 +27,6 @@ proxies:
 - {name: 🇹🇼 Taiwan 3 - 番茄云, server: proxy1.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: 8a091e58-b555-446d-9760-659837ea4b42, udp: true}
 - {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 8a091e58-b555-446d-9760-659837ea4b42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
 - {name: 🇭🇰 Hongkong 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: 8a091e58-b555-446d-9760-659837ea4b42, udp: true}
-- {name: 🇭🇰<香港>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
-- {name: 🇭🇰<香港高速>-2x - 大湾区机场, server: gd.888888.wtf, port: 37244, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
-- {name: 🇭🇰<香港备用>-2x - 大湾区机场, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 49157, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
+- {name: 🇭🇰<香港>①-2.5倍 - 大湾区机场, server: s1.956256.xyz, port: 33286, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
+- {name: 🇭🇰<香港高速>-2x - 大湾区机场, server: gd.888888.wtf, port: 37244, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
+- {name: 🇭🇰<香港备用>-2x - 大湾区机场, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 49157, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
