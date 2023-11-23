@@ -81,6 +81,7 @@ proxy-groups:
   - 🇯🇵<日本>①-1x - 大湾区机场
   - 🇯🇵<日本高速>-1.25x - 大湾区机场
   - 🇯🇵<日本备用>-1x - 大湾区机场
+  - 🇯🇵<日本>②-1x - 大湾区机场
   - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国02 - 都是梦
   - 🇺🇸美国03 - 都是梦
@@ -284,6 +285,7 @@ proxy-groups:
   - 🇯🇵<日本>①-1x - 大湾区机场
   - 🇯🇵<日本高速>-1.25x - 大湾区机场
   - 🇯🇵<日本备用>-1x - 大湾区机场
+  - 🇯🇵<日本>②-1x - 大湾区机场
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -468,6 +470,7 @@ proxies:
 - {name: 🇯🇵<日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
 - {name: 🇯🇵<日本高速>-1.25x - 大湾区机场, server: sh.888888.wtf, port: 16213, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
 - {name: 🇯🇵<日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
+- {name: 🇯🇵<日本>②-1x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
