@@ -3,5 +3,4 @@
 proxies:
 - {name: 🇯🇵<日本>①-1x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
 - {name: 🇯🇵<日本高速>-1.25x - 大湾区机场, server: sh.888888.wtf, port: 16213, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
-- {name: 🇯🇵测试 - 大湾区机场, server: 125.124.5.239, port: 41789, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
 - {name: 🇯🇵<日本备用>-1x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 59395, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
