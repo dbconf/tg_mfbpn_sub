@@ -38,3 +38,4 @@ proxies:
 - {name: 🇮🇳 India - 番茄云, server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: 8a091e58-b555-446d-9760-659837ea4b42, udp: true}
 - {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
 - {name: 🇦🇺<澳洲高速>2x - 大湾区机场, server: gd.888888.wtf, port: 30058, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
+- {name: 🇦🇺 澳洲 - 大湾区机场, server: 103.65.140.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 3054c17f-3ac4-422b-8d10-5915753e60a5, udp: true}
