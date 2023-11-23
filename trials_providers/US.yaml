@@ -9,8 +9,8 @@ proxies:
 - {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11302, type: vmess, uuid: 3c2ecc36-911f-3dbb-996c-3881f298ca5e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: 2130dd93-58ae-302d-9ad7-c2ed8132217c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19862, type: vmess, uuid: 2130dd93-58ae-302d-9ad7-c2ed8132217c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: 23cf6b94-515d-4a61-a04d-f0fa93fa65c0, udp: true}
-- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: 23cf6b94-515d-4a61-a04d-f0fa93fa65c0, udp: true}
+- {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: 8a091e58-b555-446d-9760-659837ea4b42, udp: true}
+- {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: 8a091e58-b555-446d-9760-659837ea4b42, udp: true}
 - {name: 🇺🇸<美国高速>-1x - 大湾区机场, server: gd.888888.wtf, port: 44444, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
 - {name: 🇺🇸<美国-北方>1x - 大湾区机场, server: sh.888888.wtf, port: 38181, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
 - {name: 🇺🇸<美国备用>-0.5x - 大湾区机场, server: 139HZ.xn--fiqa108dbd596g538d.com, port: 23314, type: ss, cipher: chacha20-ietf-poly1305, password: f9a5fd61-b335-4d63-9a84-9476151f9463, udp: true}
