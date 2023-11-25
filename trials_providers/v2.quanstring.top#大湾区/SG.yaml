@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬<新加坡高速>-1.5x - 大湾区机场, server: gd.888888.wtf, port: 22670, type: ss, cipher: chacha20-ietf-poly1305, password: 531f28e2-b351-4a75-9ec5-d374b4b21204, udp: true}
