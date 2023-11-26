@@ -9,4 +9,3 @@ proxies:
 - {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: a686ca24-98e7-4759-bd62-f7c32fa34ef6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
 - {name: 🇭🇰 Hongkong 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: a686ca24-98e7-4759-bd62-f7c32fa34ef6, udp: true}
 - {name: 🇭🇰<香港高速>-2x - 大湾区机场, server: gd.888888.wtf, port: 37244, type: ss, cipher: chacha20-ietf-poly1305, password: 2fa75556-2273-4ae8-a76f-1c242b18af5c, udp: true}
-- {name: 🇭🇰<香港备用>-2x - 大湾区机场, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 49157, type: ss, cipher: chacha20-ietf-poly1305, password: 2fa75556-2273-4ae8-a76f-1c242b18af5c, udp: true}
