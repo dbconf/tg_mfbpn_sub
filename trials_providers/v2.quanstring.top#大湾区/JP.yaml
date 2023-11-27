@@ -1,4 +1,6 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇯🇵<日本>①-1.25x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
+- {name: 🇯🇵<日本>②-1.25x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
 - {name: 🇯🇵<日本高速>-1.25x - 大湾区机场, server: sh.888888.wtf, port: 16213, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
