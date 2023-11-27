@@ -61,7 +61,7 @@ proxy-groups:
   - 🇹🇼 Taiwan 3 - 番茄云
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
-  - 🇸🇬新加坡03 - 都是梦
+  - 🇸🇬 sg2.doushimeng.com - 都是梦
   - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
   - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
@@ -254,7 +254,7 @@ proxy-groups:
   proxies: &id005
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
-  - 🇸🇬新加坡03 - 都是梦
+  - 🇸🇬 sg2.doushimeng.com - 都是梦
   - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
   - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
@@ -383,10 +383,10 @@ proxies:
 - {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 592aa2df-b592-4120-b261-4f85f0406f15, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-uss.doushimeng.com}}, udp: true}
 - {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 22853, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: proxy1.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: proxy1.doushimeng.com, port: 20253, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: proxy1.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: proxy1.doushimeng.com, port: 26203, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
+- {name: 🇸🇬 sg2.doushimeng.com - 都是梦, server: proxy1.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 592aa2df-b592-4120-b261-4f85f0406f15, udp: true}
 - {name: 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow, server: nbq11.ntbq.dynu.net, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b11, headers: {Host: nbq11.ntbq.dynu.net}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow, server: nbq12.ntbq.dynu.net, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b12, headers: {Host: nbq12.ntbq.dynu.net}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow, server: nbq13.ntbq.dynu.net, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b13, headers: {Host: nbq13.ntbq.dynu.net}}, udp: true}
