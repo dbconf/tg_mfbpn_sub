@@ -78,8 +78,6 @@ proxy-groups:
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 Japan - 番茄云
-  - 🇯🇵<日本>①-1.25x - 大湾区机场
-  - 🇯🇵<日本>②-1.25x - 大湾区机场
   - 🇯🇵<日本高速>-1.25x - 大湾区机场
   - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国02 - 都是梦
@@ -279,8 +277,6 @@ proxy-groups:
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 Japan - 番茄云
-  - 🇯🇵<日本>①-1.25x - 大湾区机场
-  - 🇯🇵<日本>②-1.25x - 大湾区机场
   - 🇯🇵<日本高速>-1.25x - 大湾区机场
 - name: 🇺🇸 ‍美国
   type: url-test
@@ -463,8 +459,6 @@ proxies:
 - {name: 🇸🇬<新加坡流媒体>-1.75x - 大湾区机场, server: gd.888888.wtf, port: 39533, type: ss, cipher: chacha20-ietf-poly1305, password: 2fa75556-2273-4ae8-a76f-1c242b18af5c, udp: true}
 - {name: 🇸🇬 新加坡直连 - 大湾区机场, server: 168.138.183.83, port: 1363, type: ss, cipher: chacha20-ietf-poly1305, password: 2fa75556-2273-4ae8-a76f-1c242b18af5c, udp: true}
 - {name: 🇸🇬 新加坡-AK - 大湾区机场, server: 185.225.20.244, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 2fa75556-2273-4ae8-a76f-1c242b18af5c, udp: true}
-- {name: 🇯🇵<日本>①-1.25x - 大湾区机场, server: s1.956256.xyz, port: 43774, type: ss, cipher: chacha20-ietf-poly1305, password: 2fa75556-2273-4ae8-a76f-1c242b18af5c, udp: true}
-- {name: 🇯🇵<日本>②-1.25x - 大湾区机场, server: s2.956256.xyz, port: 18609, type: ss, cipher: chacha20-ietf-poly1305, password: 2fa75556-2273-4ae8-a76f-1c242b18af5c, udp: true}
 - {name: 🇯🇵<日本高速>-1.25x - 大湾区机场, server: sh.888888.wtf, port: 16213, type: ss, cipher: chacha20-ietf-poly1305, password: 2fa75556-2273-4ae8-a76f-1c242b18af5c, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
