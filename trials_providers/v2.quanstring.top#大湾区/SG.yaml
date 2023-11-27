@@ -4,4 +4,3 @@ proxies:
 - {name: 🇸🇬<新加坡高速>-1.25x - 大湾区机场, server: gt.888888.wtf, port: 24433, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
 - {name: 🇸🇬<新加坡流媒体>-1.75x - 大湾区机场, server: gd.888888.wtf, port: 39533, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
 - {name: 🇸🇬 新加坡直连 - 大湾区机场, server: 168.138.183.83, port: 1363, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
-- {name: 🇸🇬 新加坡-AK - 大湾区机场, server: 185.225.20.244, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
