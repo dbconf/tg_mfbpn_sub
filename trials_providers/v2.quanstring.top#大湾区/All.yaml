@@ -6,7 +6,7 @@ proxies:
 - {name: 🇺🇸<ChatGPT-TK-流媒体>1 倍 - 大湾区机场, server: gd.888888.wtf, port: 44444, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
 - {name: 🇺🇸<美国高速>-1x - 大湾区机场, server: gd.888888.wtf, port: 44444, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
 - {name: 🇯🇵<日本高速>-1.25x - 大湾区机场, server: sh.888888.wtf, port: 16213, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
-- {name: 🇸🇬<新加坡高速>-1.25x - 大湾区机场, server: gd.888888.wtf, port: 18717, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
+- {name: 🇸🇬<新加坡高速>-1.25x - 大湾区机场, server: gd.888888.wtf, port: 24433, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
 - {name: 🇸🇬<新加坡流媒体>-1.75x - 大湾区机场, server: gd.888888.wtf, port: 39533, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
 - {name: 🇦🇺<澳洲高速>1.25x - 大湾区机场, server: gd.888888.wtf, port: 30058, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
 - {name: 🇺🇸<美国-北方>1x - 大湾区机场, server: sh.888888.wtf, port: 38181, type: ss, cipher: chacha20-ietf-poly1305, password: 5afa4644-7566-4118-81ec-1626fff85898, udp: true}
