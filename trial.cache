@@ -3,7 +3,7 @@ buy  pass
 email  pcpksywyw477@spam4.me
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  195G  1000G  2024-01-21 09:01:40+08:00  (剩余 805G 53 days, 3:44:33.489099)
+sub_info  195G  1000G  2024-01-21 09:01:40+08:00  (剩余 805G 53 days, 3:33:11.680548)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=ae7c5abdc9999cb9f02d2e6bf33ac28c
 time  2023-11-19 21:01:41.708631+08:00
 type  v2board
@@ -15,7 +15,7 @@ email  fvqddsbsa748@gmail.com
 last_checkin  2023-11-29 04:47:16.603071+08:00
 name  西瓜皮是真的皮
 node_n  14
-sub_info  0B  10.15G  2023-11-29 06:47:16+08:00  (剩余 10.15G 1:30:09.555673)
+sub_info  0B  10.15G  2023-11-29 06:47:16+08:00  (剩余 10.15G 1:18:44.860806)
 sub_url  https://go.xiguasuyun.com/link/zVLdFG5yre2L4mbK?sub=3
 time  2023-11-29 04:47:18.259065+08:00
 type  sspanel
@@ -25,7 +25,7 @@ buy  pass
 email  xvntxawxq929@gmail.com
 name  都是梦
 node_n  23
-sub_info  52.71K  10G  2023-11-29 10:32:43+08:00  (剩余 10G 5:15:29.602891)
+sub_info  52.71K  10G  2023-11-29 10:32:43+08:00  (剩余 10G 5:04:10.562797)
 sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=6db18620730932d53f148f5c3fe298ce
 time  2023-11-26 10:33:34.943617+08:00
 type  v2board
@@ -40,12 +40,13 @@ sub_info  0B  6G  2023-11-29 12:48:59+08:00  (剩余 6G 7:31:44.720562)
 sub_url  https://sub.quanstring.top/api/v1/client/subscribe?token=2de0aef97c60118e23efa4685dbc0da7
 time  2023-11-28 12:48:59.401719+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [22.lownet.xyz]
 email  hnizeuvi869@guerrillamail.de
 name  fastest
 node_n  1
-sub_info  0B  50G  2023-12-19 20:29:40+08:00  (剩余 50G 20 days, 15:10:04.545884)
+sub_info  0B  50G  2023-12-19 20:29:40+08:00  (剩余 50G 20 days, 15:01:08.561636)
 sub_url  https://22.lownet.xyz/api/v1/client/subscribe?token=445f270d9e1b7e95ba63db356fc286b9
 time  2023-11-19 20:29:40.675416+08:00
 type  v2board
@@ -54,7 +55,7 @@ type  v2board
 email  eojjlmqt287@gmail.com
 name  番茄云
 node_n  26
-sub_info  0B  20G  2023-11-29 19:05:52+08:00  (剩余 20G 13:48:44.374275)
+sub_info  0B  20G  2023-11-29 19:05:52+08:00  (剩余 20G 13:37:23.060858)
 sub_url  https://cloud2.fanqiecloud.top/api/v1/client/subscribe?token=cabdcd2ba0f7d3feb51824625b6ac8db
 time  2023-11-28 19:05:53.307574+08:00
 type  v2board
@@ -73,30 +74,30 @@ type  v2board
 [云安云.com#云安云]
 name  云安云
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"cmribai687@dijingka.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(uwxpzffi911@teml.net): {'message': '验证码有误'}
 
 [yingwuyun.top#鹦鹉云]
 buy  pass
-email  zbepxcwmk69@gmail.com
+email  rdoadxkaa545@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=af5332ffaa5426aafb847cd967af77d7
-time  2023-11-29 05:17:29.608199+08:00
+sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=758b8c33eccd354d04594039bf9d5d12
+time  2023-11-29 05:28:32.236906+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [yyds.白嫖.net#白嫖]
 name  白嫖机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(jjrglnwa491@139.telemail.tk): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(kkabddjen88@mydefipet.live): {'message': '验证码有误'}
 
 [xxxu.xyz#xxxu]
 buy  pass
-email  jzoyxsnvp596@gmail.com
+email  szyuysqye388@gmail.com
 name  AnTu
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=941b7c5a8bce05d74dbfdab8b7e51b46
-time  2023-11-29 05:17:14.305882+08:00
+sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=b3d2abbcc0d96ea8dcc20c7dd793967d
+time  2023-11-29 05:28:32.740877+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -105,7 +106,7 @@ email  iputzinf152@gmail.com
 last_checkin  2023-11-29 00:30:14.056303+08:00
 name  海豚云
 node_n  11
-sub_info  1.14G  105.4G  2023-12-20 23:24:19+08:00  (剩余 104.2G 21 days, 18:07:14.546846)
+sub_info  1.14G  105.4G  2023-12-20 23:24:19+08:00  (剩余 104.2G 21 days, 17:55:50.341121)
 sub_url  https://s.haituncloud.vip/link/ZlGDMTzRDH6TNEiL?sub=3
 time  2023-11-20 23:24:21.252384+08:00
 type  sspanel
