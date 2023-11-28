@@ -3,7 +3,7 @@ buy  pass
 email  pcpksywyw477@spam4.me
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  195G  1000G  2024-01-21 09:01:40+08:00  (剩余 805G 53 days, 6:09:31.936534)
+sub_info  195G  1000G  2024-01-21 09:01:40+08:00  (剩余 805G 53 days, 5:56:49.849735)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=ae7c5abdc9999cb9f02d2e6bf33ac28c
 time  2023-11-19 21:01:41.708631+08:00
 type  v2board
@@ -15,7 +15,7 @@ email  hrrwpkrom743@gmail.com
 last_checkin  2023-11-29 01:56:51.230322+08:00
 name  西瓜皮是真的皮
 node_n  14
-sub_info  0B  10.14G  2023-11-29 03:56:51+08:00  (剩余 10.14G 1:06:42.683195)
+sub_info  0B  10.14G  2023-11-29 03:56:51+08:00  (剩余 10.14G 0:51:54.956833)
 sub_url  https://go.xiguasuyun.com/link/B4Uj7KSLPTDFyvwt?sub=3
 time  2023-11-29 01:56:53.074573+08:00
 type  sspanel
@@ -25,7 +25,7 @@ buy  pass
 email  xvntxawxq929@gmail.com
 name  都是梦
 node_n  23
-sub_info  52.71K  10G  2023-11-29 10:32:43+08:00  (剩余 10G 7:42:35.359051)
+sub_info  52.71K  10G  2023-11-29 10:32:43+08:00  (剩余 10G 7:27:49.214195)
 sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=6db18620730932d53f148f5c3fe298ce
 time  2023-11-26 10:33:34.943617+08:00
 type  v2board
@@ -40,12 +40,13 @@ sub_info  0B  6G  2023-11-29 12:48:59+08:00  (剩余 6G 9:58:51.038320)
 sub_url  https://sub.quanstring.top/api/v1/client/subscribe?token=2de0aef97c60118e23efa4685dbc0da7
 time  2023-11-28 12:48:59.401719+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [22.lownet.xyz]
 email  hnizeuvi869@guerrillamail.de
 name  fastest
 node_n  1
-sub_info  0B  50G  2023-12-19 20:29:40+08:00  (剩余 50G 20 days, 17:39:30.340272)
+sub_info  0B  50G  2023-12-19 20:29:40+08:00  (剩余 50G 20 days, 17:24:49.061505)
 sub_url  https://22.lownet.xyz/api/v1/client/subscribe?token=445f270d9e1b7e95ba63db356fc286b9
 time  2023-11-19 20:29:40.675416+08:00
 type  v2board
@@ -54,7 +55,7 @@ type  v2board
 email  eojjlmqt287@gmail.com
 name  番茄云
 node_n  26
-sub_info  0B  20G  2023-11-29 19:05:52+08:00  (剩余 20G 16:15:43.442149)
+sub_info  0B  20G  2023-11-29 19:05:52+08:00  (剩余 20G 16:01:02.992209)
 sub_url  https://cloud2.fanqiecloud.top/api/v1/client/subscribe?token=cabdcd2ba0f7d3feb51824625b6ac8db
 time  2023-11-28 19:05:53.307574+08:00
 type  v2board
@@ -73,40 +74,39 @@ type  v2board
 [云安云.com#云安云]
 name  云安云
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(gdnkajkic445@maladi.top): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(aufvockd783@kataskopoi.com): {'message': '验证码有误'}
 
 [yingwuyun.top#鹦鹉云]
 buy  pass
-email  ryrefzyf257@gmail.com
+email  zcnkwxpui767@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=6df78457169ea2b31a4956bf5d16cef5
-time  2023-11-29 02:50:10.645911+08:00
+sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=6edbb2a2956eefa680ae907a1513f51b
+time  2023-11-29 03:06:54.222022+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [yyds.白嫖.net#白嫖]
 name  白嫖机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(erlzlka280@youxiang.dev): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(euophqik991@linshiyou.com): {'message': '验证码有误'}
 
 [xxxu.xyz#xxxu]
 buy  pass
-email  idvqtsg866@gmail.com
+email  dxarrws453@gmail.com
 name  AnTu
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=48dc404c96a2df1badafe7e2ba24d790
-time  2023-11-29 02:38:45.987777+08:00
+sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=bb080c75fb657df1ef40e204e194bdb0
+time  2023-11-29 03:07:00.550153+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(qsslngic273@gmail.com): 遇到了些问题，我们正在进行处理
 
 [haituncloud.xyz]
 email  iputzinf152@gmail.com
 last_checkin  2023-11-29 00:30:14.056303+08:00
 name  海豚云
 node_n  11
-sub_info  1.14G  105.4G  2023-12-20 23:24:19+08:00  (剩余 104.2G 21 days, 20:34:11.526138)
+sub_info  1.14G  105.4G  2023-12-20 23:24:19+08:00  (剩余 104.2G 21 days, 20:19:30.484602)
 sub_url  https://s.haituncloud.vip/link/ZlGDMTzRDH6TNEiL?sub=3
 time  2023-11-20 23:24:21.252384+08:00
 type  sspanel
