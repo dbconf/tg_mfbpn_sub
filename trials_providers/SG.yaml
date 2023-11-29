@@ -12,4 +12,3 @@ proxies:
 - {name: 🇸🇬 Singapore 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 1fe0af49-2fea-4ea0-86f8-e5213d6ce847, udp: true}
 - {name: 🇸🇬<新加坡高速>-1.25x - 大湾区机场, server: gt.888888.wtf, port: 24433, type: ss, cipher: chacha20-ietf-poly1305, password: 93a1ed28-4846-4a16-94a8-7b511c5cfdb9, udp: true}
 - {name: 🇸🇬<新加坡流媒体>-1.75x - 大湾区机场, server: gd.888888.wtf, port: 39533, type: ss, cipher: chacha20-ietf-poly1305, password: 93a1ed28-4846-4a16-94a8-7b511c5cfdb9, udp: true}
-- {name: 🇸🇬 新加坡直连 - 大湾区机场, server: 168.138.183.83, port: 1363, type: ss, cipher: chacha20-ietf-poly1305, password: 93a1ed28-4846-4a16-94a8-7b511c5cfdb9, udp: true}
