@@ -38,7 +38,6 @@ proxy-groups:
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 Hongkong - 番茄云
-  - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰<香港高速>-2x - 大湾区机场
   - 🇹🇼台湾01 - 都是梦
   - 🇹🇼台湾02 - 都是梦
@@ -57,7 +56,6 @@ proxy-groups:
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼 Taiwan 2 - 番茄云
-  - 🇹🇼 Taiwan 3 - 番茄云
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
@@ -66,7 +64,6 @@ proxy-groups:
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
   - 🇸🇬 Singapore - 番茄云
-  - 🇸🇬 Singapore 2 - 番茄云
   - 🇸🇬<新加坡高速>-1.25x - 大湾区机场
   - 🇸🇬<新加坡流媒体>-1.75x - 大湾区机场
   - 🇯🇵日本01 - 都是梦
@@ -123,7 +120,6 @@ proxy-groups:
   - 🇩🇪 Germany - 番茄云
   - 🇦🇺 Sydney - 番茄云
   - 🇹🇷 Turkey - 番茄云
-  - 🇹🇷 Turkey 2 - 番茄云
   - 🇳🇱 Netherlands - 番茄云
   - 🇳🇱 Netherlands 2 - 番茄云
   - 🇫🇷 France - 番茄云
@@ -188,7 +184,6 @@ proxy-groups:
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 Hongkong - 番茄云
-  - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰<香港高速>-2x - 大湾区机场
 - name: 🇹🇼 ‍台湾
   type: url-test
@@ -213,7 +208,6 @@ proxy-groups:
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼 Taiwan 2 - 番茄云
-  - 🇹🇼 Taiwan 3 - 番茄云
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -226,7 +220,6 @@ proxy-groups:
   - 🇭🇰 香港 1 - 西瓜皮是真的皮
   - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 Hongkong - 番茄云
-  - 🇭🇰 Hongkong 2 - 番茄云
   - 🇭🇰<香港高速>-2x - 大湾区机场
   - 🇹🇼台湾01 - 都是梦
   - 🇹🇼台湾02 - 都是梦
@@ -245,7 +238,6 @@ proxy-groups:
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 Taiwan - 番茄云
   - 🇹🇼 Taiwan 2 - 番茄云
-  - 🇹🇼 Taiwan 3 - 番茄云
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -260,7 +252,6 @@ proxy-groups:
   - 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮
   - 🇸🇬 Singapore - 番茄云
-  - 🇸🇬 Singapore 2 - 番茄云
   - 🇸🇬<新加坡高速>-1.25x - 大湾区机场
   - 🇸🇬<新加坡流媒体>-1.75x - 大湾区机场
 - name: 🇯🇵 ‍日本
@@ -335,7 +326,6 @@ proxy-groups:
   - 🇩🇪 Germany - 番茄云
   - 🇦🇺 Sydney - 番茄云
   - 🇹🇷 Turkey - 番茄云
-  - 🇹🇷 Turkey 2 - 番茄云
   - 🇳🇱 Netherlands - 番茄云
   - 🇳🇱 Netherlands 2 - 番茄云
   - 🇫🇷 France - 番茄云
@@ -427,18 +417,16 @@ proxies:
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 9e03ce74-08db-37cc-a6f8-3c7fde3b458a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 Taiwan - 番茄云, server: tw.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇹🇼 Taiwan 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: ff10d0c4-4277-45d2-9b05-ed3720b870de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tw.fanqiecloud.top}}, udp: true}
-- {name: 🇹🇼 Taiwan 3 - 番茄云, server: proxy1.fanqiecloud.top, port: 48889, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇰🇷 South Korea - 番茄云, server: kr.fanqiecloud.top, port: 24954, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇰🇷 South Korea 2 - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: ff10d0c4-4277-45d2-9b05-ed3720b870de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-kr2.fanqiecloud.top}}, udp: true}
-- {name: 🇰🇷 South Korea 3 - 番茄云, server: proxy1.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
-- {name: 🇰🇷 South Korea 4 - 番茄云, server: proxy1.fanqiecloud.top, port: 22252, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
+- {name: 🇰🇷 South Korea 3 - 番茄云, server: kr2.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
+- {name: 🇰🇷 South Korea 4 - 番茄云, server: kr3.fanqiecloud.top, port: 20102, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇨🇦 Canada - 番茄云, server: cf.fanqiecloud.top, port: 22554, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇧🇷 Brazil - 番茄云, server: bx.fanqiecloud.top, port: 20152, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇮🇹 Italy - 番茄云, server: it.fanqiecloud.top, port: 22802, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇩🇪 Germany - 番茄云, server: de.fanqiecloud.top, port: 22302, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇦🇺 Sydney - 番茄云, server: au.fanqiecloud.top, port: 21702, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇹🇷 Turkey - 番茄云, server: dl4.fanqiecloud.top, port: 2086, type: vmess, uuid: ff10d0c4-4277-45d2-9b05-ed3720b870de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-tr.fanqiecloud.top}}, udp: true}
-- {name: 🇹🇷 Turkey 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 20191, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇳🇱 Netherlands - 番茄云, server: dl2.fanqiecloud.top, port: 2086, type: vmess, uuid: ff10d0c4-4277-45d2-9b05-ed3720b870de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nl.fanqiecloud.top}}, udp: true}
 - {name: 🇳🇱 Netherlands 2 - 番茄云, server: dl3.fanqiecloud.top, port: 2052, type: vmess, uuid: ff10d0c4-4277-45d2-9b05-ed3720b870de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nl2.fanqiecloud.top}}, udp: true}
 - {name: 🇫🇷 France - 番茄云, server: dl3.fanqiecloud.top, port: 2086, type: vmess, uuid: ff10d0c4-4277-45d2-9b05-ed3720b870de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-fr2.fanqiecloud.top}}, udp: true}
@@ -447,10 +435,8 @@ proxies:
 - {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 22752, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: ff10d0c4-4277-45d2-9b05-ed3720b870de, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
-- {name: 🇭🇰 Hongkong 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
-- {name: 🇸🇬 Singapore 2 - 番茄云, server: proxy1.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
-- {name: 🇯🇵 Japan - 番茄云, server: proxy1.fanqiecloud.top, port: 26202, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
+- {name: 🇯🇵 Japan - 番茄云, server: jp.fanqiecloud.top, port: 21852, type: ss, cipher: chacha20-ietf-poly1305, password: ff10d0c4-4277-45d2-9b05-ed3720b870de, udp: true}
 - {name: 🇦🇺<澳洲高速>1.25x - 大湾区机场, server: gd.888888.wtf, port: 30058, type: ss, cipher: chacha20-ietf-poly1305, password: 93a1ed28-4846-4a16-94a8-7b511c5cfdb9, udp: true}
 - {name: 🇺🇸<美国0.1倍>-0.1x - 大湾区机场, server: 189GZ01.xn--fiqa108dbd596g538d.com, port: 46402, type: ss, cipher: chacha20-ietf-poly1305, password: 93a1ed28-4846-4a16-94a8-7b511c5cfdb9, udp: true}
 - {name: 🇺🇸<ChatGPT-TK-流媒体>-1x - 大湾区机场, server: gd.888888.wtf, port: 44444, type: ss, cipher: chacha20-ietf-poly1305, password: 93a1ed28-4846-4a16-94a8-7b511c5cfdb9, udp: true}
