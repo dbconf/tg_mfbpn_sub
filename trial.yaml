@@ -367,7 +367,7 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇹🇼台湾01 - 都是梦, server: dl-tw.doushimeng.com, port: 80, type: vmess, uuid: 143bada1-d26a-4cdf-b774-3e592162d77a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tw.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 143bada1-d26a-4cdf-b774-3e592162d77a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
 - {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 48888, type: ss, cipher: chacha20-ietf-poly1305, password: 143bada1-d26a-4cdf-b774-3e592162d77a, udp: true}
 - {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: 143bada1-d26a-4cdf-b774-3e592162d77a, udp: true}
 - {name: 🇰🇷韩国02 - 都是梦, server: dl6.doushimeng.com, port: 80, type: vmess, uuid: 143bada1-d26a-4cdf-b774-3e592162d77a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr.doushimeng.free.hr}}, udp: true}
