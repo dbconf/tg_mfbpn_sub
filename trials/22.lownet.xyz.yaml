@@ -10,9 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -42,8 +40,6 @@ proxy-groups:
 - name: 🤖 ‍OpenAI+Bing
   type: select
   proxies:
-  - 🎏 ‍其他
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
@@ -53,19 +49,9 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id002
-  - gg-1 - fastest
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id002
 proxies:
 - {name: gg-1 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 34e2a0bc-2a16-4131-bd50-182e7950b9a8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: ws, ws-opts: {path: /, headers: {Host: gg.looooooongnet.lol}}, udp: true}
 rules:
