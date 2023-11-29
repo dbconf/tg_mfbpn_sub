@@ -3,7 +3,7 @@ buy  pass
 email  pcpksywyw477@spam4.me
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  195G  1000G  2024-01-21 09:01:40+08:00  (剩余 805G 52 days, 11:22:04.170370)
+sub_info  195G  1000G  2024-01-21 09:01:40+08:00  (剩余 805G 52 days, 11:12:08.360309)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=ae7c5abdc9999cb9f02d2e6bf33ac28c
 time  2023-11-19 21:01:41.708631+08:00
 type  v2board
@@ -15,7 +15,7 @@ email  wwsceyqeg554@gmail.com
 last_checkin  2023-11-29 21:25:47.882994+08:00
 name  西瓜皮是真的皮
 node_n  14
-sub_info  0B  10.14G  2023-11-29 23:25:47+08:00  (剩余 10.14G 1:48:11.328506)
+sub_info  0B  10.14G  2023-11-29 23:25:47+08:00  (剩余 10.14G 1:36:28.744032)
 sub_url  https://go.xiguasuyun.com/link/yxJGTo8Tk162TxpV?sub=3
 time  2023-11-29 21:25:49.643156+08:00
 type  sspanel
@@ -29,6 +29,7 @@ sub_info  0B  10G  2023-12-02 10:05:42+08:00  (剩余 10G 2 days, 12:28:05.75413
 sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=8412b78b1b32f46680d5c975ee9255b5
 time  2023-11-29 10:06:34.899929+08:00
 type  v2board
+更新旧订阅失败  {'message': '未登录或登陆已过期'}
 
 [v2.quanstring.top#大湾区]
 banned_domains  disbox.net  huiyongjun.com  sharklasers.com  bccto.cc  hlblockchain.com  bareed.ws  guerrillamail.com  femailtor.com  psnator.com  mydefipet.live  fc2023888.com  winklelife.com  snapmail.cc  youxiang.dev  moakt.cc  tmpmail.org  smartnator.com  jkd.tmmad.com  teml.net  yzm.de  lista.cc  tmpmail.net  tmail.ws  deomail.top  dijingka.com  uuf.me  hexv.com
@@ -36,12 +37,12 @@ buy  pass
 email  yyhbcdrj916@gmail.com
 name  大湾区机场
 node_n  14
-sub_info  0B  6G  2023-11-29 12:48:59+08:00  (剩余 6G -1 day, 15:11:12.875642)
+sub_info  0B  6G  2023-11-29 12:48:59+08:00  (剩余 6G -1 day, 14:57:26.294525)
 sub_url  https://sub.quanstring.top/api/v1/client/subscribe?token=2de0aef97c60118e23efa4685dbc0da7
 time  2023-11-28 12:48:59.401719+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(znycobnso791@nqmo.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(xzvylurfu820@xxxhi.cc): 邮箱后缀不处于白名单中
 
 [22.lownet.xyz]
 email  hnizeuvi869@guerrillamail.de
@@ -51,12 +52,13 @@ sub_info  0B  50G  2023-12-19 20:29:40+08:00  (剩余 50G 19 days, 22:51:49.8774
 sub_url  https://22.lownet.xyz/api/v1/client/subscribe?token=445f270d9e1b7e95ba63db356fc286b9
 time  2023-11-19 20:29:40.675416+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [cloud.fanqiecloud.top]
 email  pthvfrib42@gmail.com
 name  番茄云
 node_n  22
-sub_info  0B  20G  2023-11-30 18:38:45+08:00  (剩余 20G 21:01:07.917305)
+sub_info  0B  20G  2023-11-30 18:38:45+08:00  (剩余 20G 20:49:27.395589)
 sub_url  https://cloud1.fanqiecloud.top/api/v1/client/subscribe?token=391631aff11cb521042b4ffbbee66d58
 time  2023-11-29 18:38:46.688732+08:00
 type  v2board
@@ -75,30 +77,30 @@ type  v2board
 [云安云.com#云安云]
 name  云安云
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(pcbfeml634@jjnjm.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(jqdneiroj485@huiyongjun.com): {'message': '验证码有误'}
 
 [yingwuyun.top#鹦鹉云]
 buy  pass
-email  nivzblfqs870@gmail.com
+email  vfcnnpi986@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=a8a4c8955c2ddd0270b57d78e85a3133
-time  2023-11-29 21:37:41.107932+08:00
+sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=e462e1ede07bbed3a72eb69cc7dcecf5
+time  2023-11-29 21:49:20.783888+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [yyds.白嫖.net#白嫖]
 name  白嫖机场
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"qfhejlcz625@jkb.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(efhrvngt215@psnator.com): {'message': '验证码有误'}
 
 [xxxu.xyz#xxxu]
 buy  pass
-email  eahlitc7@gmail.com
+email  cemhngv975@gmail.com
 name  AnTu
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=f8b839c44319305166ad3db489c229b9
-time  2023-11-29 21:39:41.477920+08:00
+sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=8b8fddeaaccbd6af4fb20a27b409edfd
+time  2023-11-29 21:49:20.986307+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -107,7 +109,7 @@ email  iputzinf152@gmail.com
 last_checkin  2023-11-29 00:30:14.056303+08:00
 name  海豚云
 node_n  11
-sub_info  1.14G  105.4G  2023-12-20 23:24:19+08:00  (剩余 104.2G 21 days, 1:46:45.467370)
+sub_info  1.14G  105.4G  2023-12-20 23:24:19+08:00  (剩余 104.2G 21 days, 1:35:02.683045)
 sub_url  https://s.haituncloud.vip/link/ZlGDMTzRDH6TNEiL?sub=3
 time  2023-11-20 23:24:21.252384+08:00
 type  sspanel
