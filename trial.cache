@@ -3,7 +3,7 @@ buy  pass
 email  pcpksywyw477@spam4.me
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  195.8G  1000G  2024-01-21 09:01:40+08:00  (剩余 804.2G 48 days, 6:43:36.932350)
+sub_info  195.8G  1000G  2024-01-21 09:01:40+08:00  (剩余 804.2G 48 days, 6:32:00.169366)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=ae7c5abdc9999cb9f02d2e6bf33ac28c
 time  2023-11-19 21:01:41.708631+08:00
 type  v2board
@@ -15,7 +15,7 @@ email  nuatxvfb712@gmail.com
 last_checkin  2023-12-04 02:18:04.033896+08:00
 name  西瓜皮是真的皮
 node_n  14
-sub_info  0B  10.12G  2023-12-04 04:18:03+08:00  (剩余 10.12G 1:59:51.409975)
+sub_info  0B  10.12G  2023-12-04 04:18:03+08:00  (剩余 10.12G 1:48:20.625847)
 sub_url  https://go.xiguasuyun.com/link/nrTil8CAjJDAp8Nw?sub=3
 time  2023-12-04 02:18:06.987996+08:00
 type  sspanel
@@ -25,7 +25,7 @@ buy  pass
 email  mjbkpvk965@gmail.com
 name  都是梦
 node_n  22
-sub_info  0B  10G  2023-12-05 09:59:59+08:00  (剩余 10G 1 day, 7:41:56.638058)
+sub_info  0B  10G  2023-12-05 09:59:59+08:00  (剩余 10G 1 day, 7:30:22.191043)
 sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=e3b7179c2c68e2a455952e8e8e583891
 time  2023-12-02 10:00:53.719014+08:00
 type  v2board
@@ -36,12 +36,12 @@ buy  pass
 email  yyhbcdrj916@gmail.com
 name  大湾区机场
 node_n  14
-sub_info  0B  6G  2023-11-29 12:48:59+08:00  (剩余 6G -5 days, 10:30:48.533504)
+sub_info  0B  6G  2023-11-29 12:48:59+08:00  (剩余 6G -5 days, 10:19:12.078573)
 sub_url  https://sub.quanstring.top/api/v1/client/subscribe?token=2de0aef97c60118e23efa4685dbc0da7
 time  2023-11-28 12:48:59.401719+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(hufpoqz784@kataskopoi.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(trlbyhep853@moakt.co): 邮箱后缀不处于白名单中
 
 [22.lownet.xyz]
 email  hnizeuvi869@guerrillamail.de
@@ -51,12 +51,13 @@ sub_info  0B  50G  2023-12-19 20:29:40+08:00  (剩余 50G 15 days, 18:11:37.5175
 sub_url  https://22.lownet.xyz/api/v1/client/subscribe?token=445f270d9e1b7e95ba63db356fc286b9
 time  2023-11-19 20:29:40.675416+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [cloud.fanqiecloud.top]
 email  nxdnrge194@gmail.com
 name  番茄云
 node_n  24
-sub_info  0B  20G  2023-12-04 16:18:20+08:00  (剩余 20G 14:00:10.689763)
+sub_info  0B  20G  2023-12-04 16:18:20+08:00  (剩余 20G 13:48:40.386062)
 sub_url  https://cloud3.fanqiecloud.top/api/v1/client/subscribe?token=afac0eadfe310a72911f460591033f09
 time  2023-12-03 16:18:20.883532+08:00
 type  v2board
@@ -75,30 +76,30 @@ type  v2board
 [云安云.com#云安云]
 name  云安云
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ppflluvx427@tmpmail.net): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(wevmrbjgh423@xxxhi.cc): {'message': '验证码有误'}
 
 [yingwuyun.top#鹦鹉云]
 buy  pass
-email  fxqidyqad43@gmail.com
+email  lujmnbo820@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=0beb52458d8be8c8a5e63ada5e2685d9
-time  2023-12-04 02:18:08.644577+08:00
+sub_url  https://yingwuyun.vip/api/v1/client/subscribe?token=13109bb00df5deced3e85171b1d06203
+time  2023-12-04 02:29:41.396998+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [yyds.白嫖.net#白嫖]
 name  白嫖机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(oornpjwz894@lyx13.xyz): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(lwybsct807@fc2023888.com): {'message': '验证码有误'}
 
 [xxxu.xyz#xxxu]
 buy  pass
-email  ehnmsqxhr433@gmail.com
+email  ikgbokp326@gmail.com
 name  AnTu
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=ca769f5f8d061cc5600f6f46cdad7034
-time  2023-12-04 02:18:15.852932+08:00
+sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=6fe213f830cd459172ce9d26eb33856d
+time  2023-12-04 02:29:46.344540+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -107,7 +108,7 @@ email  iputzinf152@gmail.com
 last_checkin  2023-12-04 00:33:36.135413+08:00
 name  海豚云
 node_n  11
-sub_info  5.886G  108.3G  2023-12-20 23:24:19+08:00  (剩余 102.4G 16 days, 21:06:17.093184)
+sub_info  5.886G  108.3G  2023-12-20 23:24:19+08:00  (剩余 102.4G 16 days, 20:54:41.147942)
 sub_url  https://s.haituncloud.vip/link/ZlGDMTzRDH6TNEiL?sub=3
 time  2023-11-20 23:24:21.252384+08:00
 type  sspanel
