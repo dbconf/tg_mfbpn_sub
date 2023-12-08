@@ -1,4 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰<香港高速>-2x - 大湾区机场, server: gd.888888.wtf, port: 37244, type: ss, cipher: chacha20-ietf-poly1305, password: 93a1ed28-4846-4a16-94a8-7b511c5cfdb9, udp: true}
+- {name: 🇭🇰<香港-流媒体>-上海 - 大湾区机场, server: 61.171.54.37, port: 31979, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
+- {name: 🇭🇰<香港-高速>-推荐 - 大湾区机场, server: taobao.888888.wtf, port: 14702, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
+- {name: 🇭🇰<香港-流媒体>-苏州 - 大湾区机场, server: 117.82.138.189, port: 25982, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
+- {name: 🇭🇰<香港-上海>-0.3x - 大湾区机场, server: 61.171.54.37, port: 29391, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
+- {name: 🇭🇰<香港>-仅支持iPv6 - 大湾区机场, server: gzv6.jykeji.xyz, port: 26312, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
