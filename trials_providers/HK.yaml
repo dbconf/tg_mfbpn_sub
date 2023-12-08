@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19811, type: vmess, uuid: 70b69b02-6d5d-3e07-9a5a-e3fac5ecb5eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 70b69b02-6d5d-3e07-9a5a-e3fac5ecb5eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19811, type: vmess, uuid: 27554e00-4ac7-34a6-b379-81cc94279868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 27554e00-4ac7-34a6-b379-81cc94279868, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰<香港-流媒体>-上海 - 大湾区机场, server: 61.171.54.37, port: 31979, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
 - {name: 🇭🇰<香港-高速>-推荐 - 大湾区机场, server: taobao.888888.wtf, port: 14702, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
 - {name: 🇭🇰<香港-流媒体>-苏州 - 大湾区机场, server: 117.82.138.189, port: 25982, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
