@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: 100ef007-f98d-3713-9326-12656d533eca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xgxdjs.dx001.top, port: 19862, type: vmess, uuid: 100ef007-f98d-3713-9326-12656d533eca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: 70b69b02-6d5d-3e07-9a5a-e3fac5ecb5eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xgxdjs.dx001.top, port: 19862, type: vmess, uuid: 70b69b02-6d5d-3e07-9a5a-e3fac5ecb5eb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
 - {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20603, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
