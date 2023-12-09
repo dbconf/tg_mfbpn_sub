@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19811, type: vmess, uuid: 346f7a74-6ec6-3e91-9e61-ff87a3a474ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 346f7a74-6ec6-3e91-9e61-ff87a3a474ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19811, type: vmess, uuid: 75abffc2-58df-3fea-b86b-77e6f9c54a3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 75abffc2-58df-3fea-b86b-77e6f9c54a3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰<香港-流媒体>-上海 - 大湾区机场, server: 61.171.54.37, port: 31979, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
 - {name: 🇭🇰<香港-流媒体>-苏州 - 大湾区机场, server: 117.82.138.189, port: 25910, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
 - {name: 🇭🇰<香港>-仅支持iPv6 - 大湾区机场, server: gzv6.jykeji.xyz, port: 26312, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
