@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
-- {name: 🇦🇺澳洲-推荐 - 大湾区机场, server: 103.65.140.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
-- {name: 🇦🇺<澳洲-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 19606, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
-- {name: test - 大湾区机场, server: gdcm.nicebar.xyz, port: 41789, type: ss, cipher: chacha20-ietf-poly1305, password: 0d46d30c-e764-4463-964e-edbbb8d772d3, udp: true}
+- {name: 节点失效，请手动更新。点击刷新按钮 - 大湾区机场, server: 103.229.54.136, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇦🇺澳洲-推荐 - 大湾区机场, server: 103.65.140.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇦🇺<澳洲-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 19606, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: test - 大湾区机场, server: gdcm.nicebar.xyz, port: 41789, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
