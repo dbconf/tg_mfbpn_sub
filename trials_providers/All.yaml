@@ -44,10 +44,11 @@ proxies:
 - {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: 36.139.108.87, port: 37919, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇭🇰<香港流媒体-备用>-2x - 大湾区机场, server: 36.139.108.87, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇸🇬<新加坡-专线>-1.5x - 大湾区机场, server: 36.139.108.87, port: 21646, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: 36.139.108.87, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸<美国-专线>-0.8x - 大湾区机场, server: 36.139.108.87, port: 29815, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇭🇰<香港-流媒体>-上海 - 大湾区机场, server: 61.171.54.37, port: 31979, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇭🇰<香港-流媒体>-苏州 - 大湾区机场, server: 117.82.138.189, port: 25982, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇭🇰<香港-上海>-0.3x - 大湾区机场, server: 61.171.54.37, port: 29391, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇭🇰<香港-上海>-1.75x - 大湾区机场, server: 61.171.54.37, port: 29391, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇸🇬<新加坡-上海>-1.5x - 大湾区机场, server: 61.171.54.37, port: 37778, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇸🇬<新加坡-苏州>-1.5x - 大湾区机场, server: 117.82.138.189, port: 16200, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸<美国-上海> - 大湾区机场, server: 61.171.54.37, port: 53810, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
