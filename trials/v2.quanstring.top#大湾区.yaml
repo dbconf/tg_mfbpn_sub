@@ -26,8 +26,9 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰<香港-专线>1.75x - 大湾区机场
   - 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场
-  - 🇭🇰<香港流媒体-备用>-2x - 大湾区机场
+  - 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场
   - 🇭🇰<香港-流媒体>-上海 - 大湾区机场
   - 🇭🇰<香港-流媒体>-苏州 - 大湾区机场
   - 🇭🇰<香港-上海>-1.75x - 大湾区机场
@@ -37,7 +38,7 @@ proxy-groups:
   - 🇸🇬<新加坡-苏州>-1.5x - 大湾区机场
   - 🇸🇬<新加坡-仅限iPv6> - 大湾区机场
   - 🇺🇸美国-WePC-稳定 - 大湾区机场
-  - 🇺🇸<ChatGPT-TK-流媒体>-0.3x - 大湾区机场
+  - 🇺🇸<ChatGPT-TK-流媒体> - 大湾区机场
   - 🇺🇸<美国-DV专线>-0.8x - 大湾区机场
   - 🇺🇸<美国-专线>-0.8x - 大湾区机场
   - 🇺🇸<美国-上海> - 大湾区机场
@@ -94,8 +95,9 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰<香港-专线>1.75x - 大湾区机场
   - 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场
-  - 🇭🇰<香港流媒体-备用>-2x - 大湾区机场
+  - 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场
   - 🇭🇰<香港-流媒体>-上海 - 大湾区机场
   - 🇭🇰<香港-流媒体>-苏州 - 大湾区机场
   - 🇭🇰<香港-上海>-1.75x - 大湾区机场
@@ -117,7 +119,7 @@ proxy-groups:
   tolerance: 300
   proxies: &id004
   - 🇺🇸美国-WePC-稳定 - 大湾区机场
-  - 🇺🇸<ChatGPT-TK-流媒体>-0.3x - 大湾区机场
+  - 🇺🇸<ChatGPT-TK-流媒体> - 大湾区机场
   - 🇺🇸<美国-DV专线>-0.8x - 大湾区机场
   - 🇺🇸<美国-专线>-0.8x - 大湾区机场
   - 🇺🇸<美国-上海> - 大湾区机场
@@ -153,10 +155,11 @@ proxy-groups:
   proxies: *id005
 proxies:
 - {name: 🇺🇸美国-WePC-稳定 - 大湾区机场, server: 154.7.179.11, port: 7777, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
-- {name: 🇺🇸<ChatGPT-TK-流媒体>-0.3x - 大湾区机场, server: 154.7.179.11, port: 7777, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇺🇸<ChatGPT-TK-流媒体> - 大湾区机场, server: 154.7.179.11, port: 7777, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇦🇺<澳洲-专线>1.25x - 大湾区机场, server: zf.quanstring.top, port: 37208, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇭🇰<香港-专线>1.75x - 大湾区机场, server: zf.quanstring.top, port: 30636, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 37919, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
-- {name: 🇭🇰<香港流媒体-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇸🇬<新加坡-专线>-1.5x - 大湾区机场, server: zf.quanstring.top, port: 21646, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇺🇸<美国-专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 29815, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}

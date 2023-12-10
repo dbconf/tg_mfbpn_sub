@@ -1,8 +1,9 @@
 %YAML 1.1
 ---
 proxies:
+- {name: 🇭🇰<香港-专线>1.75x - 大湾区机场, server: zf.quanstring.top, port: 30636, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 37919, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
-- {name: 🇭🇰<香港流媒体-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-流媒体>-上海 - 大湾区机场, server: 61.171.54.37, port: 31979, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-流媒体>-苏州 - 大湾区机场, server: 117.82.138.189, port: 25982, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-上海>-1.75x - 大湾区机场, server: 61.171.54.37, port: 29391, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
