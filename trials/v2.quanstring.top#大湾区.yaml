@@ -28,6 +28,7 @@ proxy-groups:
   proxies: &id001
   - 🇭🇰<香港-专线>1.75x - 大湾区机场
   - 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场
+  - 🇭🇰<香港-流媒体-专线>2x - 大湾区机场
   - 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场
   - 🇭🇰<香港-流媒体>-上海 - 大湾区机场
   - 🇭🇰<香港-流媒体>-苏州 - 大湾区机场
@@ -97,6 +98,7 @@ proxy-groups:
   proxies: &id002
   - 🇭🇰<香港-专线>1.75x - 大湾区机场
   - 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场
+  - 🇭🇰<香港-流媒体-专线>2x - 大湾区机场
   - 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场
   - 🇭🇰<香港-流媒体>-上海 - 大湾区机场
   - 🇭🇰<香港-流媒体>-苏州 - 大湾区机场
@@ -159,6 +161,7 @@ proxies:
 - {name: 🇦🇺<澳洲-专线>1.25x - 大湾区机场, server: zf.quanstring.top, port: 37208, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-专线>1.75x - 大湾区机场, server: zf.quanstring.top, port: 30636, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 37919, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇭🇰<香港-流媒体-专线>2x - 大湾区机场, server: zf.quanstring.yop, port: 23368, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇸🇬<新加坡-专线>-1.5x - 大湾区机场, server: zf.quanstring.top, port: 21646, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
