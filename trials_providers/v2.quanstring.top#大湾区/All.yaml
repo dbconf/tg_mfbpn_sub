@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇦🇺澳洲-推荐 - 大湾区机场, server: 103.65.140.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸美国-WePC-稳定 - 大湾区机场, server: 154.7.179.11, port: 7777, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸<ChatGPT-TK-流媒体>-0.3x - 大湾区机场, server: 154.7.179.11, port: 7777, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: szdtymharwopbv.sacyun.link, port: 37919, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇭🇰<香港流媒体-备用>-2x - 大湾区机场, server: szdtymharwopbv.sacyun.link, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇸🇬<新加坡-专线>-1.5x - 大湾区机场, server: szdtymharwopbv.sacyun.link, port: 21646, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: szdtymharwopbv.sacyun.link, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇺🇸<美国-专线>-0.8x - 大湾区机场, server: szdtymharwopbv.sacyun.link, port: 29815, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇦🇺<澳洲-专线>1.25x - 大湾区机场, server: zf.quanstring.top, port: 37208, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 37919, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇭🇰<香港流媒体-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇸🇬<新加坡-专线>-1.5x - 大湾区机场, server: zf.quanstring.top, port: 21646, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇺🇸<美国-专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 29815, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇭🇰<香港-流媒体>-上海 - 大湾区机场, server: 61.171.54.37, port: 31979, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇭🇰<香港-流媒体>-苏州 - 大湾区机场, server: 117.82.138.189, port: 25982, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇭🇰<香港-上海>-1.75x - 大湾区机场, server: 61.171.54.37, port: 29391, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
@@ -19,9 +19,9 @@ proxies:
 - {name: 🇺🇸<美国备用> - 大湾区机场, server: SVIPSH01.xn--fiqa108dbd596g538d.com, port: 31210, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇭🇰<香港>-仅支持iPv6 - 大湾区机场, server: gzv6.jykeji.xyz, port: 26312, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇸🇬<新加坡-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 33967, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇦🇺<澳洲-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 19606, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸<美国仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 20765, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: test - 大湾区机场, server: gdcm.nicebar.xyz, port: 41789, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇦🇺<澳洲-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 19606, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸美国直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 516fc9ee-3dcc-44a9-b429-ad07a229d907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸美国-ChatGPT-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 516fc9ee-3dcc-44a9-b429-ad07a229d907, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
+- {name: 🇦🇺澳洲-推荐 - 大湾区机场, server: 103.65.140.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸美国-7950X - 大湾区机场, server: 74.48.126.142, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
