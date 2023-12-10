@@ -8,8 +8,8 @@ proxies:
 - {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20603, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
 - {name: 🇺🇸美国-WePC-稳定 - 大湾区机场, server: 154.7.179.11, port: 7777, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸<ChatGPT-TK-流媒体>-0.3x - 大湾区机场, server: 154.7.179.11, port: 7777, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: 36.139.108.87, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
-- {name: 🇺🇸<美国-专线>-0.8x - 大湾区机场, server: 36.139.108.87, port: 29815, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: szdtymharwopbv.sacyun.link, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
+- {name: 🇺🇸<美国-专线>-0.8x - 大湾区机场, server: szdtymharwopbv.sacyun.link, port: 29815, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸<美国-上海> - 大湾区机场, server: 61.171.54.37, port: 53810, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸<美国-苏州> - 大湾区机场, server: 117.82.138.189, port: 38444, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
 - {name: 🇺🇸<美国备用> - 大湾区机场, server: SVIPSH01.xn--fiqa108dbd596g538d.com, port: 31210, type: ss, cipher: chacha20-ietf-poly1305, password: 516fc9ee-3dcc-44a9-b429-ad07a229d907, udp: true}
