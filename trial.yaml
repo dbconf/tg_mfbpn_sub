@@ -68,7 +68,6 @@ proxy-groups:
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
-  - 🇸🇬<新加坡-专线>-1.5x - 大湾区机场
   - 🇸🇬<新加坡-上海>-1.5x - 大湾区机场
   - 🇸🇬<新加坡-苏州>-1.5x - 大湾区机场
   - 🇸🇬<新加坡-仅限iPv6> - 大湾区机场
@@ -278,7 +277,6 @@ proxy-groups:
   - 🇸🇬新加坡01 - 都是梦
   - 🇸🇬新加坡02 - 都是梦
   - 🇸🇬新加坡03 - 都是梦
-  - 🇸🇬<新加坡-专线>-1.5x - 大湾区机场
   - 🇸🇬<新加坡-上海>-1.5x - 大湾区机场
   - 🇸🇬<新加坡-苏州>-1.5x - 大湾区机场
   - 🇸🇬<新加坡-仅限iPv6> - 大湾区机场
@@ -409,29 +407,28 @@ proxies:
 - {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: e7fe2653-df20-38cf-80f0-5d32e7d9727b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: e7fe2653-df20-38cf-80f0-5d32e7d9727b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: e7fe2653-df20-38cf-80f0-5d32e7d9727b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
-- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇰🇷韩国02 - 都是梦, server: dl6.doushimeng.com, port: 80, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr.doushimeng.free.hr}}, udp: true}
-- {name: 🇰🇷韩国03 - 都是梦, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2s.doushimeng.com}}, udp: true}
-- {name: 🇦🇪迪拜01 - 都是梦, server: db.doushimeng.com, port: 23202, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20603, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇩🇪德国01 - 都是梦, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss.doushimeng.com}}, udp: true}
-- {name: 🇩🇪德国02 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de66s.doushimeng.com}}, udp: true}
-- {name: 🇦🇺澳大利亚01 - 都是梦, server: au.doushimeng.com, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇮🇹意大利01 - 都是梦, server: it.doushimeng.com, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: 34136e09-667c-4bce-a288-24f94580f61b, udp: true}
-- {name: 🇳🇱荷兰01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nlss.nicehand.top}}, udp: true}
-- {name: 🇫🇷法国01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frss.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西01 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1ss.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西02 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss.nicehand.top}}, udp: true}
-- {name: 🇧🇷巴西03 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 34136e09-667c-4bce-a288-24f94580f61b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3ss.doushimeng.com}}, udp: true}
-- {name: 🇸🇬<新加坡-专线>-1.5x - 大湾区机场, server: zf.quanstring.top, port: 21646, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇹🇼台湾01 - 都是梦, server: dl1.doushimeng.com, port: 80, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-tww.doushimeng.com}}, udp: true}
+- {name: 🇹🇼台湾02 - 都是梦, server: tw.doushimeng.com, port: 46661, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇸🇬新加坡02 - 都是梦, server: sgggg.doushimeng.com, port: 20252, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇸🇬新加坡03 - 都是梦, server: sg2.doushimeng.com, port: 20553, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇰🇷韩国02 - 都是梦, server: dl6.doushimeng.com, port: 80, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr.doushimeng.free.hr}}, udp: true}
+- {name: 🇰🇷韩国03 - 都是梦, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-kr2s.doushimeng.com}}, udp: true}
+- {name: 🇦🇪迪拜01 - 都是梦, server: db.doushimeng.com, port: 23202, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
+- {name: 🇺🇸美国03 - 都是梦, server: us.doushimeng.com, port: 20603, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇩🇪德国01 - 都是梦, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss.doushimeng.com}}, udp: true}
+- {name: 🇩🇪德国02 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de66s.doushimeng.com}}, udp: true}
+- {name: 🇦🇺澳大利亚01 - 都是梦, server: au.doushimeng.com, port: 24652, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇮🇹意大利01 - 都是梦, server: it.doushimeng.com, port: 21102, type: ss, cipher: chacha20-ietf-poly1305, password: 09efe079-96cc-4f37-976b-8377e17548cf, udp: true}
+- {name: 🇳🇱荷兰01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nlss.nicehand.top}}, udp: true}
+- {name: 🇫🇷法国01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frss.nicehand.top}}, udp: true}
+- {name: 🇧🇷巴西01 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1ss.nicehand.top}}, udp: true}
+- {name: 🇧🇷巴西02 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss.nicehand.top}}, udp: true}
+- {name: 🇧🇷巴西03 - 都是梦, server: dl3.doushimeng.com, port: 2086, type: vmess, uuid: 09efe079-96cc-4f37-976b-8377e17548cf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx3ss.doushimeng.com}}, udp: true}
 - {name: 🇸🇬<新加坡-上海>-1.5x - 大湾区机场, server: 61.171.54.37, port: 37778, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇸🇬<新加坡-苏州>-1.5x - 大湾区机场, server: 117.82.138.189, port: 16200, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇸🇬<新加坡-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 33967, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
@@ -439,9 +436,9 @@ proxies:
 - {name: 🇺🇸<ChatGPT-TK-流媒体> - 大湾区机场, server: 154.7.179.11, port: 7777, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇦🇺<澳洲-专线>1.25x - 大湾区机场, server: zf.quanstring.top, port: 37208, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-专线>1.75x - 大湾区机场, server: zf.quanstring.top, port: 30636, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
-- {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 37919, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 48783, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-流媒体-专线>2x - 大湾区机场, server: zf.quanstring.top, port: 23368, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
-- {name: 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 25290, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 24042, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇺🇸<美国-专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 29815, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-流媒体>-上海 - 大湾区机场, server: 61.171.54.37, port: 31979, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
