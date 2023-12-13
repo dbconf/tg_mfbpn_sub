@@ -1,8 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19811, type: vmess, uuid: b4ad20d1-4acc-3ad9-af6f-70f91d0fe193, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: b4ad20d1-4acc-3ad9-af6f-70f91d0fe193, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰<香港-专线>1.75x - 大湾区机场, server: zf.quanstring.top, port: 30636, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 24126, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-流媒体-专线>2x - 大湾区机场, server: zf.quanstring.top, port: 23368, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
@@ -11,7 +9,9 @@ proxies:
 - {name: 🇭🇰<香港-流媒体>-苏州 - 大湾区机场, server: 117.82.138.189, port: 25982, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港-上海>-1.75x - 大湾区机场, server: 61.171.54.37, port: 29391, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
 - {name: 🇭🇰<香港>-仅支持iPv6 - 大湾区机场, server: gzv6.jykeji.xyz, port: 26312, type: ss, cipher: chacha20-ietf-poly1305, password: 9a2c407e-3a67-421f-8340-f7e3b5dc086d, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19811, type: vmess, uuid: b4ad20d1-4acc-3ad9-af6f-70f91d0fe193, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: b4ad20d1-4acc-3ad9-af6f-70f91d0fe193, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 4c127bdb-8e37-4394-a997-ff20f83c118f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
 - {name: 🇭🇰 V4-4009|香港|x1.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13004, type: vmess, uuid: 3c2ecc36-911f-3dbb-996c-3881f298ca5e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇭🇰 V4-4010|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13002, type: vmess, uuid: 3c2ecc36-911f-3dbb-996c-3881f298ca5e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇭🇰 V4-4011|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 17002, type: vmess, uuid: 3c2ecc36-911f-3dbb-996c-3881f298ca5e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af483582-6269-468c-93af-c512ec2b1a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇭🇰 Hongkong - 番茄云, server: dl1.fanqiecloud.top, port: 2052, type: vmess, uuid: 4c127bdb-8e37-4394-a997-ff20f83c118f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-hk.fanqiecloud.top}}, udp: true}
