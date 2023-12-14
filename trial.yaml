@@ -406,20 +406,20 @@ proxies:
 - {name: 🇸🇬<新加坡-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 34223, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇦🇺<澳洲-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 19606, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇦🇺澳洲-推荐 - 大湾区机场, server: 103.65.140.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
-- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xgxdjs.dx001.top, port: 19862, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19811, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19831, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 88e7d052-ca8b-350a-8c4a-db9f727e47d3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19861, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: xgxdjs.dx001.top, port: 19862, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19811, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19812, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgxdgz.dx001.top, port: 19831, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19832, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19842, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xchn1.dx001.top, port: 19891, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: a87d4ca3-f0cd-3624-97ce-150cc6be28ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow, server: b11.spwvpn.link, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b11, headers: {Host: b11.spwvpn.link}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow, server: b12.spwvpn.link, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b12, headers: {Host: b12.spwvpn.link}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow, server: b13.spwvpn.link, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b13, headers: {Host: b13.spwvpn.link}}, udp: true}
@@ -964,7 +964,6 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
-- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -2229,7 +2228,6 @@ rules:
 - DOMAIN-SUFFIX,tumbex.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,twdvd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,unsplash.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,buzzsprout.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,eu,✈️ ‍起飞
 - DOMAIN-SUFFIX,hk,✈️ ‍起飞
 - DOMAIN-SUFFIX,jp,✈️ ‍起飞
@@ -2636,7 +2634,6 @@ rules:
 - DOMAIN-SUFFIX,babylonbee.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,backchina.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,backtotiananmen.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,bad.news,✈️ ‍起飞
 - DOMAIN-SUFFIX,badiucao.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,badjojo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,badoo.com,✈️ ‍起飞
@@ -4378,7 +4375,6 @@ rules:
 - DOMAIN-SUFFIX,info-graf.fr,✈️ ‍起飞
 - DOMAIN-SUFFIX,informer.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,initiativesforchina.org,✈️ ‍起飞
-- DOMAIN-SUFFIX,inkbunny.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,inkui.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,inmediahk.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,innermongolia.org,✈️ ‍起飞
@@ -4847,7 +4843,6 @@ rules:
 - DOMAIN-SUFFIX,matrix.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,matsushimakaede.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,matters.news,✈️ ‍起飞
-- DOMAIN-SUFFIX,matters.town,✈️ ‍起飞
 - DOMAIN-SUFFIX,mattwilcox.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,maturejp.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,mayimayi.com,✈️ ‍起飞
@@ -7368,7 +7363,6 @@ rules:
 - DOMAIN-SUFFIX,sb-cd.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,xnxx-cdn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ypncdn.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,fanbox.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,amplitude.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,hockeyapp.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,readdle.com,✈️ ‍起飞
@@ -7434,7 +7428,6 @@ rules:
 - DOMAIN-SUFFIX,zhenguanyu.biz,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhenguanyu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,snapdrop.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,tebex.io,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cn,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--fiqs8s,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--55qx5d,🛩️ ‍墙内
@@ -7482,7 +7475,6 @@ rules:
 - DOMAIN-SUFFIX,aliyuncdn.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyuncs.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyundrive.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,aliyundrive.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amap.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,autonavi.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dingtalk.com,🛩️ ‍墙内
@@ -7756,7 +7748,6 @@ rules:
 - DOMAIN-SUFFIX,biqudu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,biquge.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bitauto.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,bosszhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,c-ctrip.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,camera360.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cdnmama.com,🛩️ ‍墙内
@@ -7960,7 +7951,6 @@ rules:
 - DOMAIN-SUFFIX,zhaopin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhihu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhimg.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,zhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhongsou.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
