@@ -696,7 +696,6 @@ rules:
 - DOMAIN-SUFFIX,zhjfad.com,💩 ‍广告
 - DOMAIN-SUFFIX,zqzxz.com,💩 ‍广告
 - DOMAIN-SUFFIX,zzsx8.com,💩 ‍广告
-- DOMAIN-SUFFIX,wwads.cn,💩 ‍广告
 - DOMAIN-SUFFIX,acuityplatform.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-stir.com,💩 ‍广告
 - DOMAIN-SUFFIX,ad-survey.com,💩 ‍广告
@@ -7166,7 +7165,6 @@ rules:
 - DOMAIN-SUFFIX,zhenguanyu.biz,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhenguanyu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,snapdrop.net,🛩️ ‍墙内
-- DOMAIN-SUFFIX,tebex.io,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cn,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--fiqs8s,🛩️ ‍墙内
 - DOMAIN-SUFFIX,xn--55qx5d,🛩️ ‍墙内
@@ -7214,7 +7212,6 @@ rules:
 - DOMAIN-SUFFIX,aliyuncdn.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyuncs.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,aliyundrive.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,aliyundrive.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,amap.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,autonavi.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dingtalk.com,🛩️ ‍墙内
@@ -7488,7 +7485,6 @@ rules:
 - DOMAIN-SUFFIX,biqudu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,biquge.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,bitauto.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,bosszhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,c-ctrip.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,camera360.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,cdnmama.com,🛩️ ‍墙内
@@ -7692,7 +7688,6 @@ rules:
 - DOMAIN-SUFFIX,zhaopin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhihu.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhimg.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,zhipin.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhongsou.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,zhuihd.com,🛩️ ‍墙内
 - IP-CIDR,8.128.0.0/10,🛩️ ‍墙内,no-resolve
