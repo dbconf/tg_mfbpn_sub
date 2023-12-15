@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: 25b6699c-4381-32b6-b5ac-5c53be469bf0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 25b6699c-4381-32b6-b5ac-5c53be469bf0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgxdsh.dx001.top, port: 19821, type: vmess, uuid: 87f60098-5332-3590-af7f-206b169b0061, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: ct-01.dx001.top, port: 19822, type: vmess, uuid: 87f60098-5332-3590-af7f-206b169b0061, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥1-1 - 麻雀加速器 Sparrow, server: b11.spwvpn.link, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b11, headers: {Host: b11.spwvpn.link}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-2 - 麻雀加速器 Sparrow, server: b12.spwvpn.link, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b12, headers: {Host: b12.spwvpn.link}}, udp: true}
 - {name: 🇹🇼 TW-板桥1-3 - 麻雀加速器 Sparrow, server: b13.ntbq.dynu.net, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b13, headers: {Host: b13.ntbq.dynu.net}}, udp: true}
