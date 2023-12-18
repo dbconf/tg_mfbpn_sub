@@ -53,7 +53,7 @@ proxy-groups:
   - 🇹🇼 TW-板桥2-3(TCP) - 麻雀加速器 Sparrow
   - 🇹🇼 TW-板桥2-4 - 麻雀加速器 Sparrow
   - 🇹🇼 TW-板桥3-6 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-1 - 麻雀加速器 Sparrow
+  - 🇹🇼 TW-台中1-1(TCP) - 麻雀加速器 Sparrow
   - 🇹🇼 TW-台中1-2 - 麻雀加速器 Sparrow
   - 🇹🇼台湾01 - 都是梦
   - 🇹🇼台湾02 - 都是梦
@@ -216,7 +216,7 @@ proxy-groups:
   - 🇹🇼 TW-板桥2-3(TCP) - 麻雀加速器 Sparrow
   - 🇹🇼 TW-板桥2-4 - 麻雀加速器 Sparrow
   - 🇹🇼 TW-板桥3-6 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-1 - 麻雀加速器 Sparrow
+  - 🇹🇼 TW-台中1-1(TCP) - 麻雀加速器 Sparrow
   - 🇹🇼 TW-台中1-2 - 麻雀加速器 Sparrow
   - 🇹🇼台湾01 - 都是梦
   - 🇹🇼台湾02 - 都是梦
@@ -251,7 +251,7 @@ proxy-groups:
   - 🇹🇼 TW-板桥2-3(TCP) - 麻雀加速器 Sparrow
   - 🇹🇼 TW-板桥2-4 - 麻雀加速器 Sparrow
   - 🇹🇼 TW-板桥3-6 - 麻雀加速器 Sparrow
-  - 🇹🇼 TW-台中1-1 - 麻雀加速器 Sparrow
+  - 🇹🇼 TW-台中1-1(TCP) - 麻雀加速器 Sparrow
   - 🇹🇼 TW-台中1-2 - 麻雀加速器 Sparrow
   - 🇹🇼台湾01 - 都是梦
   - 🇹🇼台湾02 - 都是梦
@@ -428,7 +428,7 @@ proxies:
 - {name: 🇹🇼 TW-板桥2-3(TCP) - 麻雀加速器 Sparrow, server: b23.ntbq.dynu.net, port: 2024, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-板桥2-4 - 麻雀加速器 Sparrow, server: nb24.ntbq.dynu.net, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b24, headers: {Host: nb24.ntbq.dynu.net}}, udp: true}
 - {name: 🇹🇼 TW-板桥3-6 - 麻雀加速器 Sparrow, server: nb36.ntbq.dynu.net, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /b36, headers: {Host: nb36.ntbq.dynu.net}}, udp: true}
-- {name: 🇹🇼 TW-台中1-1 - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vbub1, headers: {Host: c11.twtc.dynu.net}}, udp: true}
+- {name: 🇹🇼 TW-台中1-1(TCP) - 麻雀加速器 Sparrow, server: c11.twtc.dynu.net, port: 6743, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 TW-台中1-2 - 麻雀加速器 Sparrow, server: c12.twtc.dynu.net, port: 443, type: vmess, uuid: fe852cc7-919a-4a8d-8583-6f6aafec0fb0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /vbub2, headers: {Host: c12.twtc.dynu.net}}, udp: true}
 - {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 20802, type: ss, cipher: chacha20-ietf-poly1305, password: 745db83e-793b-4a94-b4fd-2a488b9c5436, udp: true}
 - {name: 🇺🇸美国02 - 都是梦, server: dl6.doushimeng.com, port: 2095, type: vmess, uuid: 745db83e-793b-4a94-b4fd-2a488b9c5436, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-usss.doushimeng.com}}, udp: true}
