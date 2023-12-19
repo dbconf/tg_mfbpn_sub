@@ -3,7 +3,7 @@ buy  pass
 email  pcpksywyw477@spam4.me
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  198G  1000G  2024-01-21 09:01:40+08:00  (剩余 802G 32 days, 8:01:44.397974)
+sub_info  198G  1000G  2024-01-21 09:01:40+08:00  (剩余 802G 32 days, 7:45:22.787822)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=ae7c5abdc9999cb9f02d2e6bf33ac28c
 time  2023-11-19 21:01:41.708631+08:00
 type  v2board
@@ -15,7 +15,7 @@ email  qupmzrk127@gmail.com
 last_checkin  2023-12-20 00:36:53.075858+08:00
 name  西瓜皮是真的皮
 node_n  14
-sub_info  0B  10.21G  2023-12-20 01:58:22+08:00  (剩余 10.21G 0:57:59.502712)
+sub_info  0B  10.21G  2023-12-20 01:58:22+08:00  (剩余 10.21G 0:42:05.478984)
 sub_url  https://gocdn.xiguasuyun.com/link/AzWANnWapKBwiJK4?sub=3
 time  2023-12-19 23:58:25.824162+08:00
 type  sspanel
@@ -25,7 +25,7 @@ buy  pass
 email  udvrifjp948@gmail.com
 name  都是梦
 node_n  20
-sub_info  2.825G  10G  2023-12-20 09:32:19+08:00  (剩余 7.175G 8:32:23.146133)
+sub_info  2.825G  10G  2023-12-20 09:32:19+08:00  (剩余 7.175G 8:16:02.840326)
 sub_url  https://dingyue.doushimeng.com/api/v1/client/subscribe?token=cca5ec835ebeb4b61a4ca66115b330cd
 time  2023-12-17 09:33:20.949888+08:00
 type  v2board
@@ -52,12 +52,13 @@ sub_url  https://22.lownet.xyz/api/v1/client/subscribe?token=0e81734abba56e18e91
 time  2023-12-20 01:00:30.305673+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(qtatttjqa9@gmail.com): 注册频繁，请等待 60 分钟后再次尝试
 
 [cloud.fanqiecloud.top]
 email  hdwqelyc285@gmail.com
 name  番茄云
 node_n  25
-sub_info  0B  20G  2023-12-20 09:21:41+08:00  (剩余 20G 8:21:47.107216)
+sub_info  0B  20G  2023-12-20 09:21:41+08:00  (剩余 20G 8:05:18.551449)
 sub_url  https://cloud3.fanqiecloud.top/api/v1/client/subscribe?token=424dcd8ce72656186af27f6cfea06303
 time  2023-12-19 09:21:42.916788+08:00
 type  v2board
@@ -76,30 +77,30 @@ type  v2board
 [云安云.com#云安云]
 name  云安云
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(vwelihhq424@th-gas.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(rbekickx448@jkd.tmmad.com): {'message': '验证码有误'}
 
 [yingwuyun.top#鹦鹉云]
 buy  pass
-email  buormnqyh102@gmail.com
+email  xxwinwov456@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.top/api/v1/client/subscribe?token=32a29429c5d850c4d9f30e2406a74e9e
-time  2023-12-20 00:59:58.771743+08:00
+sub_url  https://yingwuyun.top/api/v1/client/subscribe?token=c3e838a12fec1709fb01e7dce62c419d
+time  2023-12-20 01:16:23.670062+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [yyds.白嫖.net#白嫖]
 name  白嫖机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zjkeqha273@gmail.com): HTTPSConnectionPool(host='yyds.xn--04s765d.net', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f90802f86a0>: Failed to resolve 'yyds.xn--04s765d.net' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(cnferkd620@gmail.com): HTTPSConnectionPool(host='yyds.xn--04s765d.net', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f70b8283c10>: Failed to resolve 'yyds.xn--04s765d.net' ([Errno -2] Name or service not known)"))
 
 [xxxu.xyz#xxxu]
 buy  pass
-email  dpwxkws541@gmail.com
+email  ccmepqoql442@gmail.com
 name  AnTu
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=276ff9901578b187539d761192cea5c6
-time  2023-12-20 01:00:21.014556+08:00
+sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=1ea2bea4a791b64335cd70eab02a04ad
+time  2023-12-20 01:16:21.616359+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -108,7 +109,7 @@ email  iputzinf152@gmail.com
 last_checkin  2023-12-20 00:36:53.079822+08:00
 name  海豚云
 node_n  11
-sub_info  9.869G  116.4G  2023-12-20 23:24:19+08:00  (剩余 106.5G 22:24:21.786243)
+sub_info  9.869G  116.4G  2023-12-20 23:24:19+08:00  (剩余 106.5G 22:08:03.485113)
 sub_url  https://s.haituncloud.vip/link/ZlGDMTzRDH6TNEiL?sub=3
 time  2023-11-20 23:24:21.252384+08:00
 type  sspanel
