@@ -8,6 +8,7 @@ proxies:
 - {name: 🇯🇵<日本-专线>1x - 大湾区机场, server: zf.quanstring.top, port: 21700, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇦🇺<澳洲-专线>1.25x - 大湾区机场, server: zf.quanstring.top, port: 34662, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇭🇰<香港-专线>1.75x - 大湾区机场, server: zf.quanstring.top, port: 30636, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
+- {name: 🇭🇰<香港-专线②>1.75x - 大湾区机场, server: zf.quanstring.top, port: 24126, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 24126, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇭🇰<香港-流媒体-专线>2x - 大湾区机场, server: zf.quanstring.top, port: 23368, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇭🇰<香港-流媒体-专线-备用>-2x - 大湾区机场, server: zf.quanstring.top, port: 48116, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
