@@ -3,7 +3,7 @@ buy  pass
 email  pcpksywyw477@spam4.me
 name  麻雀加速器 Sparrow
 node_n  9
-sub_info  198G  1000G  2024-01-21 09:01:40+08:00  (剩余 802G 31 days, 20:43:18.020980)
+sub_info  198G  1000G  2024-01-21 09:01:40+08:00  (剩余 802G 31 days, 20:31:57.286902)
 sub_url  https://v.spwvpn.com/api/v1/client/subscribe?token=ae7c5abdc9999cb9f02d2e6bf33ac28c
 time  2023-11-19 21:01:41.708631+08:00
 type  v2board
@@ -15,7 +15,7 @@ email  dqigdiig274@gmail.com
 last_checkin  2023-12-20 11:58:41.758515+08:00
 name  西瓜皮是真的皮
 node_n  14
-sub_info  0B  10.12G  2023-12-20 13:58:41+08:00  (剩余 10.12G 1:40:22.069694)
+sub_info  0B  10.12G  2023-12-20 13:58:41+08:00  (剩余 10.12G 1:28:59.097720)
 sub_url  https://gocdn.xiguasuyun.com/link/71JCL6AAUYFik04U?sub=3
 time  2023-12-20 11:58:45.073153+08:00
 type  sspanel
@@ -25,7 +25,7 @@ buy  pass
 email  gccqixrw666@gmail.com
 name  都是梦
 node_n  20
-sub_info  0B  10G  2023-12-23 08:58:38+08:00  (剩余 10G 2 days, 20:40:18.756581)
+sub_info  0B  10G  2023-12-23 08:58:38+08:00  (剩余 10G 2 days, 20:28:56.759826)
 sub_url  https://dingyue.doushimeng.com/api/v1/client/subscribe?token=679dbe09ef304f24480514cd4a153baa
 time  2023-12-20 08:59:41.270009+08:00
 type  v2board
@@ -36,28 +36,27 @@ buy  pass
 email  dquymgsfo275@gmail.com
 name  大湾区机场
 node_n  24
-sub_info  4.507G  100G  2023-12-21 12:23:39+08:00  (剩余 95.49G 1 day, 0:05:19.857813)
+sub_info  4.507G  100G  2023-12-21 12:23:39+08:00  (剩余 95.49G 23:53:53.680337)
 sub_url  https://sub.quanstring.top/api/v1/client/subscribe?token=6d35a49699a359fa9a081e398d8de8ca
 time  2023-12-14 12:23:39.939826+08:00
 type  v2board
 
 [22.lownet.xyz]
 banned_domains  linshiyou.com  smartnator.com
-email  lqmwyod24@tmpmail.net
+email  gveqvfaj936@missac.cc
 name  fastest
 node_n  1
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://22.lownet.xyz/api/v1/client/subscribe?token=ee48f8e7f8539de901f254ed7d08a3c1
-time  2023-12-20 11:18:55.000443+08:00
+sub_url  https://22.lownet.xyz/api/v1/client/subscribe?token=de2f4db4effbbab1cddb5564295c4ce0
+time  2023-12-20 12:29:52.779472+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(kcvymph167@gmail.com): 注册频繁，请等待 60 分钟后再次尝试
 
 [cloud.fanqiecloud.top]
 email  hfysimuwh645@gmail.com
 name  番茄云
 node_n  25
-sub_info  0B  20G  2023-12-21 08:59:41+08:00  (剩余 20G 20:41:19.148485)
+sub_info  0B  20G  2023-12-21 08:59:41+08:00  (剩余 20G 20:30:00.039375)
 sub_url  https://cloud1.fanqiecloud.top/api/v1/client/subscribe?token=c7e7c5671b38503100db611c9f344ddb
 time  2023-12-20 08:59:42.055531+08:00
 type  v2board
@@ -76,30 +75,30 @@ type  v2board
 [云安云.com#云安云]
 name  云安云
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(chmikcekx108@missac.cc): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(aceiuexgz902@end.tw): {'message': '验证码有误'}
 
 [yingwuyun.top#鹦鹉云]
 buy  pass
-email  ietkmkcvg592@gmail.com
+email  rnxlrjkm643@gmail.com
 name  鹦鹉云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yingwuyun.top/api/v1/client/subscribe?token=2e2f8ea52a9ae404aa7b89b57b4d78e8
-time  2023-12-20 12:20:25.421155+08:00
+sub_url  https://yingwuyun.top/api/v1/client/subscribe?token=cb536856bc58c5dbdd07bd34e9dc64ac
+time  2023-12-20 12:29:51.455610+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [yyds.白嫖.net#白嫖]
 name  白嫖机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ysdaank757@gmail.com): HTTPSConnectionPool(host='yyds.xn--04s765d.net', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f16591c92a0>: Failed to resolve 'yyds.xn--04s765d.net' ([Errno -2] Name or service not known)"))
+更新订阅链接/续费续签失败  注册失败(stoqvovb626@gmail.com): HTTPSConnectionPool(host='yyds.xn--04s765d.net', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f57769fbdf0>: Failed to resolve 'yyds.xn--04s765d.net' ([Errno -2] Name or service not known)"))
 
 [xxxu.xyz#xxxu]
 buy  pass
-email  mddvekv220@gmail.com
+email  fitbgrwyv617@gmail.com
 name  AnTu
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=9f969c4ce4a098a9f55b1ae11d7feeff
-time  2023-12-20 12:18:24.316712+08:00
+sub_url  https://xxxu.xyz/api/v1/client/subscribe?token=0133e8c200f5b162b9fd5ced7a8deebc
+time  2023-12-20 12:29:45.133469+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -108,7 +107,7 @@ email  iputzinf152@gmail.com
 last_checkin  2023-12-20 00:36:53.079822+08:00
 name  海豚云
 node_n  11
-sub_info  9.869G  116.4G  2023-12-20 23:24:19+08:00  (剩余 106.5G 11:05:57.228964)
+sub_info  9.869G  116.4G  2023-12-20 23:24:19+08:00  (剩余 106.5G 10:54:34.701042)
 sub_url  https://s.haituncloud.vip/link/ZlGDMTzRDH6TNEiL?sub=3
 time  2023-11-20 23:24:21.252384+08:00
 type  sspanel
