@@ -3,4 +3,6 @@
 proxies:
 - {name: 🇸🇬<新加坡-专线>-1.5x - 大湾区机场, server: zf.quanstring.top, port: 44525, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇸🇬<新加坡-备用专线>-1.5x - 大湾区机场, server: zf.quanstring.top, port: 27214, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
+- {name: 🇸🇬<新加坡-备用> - 大湾区机场, server: 02.svip.xn--fiqa108dbd596g538d.com, port: 40693, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇸🇬<新加坡-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 34223, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
+- {name: 🇸🇬 新加坡-AK - 大湾区机场, server: 185.225.20.244, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}

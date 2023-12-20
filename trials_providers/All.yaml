@@ -16,7 +16,8 @@ proxies:
 - {name: 🇺🇸<美国-DV专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 41800, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇺🇸<美国-专线>-0.8x - 大湾区机场, server: zf.quanstring.top, port: 29815, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇯🇵<日本-备用> - 大湾区机场, server: 02.svip.xn--fiqa108dbd596g538d.com, port: 50803, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
-- {name: 🇺🇸<美国-上海1> - 大湾区机场, server: 02.svip.xn--fiqa108dbd596g538d.com, port: 31294, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
+- {name: 🇸🇬<新加坡-备用> - 大湾区机场, server: 02.svip.xn--fiqa108dbd596g538d.com, port: 40693, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
+- {name: 🇺🇸<美国-备用> - 大湾区机场, server: 02.svip.xn--fiqa108dbd596g538d.com, port: 31294, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇭🇰<香港>-仅支持iPv6 - 大湾区机场, server: gzv6.jykeji.xyz, port: 26312, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇯🇵<日本-仅支持iPv6 - 大湾区机场, server: gzv6.jykeji.xyz, port: 22120, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇸🇬<新加坡-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 34223, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
@@ -25,6 +26,7 @@ proxies:
 - {name: 🇺🇸美国直连-联通推荐 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 17703a61-4f4f-4e95-b433-43864dca6f17, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇺🇸美国-ChatGPT-1 倍 - 大湾区机场, server: 74.48.98.249, port: 8080, type: vmess, uuid: 17703a61-4f4f-4e95-b433-43864dca6f17, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: '/quanstring?ed=2048', headers: {Host: us.quanstring.top}}, udp: true}
 - {name: 🇦🇺澳洲-推荐 - 大湾区机场, server: 103.65.140.59, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
+- {name: 🇸🇬 新加坡-AK - 大湾区机场, server: 185.225.20.244, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇺🇸美国-7950X - 大湾区机场, server: 74.48.126.142, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: a92f6851-b8ca-3791-bf78-7ff0098995b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: a92f6851-b8ca-3791-bf78-7ff0098995b3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
