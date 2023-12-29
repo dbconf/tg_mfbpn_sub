@@ -112,7 +112,6 @@ proxy-groups:
   - 🇰🇷韩国01 - 都是梦
   - 🇩🇪德国01 - 都是梦
   - 🇳🇱荷兰01 - 都是梦
-  - 待启用 - 都是梦
   - 🇧🇷巴西01 - 都是梦
   - 🇰🇷 South Korea - 番茄云
   - 🇰🇷 South Korea 2 - 番茄云
@@ -329,7 +328,6 @@ proxy-groups:
   - 🇰🇷韩国01 - 都是梦
   - 🇩🇪德国01 - 都是梦
   - 🇳🇱荷兰01 - 都是梦
-  - 待启用 - 都是梦
   - 🇧🇷巴西01 - 都是梦
   - 🇰🇷 South Korea - 番茄云
   - 🇰🇷 South Korea 2 - 番茄云
@@ -433,7 +431,6 @@ proxies:
 - {name: 🇰🇷韩国01 - 都是梦, server: kr.doushimeng.com, port: 22903, type: ss, cipher: chacha20-ietf-poly1305, password: b3229789-5918-428b-abad-28c5b341d388, udp: true}
 - {name: 🇩🇪德国01 - 都是梦, server: dl3.doushimeng.com, port: 2082, type: vmess, uuid: b3229789-5918-428b-abad-28c5b341d388, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de2ss2.doushimeng.com}}, udp: true}
 - {name: 🇳🇱荷兰01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: b3229789-5918-428b-abad-28c5b341d388, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-nlsss2.nicehand.top}}, udp: true}
-- {name: 待启用 - 都是梦, server: dl1.doushimeng.com, port: 2086, type: vmess, uuid: b3229789-5918-428b-abad-28c5b341d388, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx1ss0.nicehand.top}}, udp: true}
 - {name: 🇧🇷巴西01 - 都是梦, server: dl1x.doushimeng.com, port: 80, type: vmess, uuid: b3229789-5918-428b-abad-28c5b341d388, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /uziiii, headers: {Host: cf-bx2ss0.nicehand.top}}, udp: true}
 - {name: 🇺🇸 America - 番茄云, server: us.fanqiecloud.top, port: 38502, type: ss, cipher: chacha20-ietf-poly1305, password: f287e704-8aa0-4c75-a025-2187d6b79d5b, udp: true}
 - {name: 🇺🇸 America 2 - 番茄云, server: us2.fanqiecloud.top, port: 23552, type: ss, cipher: chacha20-ietf-poly1305, password: f287e704-8aa0-4c75-a025-2187d6b79d5b, udp: true}
