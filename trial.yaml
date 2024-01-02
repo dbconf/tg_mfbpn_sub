@@ -129,6 +129,7 @@ proxy-groups:
   - 🇳🇱 Netherlands - 番茄云
   - 🇮🇳 India - 番茄云
   - 🇦🇪 Dubai - 番茄云
+  - 🇪🇸 Spain - 番茄云
   - gg-1 - fastest
 - name: 🛩️ ‍墙内
   type: select
@@ -346,6 +347,7 @@ proxy-groups:
   - 🇳🇱 Netherlands - 番茄云
   - 🇮🇳 India - 番茄云
   - 🇦🇪 Dubai - 番茄云
+  - 🇪🇸 Spain - 番茄云
   - gg-1 - fastest
 - name: 👆🏻 ‍指定
   type: select
@@ -457,6 +459,7 @@ proxies:
 - {name: 🇳🇱 Netherlands - 番茄云, server: dl2.fanqiecloud.top, port: 2086, type: vmess, uuid: 501d804b-2ac6-4b1e-a5f9-99fd85c94857, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-nl.fanqiecloud.top}}, udp: true}
 - {name: 🇮🇳 India - 番茄云, server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: 501d804b-2ac6-4b1e-a5f9-99fd85c94857, udp: true}
 - {name: 🇦🇪 Dubai - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: 501d804b-2ac6-4b1e-a5f9-99fd85c94857, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-db.fanqiecloud.top}}, udp: true}
+- {name: 🇪🇸 Spain - 番茄云, server: dl1.fanqiecloud.top, port: 2086, type: vmess, uuid: 501d804b-2ac6-4b1e-a5f9-99fd85c94857, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /sssddd, headers: {Host: cf-sby.fanqiecloud.top}}, udp: true}
 - {name: gg-1 - fastest, server: gg.looooooongnet.lol, port: 443, type: vmess, uuid: 34e2a0bc-2a16-4131-bd50-182e7950b9a8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: gg.looooooongnet.lol, network: ws, ws-opts: {path: /, headers: {Host: gg.looooooongnet.lol}}, udp: true}
 - {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11301, type: vmess, uuid: ba4a4051-6107-3c09-bad4-038aebcb18f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11302, type: vmess, uuid: ba4a4051-6107-3c09-bad4-038aebcb18f3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
