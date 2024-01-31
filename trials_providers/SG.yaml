@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 3ad32f0e-e771-4d1a-97d3-bd75d8901a63, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 2b4a1472-4160-4f09-941a-8f28520a4862, udp: true}
-- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12001, type: vmess, uuid: b97bbc0d-375b-3c87-9493-2ea447e12322, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12002, type: vmess, uuid: b97bbc0d-375b-3c87-9493-2ea447e12322, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 92f10837-74e2-3f9f-9892-f806a3d51d99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 92f10837-74e2-3f9f-9892-f806a3d51d99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 Netflix  - 西瓜皮是真的皮, server: cm-01.dx001.top, port: 19841, type: vmess, uuid: 02301ffd-4bf0-35c9-8e2a-d5432e2859ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 Netflix - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19842, type: vmess, uuid: 02301ffd-4bf0-35c9-8e2a-d5432e2859ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬<新加坡-专线>-1.5x - 大湾区机场, server: zf.quanstring.top, port: 44525, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇸🇬<新加坡-备用专线>-1.5x - 大湾区机场, server: zf.quanstring.top, port: 27214, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇸🇬<新加坡-备用> - 大湾区机场, server: 02.svip.xn--fiqa108dbd596g538d.com, port: 40693, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇸🇬<新加坡-仅限iPv6> - 大湾区机场, server: gzv6.jykeji.xyz, port: 34223, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇸🇬 新加坡-AK - 大湾区机场, server: 185.225.20.244, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
+- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12001, type: vmess, uuid: b97bbc0d-375b-3c87-9493-2ea447e12322, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12002, type: vmess, uuid: b97bbc0d-375b-3c87-9493-2ea447e12322, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 2b4a1472-4160-4f09-941a-8f28520a4862, udp: true}
+- {name: 🇸🇬 Singapore - 番茄云, server: sg.fanqiecloud.top, port: 24352, type: ss, cipher: chacha20-ietf-poly1305, password: 3ad32f0e-e771-4d1a-97d3-bd75d8901a63, udp: true}
