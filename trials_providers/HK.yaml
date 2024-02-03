@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: a0e8a371-5416-3ecd-991a-92094927ac35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: a0e8a371-5416-3ecd-991a-92094927ac35, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 317d9259-769c-307e-ae21-3acaf088de8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 317d9259-769c-307e-ae21-3acaf088de8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰<香港-专线>1.75x - 大湾区机场, server: zf.quanstring.top, port: 30636, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇭🇰<香港-专线②>1.75x - 大湾区机场, server: zf.quanstring.top, port: 24126, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
 - {name: 🇭🇰-<香港-备用专线>-1.75x - 大湾区机场, server: zf.quanstring.top, port: 24126, type: ss, cipher: chacha20-ietf-poly1305, password: 17703a61-4f4f-4e95-b433-43864dca6f17, udp: true}
