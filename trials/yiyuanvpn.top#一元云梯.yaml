@@ -12,25 +12,34 @@ proxy-groups:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - SG
-  - JP
-  - US
-  - p_All_Other
+  proxies: &id001
+  - 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯
+  - 【高级】🇭🇰 香港1|中转|VMESS - 一元云梯
+  - 【高级】🇭🇰 香港2|中转|VMESS - 一元云梯
+  - 【高级】🇭🇰 香港3|中转|VMESS - 一元云梯
+  - 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯
+  - 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯
+  - 【高级】🇺🇸 美国|中转|VMESS - 一元云梯
+  - 【中级】🇰🇷 韩国|CND|VMESS - 一元云梯
+  - 【中级】🇬🇧 英国|CDN|VMESS - 一元云梯
+  - 【高级】🇰🇷 韩国|中转|VMESS - 一元云梯
+  - 【高级】🇬🇧 英国|中转|VMESS - 一元云梯
+  - 【高级】🇩🇪 德国|中转|VMESS - 一元云梯
+  - 【高级】🇮🇳 印度|中转|VMESS - 一元云梯
+  - 【高级】🇦🇺 澳洲|中转|VMESS - 一元云梯
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -59,10 +68,8 @@ proxy-groups:
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
   - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -73,93 +80,72 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯
+  - 【高级】🇭🇰 香港1|中转|VMESS - 一元云梯
+  - 【高级】🇭🇰 香港2|中转|VMESS - 一元云梯
+  - 【高级】🇭🇰 香港3|中转|VMESS - 一元云梯
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - SG
-- name: 🇯🇵 ‍日本
-  type: url-test
-  tolerance: 100
-  use: &id004
-  - JP
+  proxies: &id003
+  - 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id005
-  - US
+  proxies: &id004
+  - 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯
+  - 【高级】🇺🇸 美国|中转|VMESS - 一元云梯
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id006
-  - p_All_Other
+  proxies: &id005
+  - 【中级】🇰🇷 韩国|CND|VMESS - 一元云梯
+  - 【中级】🇬🇧 英国|CDN|VMESS - 一元云梯
+  - 【高级】🇰🇷 韩国|中转|VMESS - 一元云梯
+  - 【高级】🇬🇧 英国|中转|VMESS - 一元云梯
+  - 【高级】🇩🇪 德国|中转|VMESS - 一元云梯
+  - 【高级】🇮🇳 印度|中转|VMESS - 一元云梯
+  - 【高级】🇦🇺 澳洲|中转|VMESS - 一元云梯
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id003
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  use: *id004
+  proxies: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id005
+  proxies: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id006
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/HK.yaml
-    interval: 180
-    path: trials_providers/v2.quanstring.top#大湾区/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/SG.yaml
-    interval: 180
-    path: trials_providers/v2.quanstring.top#大湾区/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/JP.yaml
-    interval: 180
-    path: trials_providers/v2.quanstring.top#大湾区/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/US.yaml
-    interval: 180
-    path: trials_providers/v2.quanstring.top#大湾区/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/v2.quanstring.top#大湾区/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/v2.quanstring.top#大湾区/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id005
+proxies:
+- {name: 【中级】🇰🇷 韩国|CND|VMESS - 一元云梯, server: cf-cdn.996699.top, port: 2082, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-kr-20240201.bzqcmi.top}}, udp: true}
+- {name: 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯, server: cf-cdn.996699.top, port: 2082, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-20240201.bzqcmi.top}}, udp: true}
+- {name: 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯, server: cf-cdn.996699.top, port: 2082, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-us-20240201.bzqcmi.top}}, udp: true}
+- {name: 【中级】🇬🇧 英国|CDN|VMESS - 一元云梯, server: cf-cdn.996699.top, port: 2082, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-uk-20240201.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇰🇷 韩国|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-kr-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇺🇸 美国|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-us-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇬🇧 英国|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-uk-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇩🇪 德国|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-de-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇭🇰 香港1|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇭🇰 香港2|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇭🇰 香港3|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-zzhk-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇮🇳 印度|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-in-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇦🇺 澳洲|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-au-202402.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: a820074f-d563-4729-9d31-d3547fe95a18, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-sg-202402.bzqcmi.top}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -203,10 +189,13 @@ rules:
 - DOMAIN,j.7.cr,🛩️ ‍墙内
 - DOMAIN,n.7.cr,🛩️ ‍墙内
 - DOMAIN,r.7.cr,🛩️ ‍墙内
+- DOMAIN,api.v1.mk,🛩️ ‍墙内
 - DOMAIN,api.dler.io,🛩️ ‍墙内
 - DOMAIN,api.subcsub.com,🛩️ ‍墙内
 - DOMAIN,api.tsutsu.one,🛩️ ‍墙内
 - DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,fgit.cf,🛩️ ‍墙内
+- DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
@@ -226,6 +215,15 @@ rules:
 - DOMAIN,rewards.hypixel.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,koodomobile.ca,🛩️ ‍墙内
+- DOMAIN-SUFFIX,sigmob.cn,💩 ‍广告
+- DOMAIN,open.e.kuaishou.com,💩 ‍广告
+- DOMAIN,open.e.kuaishou.cn,💩 ‍广告
+- DOMAIN-SUFFIX,adkwai.com,💩 ‍广告
+- DOMAIN-SUFFIX,adukwai.com,💩 ‍广告
+- DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,💩 ‍广告
+- DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
+- DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
+- DOMAIN,api.juliangcili.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
@@ -1869,8 +1867,10 @@ rules:
 - DOMAIN-SUFFIX,bigfunapp.cn,📺 ‍B站
 - DOMAIN-SUFFIX,biliapi.com,📺 ‍B站
 - DOMAIN-SUFFIX,biliapi.net,📺 ‍B站
+- DOMAIN-SUFFIX,bilibili.co,📺 ‍B站
 - DOMAIN-SUFFIX,biligame.com,📺 ‍B站
 - DOMAIN-SUFFIX,biligame.net,📺 ‍B站
+- DOMAIN-SUFFIX,biliintl.co,📺 ‍B站
 - DOMAIN-SUFFIX,bilivideo.cn,📺 ‍B站
 - DOMAIN-SUFFIX,bilivideo.com,📺 ‍B站
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
@@ -2570,6 +2570,7 @@ rules:
 - DOMAIN-SUFFIX,caijinglengyan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calameo.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calebelston.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,calendarz.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calgarychinese.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,calgarychinese.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,calibre-ebook.com,✈️ ‍起飞
@@ -2822,6 +2823,7 @@ rules:
 - DOMAIN-SUFFIX,comefromchina.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,comic-mega.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,commandarms.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,comments.app,✈️ ‍起飞
 - DOMAIN-SUFFIX,commentshk.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,communistcrimes.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,communitychoicecu.com,✈️ ‍起飞
@@ -3552,6 +3554,7 @@ rules:
 - DOMAIN-SUFFIX,geekheart.info,✈️ ‍起飞
 - DOMAIN-SUFFIX,gekikame.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gelbooru.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,generated.photos,✈️ ‍起飞
 - DOMAIN-SUFFIX,genius.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,geocities.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,geph.io,✈️ ‍起飞
@@ -3672,9 +3675,9 @@ rules:
 - DOMAIN-SUFFIX,grammaly.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,grandtrial.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,grangorz.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,graph.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,graphql.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,gravatar.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,greasespot.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,great-firewall.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,great-roc.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,greatfire.org,✈️ ‍起飞
@@ -3933,6 +3936,8 @@ rules:
 - DOMAIN-SUFFIX,hudatoriq.web.id,✈️ ‍起飞
 - DOMAIN-SUFFIX,hudson.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,huffingtonpost.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,huffpost.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,huggingface.co,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhaitai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhamhire.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,huhangfei.com,✈️ ‍起飞
@@ -4947,6 +4952,7 @@ rules:
 - DOMAIN-SUFFIX,oauth.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,observechina.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,obutu.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,obyte.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,ocaspro.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,occupytiananmen.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ocreampies.com,✈️ ‍起飞
@@ -5255,6 +5261,7 @@ rules:
 - DOMAIN-SUFFIX,pshvpn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,psiphon3.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,psiphontoday.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,pstatic.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,pt.im,✈️ ‍起飞
 - DOMAIN-SUFFIX,ptt.cc,✈️ ‍起飞
 - DOMAIN-SUFFIX,pttgame.com,✈️ ‍起飞
@@ -5305,6 +5312,7 @@ rules:
 - DOMAIN-SUFFIX,questvisual.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,quitccp.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,quitccp.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,quiz.directory,✈️ ‍起飞
 - DOMAIN-SUFFIX,quora.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,quoracdn.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,quran.com,✈️ ‍起飞
@@ -5976,6 +5984,7 @@ rules:
 - DOMAIN-SUFFIX,thomasbernhard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,thongdreams.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,threadreaderapp.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,threads.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,threatchaos.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,throughnightsfire.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,thumbzilla.com,✈️ ‍起飞
@@ -6537,6 +6546,7 @@ rules:
 - DOMAIN-SUFFIX,wav.tv,✈️ ‍起飞
 - DOMAIN-SUFFIX,waveprotocol.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,waymo.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,wd.bible,✈️ ‍起飞
 - DOMAIN-SUFFIX,wdf5.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wearehairy.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wearn.com,✈️ ‍起飞
@@ -6642,12 +6652,12 @@ rules:
 - DOMAIN-SUFFIX,witopia.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wizcrafts.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wjbk.org,✈️ ‍起飞
+- DOMAIN-SUFFIX,wmflabs.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wn.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wnacg.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wnacg.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wo.tc,✈️ ‍起飞
 - DOMAIN-SUFFIX,woeser.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,woesermiddle-way.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,wokar.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,wolfax.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,wombo.ai,✈️ ‍起飞
@@ -6792,6 +6802,7 @@ rules:
 - DOMAIN-SUFFIX,yam.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yande.re,✈️ ‍起飞
 - DOMAIN-SUFFIX,yandex.com,✈️ ‍起飞
+- DOMAIN-SUFFIX,yandex.ru,✈️ ‍起飞
 - DOMAIN-SUFFIX,yanghengjun.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yangjianli.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,yayabay.com,✈️ ‍起飞
