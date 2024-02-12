@@ -261,10 +261,10 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 35652, type: ss, cipher: chacha20-ietf-poly1305, password: 6d3668f5-2a96-406a-84fa-c932be52515c, udp: true}
-- {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 6d3668f5-2a96-406a-84fa-c932be52515c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de10.doushimeng.com}}, udp: true}
-- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 6d3668f5-2a96-406a-84fa-c932be52515c, udp: true}
-- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 6d3668f5-2a96-406a-84fa-c932be52515c, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 35652, type: ss, cipher: chacha20-ietf-poly1305, password: 1c6b5114-aa8c-41b6-9ecd-f86e0c527fe3, udp: true}
+- {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 1c6b5114-aa8c-41b6-9ecd-f86e0c527fe3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de10.doushimeng.com}}, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 21853, type: ss, cipher: chacha20-ietf-poly1305, password: 1c6b5114-aa8c-41b6-9ecd-f86e0c527fe3, udp: true}
+- {name: 🇸🇬新加坡01 - 都是梦, server: sg3.doushimeng.com, port: 20053, type: ss, cipher: chacha20-ietf-poly1305, password: 1c6b5114-aa8c-41b6-9ecd-f86e0c527fe3, udp: true}
 - {name: 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 29811, type: vmess, uuid: f3b4f905-ce58-3837-b79e-9a9ad570ffd7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮, server: wk-ct1.dx001.top, port: 19862, type: vmess, uuid: f3b4f905-ce58-3837-b79e-9a9ad570ffd7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: f3b4f905-ce58-3837-b79e-9a9ad570ffd7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
