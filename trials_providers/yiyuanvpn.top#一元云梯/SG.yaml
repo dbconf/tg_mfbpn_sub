@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 1a6befa3-575b-4961-86da-06bd97052647, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-sg-2024.bzqcmi.top}}, udp: true}
+- {name: 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 35417e8f-0767-4bc3-975d-29ad5469f805, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-sg-2024.bzqcmi.top}}, udp: true}
