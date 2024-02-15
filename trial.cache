@@ -1,13 +1,13 @@
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  velkosio171@gmail.com
-last_checkin  2024-02-16 04:38:30.356411+08:00
+email  rncflih915@gmail.com
+last_checkin  2024-02-16 05:46:41.309476+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  9.343G  10.13G  2024-02-16 06:38:30+08:00  (剩余 807.3M 1:06:30.687675)
-sub_url  https://a.dx035.top/link/zqURXiQEiTD788C6?sub=3
-time  2024-02-16 04:38:38.688630+08:00
+sub_info  0B  10.12G  2024-02-16 07:46:41+08:00  (剩余 10.12G 1:59:48.735356)
+sub_url  https://a.dx035.top/link/HPEvgxEhclcs4PRW?sub=3
+time  2024-02-16 05:46:50.283123+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
@@ -15,10 +15,11 @@ buy  pass
 email  hzloacigz595@gmail.com
 name  都是梦
 node_n  4
-sub_info  0B  10G  2024-02-19 04:36:55+08:00  (剩余 10G 2 days, 23:05:33.037830)
+sub_info  433.3M  10G  2024-02-19 04:36:55+08:00  (剩余 9.577G 2 days, 22:50:14.498975)
 sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=5a8487bc6698353a2c0c4d71fec850cc
 time  2024-02-16 04:38:26.725813+08:00
 type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [my.bfhk.xyz]
 buy  pass
@@ -37,20 +38,21 @@ email  hoyekvx811@gmail.com
 last_checkin  2024-02-16 05:19:42.913373+08:00
 name  海豚云
 node_n  11
-sub_info  0B  100.2G  2024-03-17 05:19:42+08:00  (剩余 100.2G 29 days, 23:48:23.293845)
+sub_info  3.287G  100.2G  2024-03-17 05:19:42+08:00  (剩余 96.94G 29 days, 23:31:02.671149)
 sub_url  https://s.haituncloud.vip/link/iQw442AwX6Slh9cV?sub=3
 time  2024-02-16 05:19:44.191130+08:00
 type  sspanel
 
 [yiyuanvpn.top#一元云梯]
 buy  pass
-email  cvidckyb858@gmail.com
+email  jznumpvvs187@gmail.com
 name  一元云梯
 node_n  21
 sub_info  0B  1G  2024-02-16 06:31:27+08:00  (剩余 1G 0:59:10.837342)
-sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=5de19370fc3b28b72995639ba58be188
-time  2024-02-16 05:31:27.861973+08:00
+sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=9b2a2579bfa6438b275cd0d6e2fb2c93
+time  2024-02-16 05:48:43.976287+08:00
 type  v2board
+保存订阅信息失败  could not convert string to float: '1;'
 
 [www.yongdong.xyz#永动机]
 
@@ -59,7 +61,7 @@ buy  pass
 email  cdejexi164@gmail.com
 name  可乐云
 node_n  3
-sub_info  6.871G  10G  2024-02-19 04:38:26+08:00  (剩余 3.129G 2 days, 23:06:59.261908)
+sub_info  6.871G  10G  2024-02-19 04:38:26+08:00  (剩余 3.129G 2 days, 22:51:42.420980)
 sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=420c9a41760d2381b067bc893d40ba85
 time  2024-02-16 04:38:26.825765+08:00
 type  v2board
