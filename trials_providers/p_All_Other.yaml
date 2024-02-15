@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 4d3138d7-c82c-402b-8160-bc8db31d04fc, udp: true}
+- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 354653f1-c287-4b67-ad66-c59005ffe4ae, udp: true}
 - {name: ℹ 网址：m08.yiyuanvpn.top - 一元云梯, server: yyyt-sub.996699.top, port: 20012, type: vmess, uuid: 91e3e099-9cb6-4f36-817c-efce0fc2052c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-20240211.bzqcmi.top}}, udp: true}
 - {name: ℹ 【中文地址】一元云梯.top - 一元云梯, server: yyyt-sub.996699.top, port: 20012, type: vmess, uuid: 91e3e099-9cb6-4f36-817c-efce0fc2052c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-20240211.bzqcmi.top}}, udp: true}
 - {name: ℹ 【英文地址】yiyuanvpn.top - 一元云梯, server: yyyt-sub.996699.top, port: 20012, type: vmess, uuid: 91e3e099-9cb6-4f36-817c-efce0fc2052c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-20240211.bzqcmi.top}}, udp: true}
