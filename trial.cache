@@ -5,17 +5,18 @@ email  wahhvoz662@gmail.com
 last_checkin  2024-02-17 00:37:25.014233+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-02-17 02:37:24+08:00  (剩余 10.1G 1:37:06.023481)
+sub_info  4.202G  10.1G  2024-02-17 02:37:24+08:00  (剩余 5.901G 1:19:21.727514)
 sub_url  https://a.dx035.top/link/1VctihomBFaAnrli?sub=3
 time  2024-02-17 00:37:36.163793+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
 email  qwmpvwp654@gmail.com
 name  都是梦
 node_n  4
-sub_info  0B  10G  2024-02-20 00:35:55+08:00  (剩余 10G 2 days, 23:35:34.190214)
+sub_info  5.361G  10G  2024-02-20 00:35:55+08:00  (剩余 4.639G 2 days, 23:17:51.983377)
 sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=a0cb681a1b07d88f14bbd2767b0fa8e9
 time  2024-02-17 00:37:27.325646+08:00
 type  v2board
@@ -37,12 +38,13 @@ email  ejixbbhur272@gmail.com
 last_checkin  2024-02-17 00:39:27.652715+08:00
 name  海豚云
 node_n  11
-sub_info  0B  100.5G  2024-03-18 00:39:27+08:00  (剩余 100.5G 29 days, 23:38:28.250179)
+sub_info  5.068G  100.5G  2024-03-18 00:39:27+08:00  (剩余 95.4G 29 days, 23:21:24.527766)
 sub_url  https://s.haituncloud.vip/link/WgpfPkXXmPgA5Uwo?sub=3
 time  2024-02-17 00:39:29.061960+08:00
 type  sspanel
 
 [yiyuanvpn.top#一元云梯]
+banned_domains  smartnator.com
 buy  pass
 email  maumwskh150@gmail.com
 name  一元云梯
@@ -52,16 +54,16 @@ sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=008f7dc7a2ecb6
 time  2024-02-17 00:01:19.723264+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(tftwjtblw196@tmails.net): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱验证码超时(srgegled301@smartnator.com)
 
 [www.yongdong.xyz#永动机]
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  migqsoeyu420@gmail.com
+email  tyvldwkd394@gmail.com
 name  可乐云
 node_n  3
-sub_info  6.72G  10G  2024-02-20 00:23:08+08:00  (剩余 3.28G 2 days, 23:22:47.336300)
-sub_url  https://cloud4.colacloud.site/api/v1/client/subscribe?token=1983c1ffd322c2e3f79c848b22abec60
-time  2024-02-17 00:23:09.304045+08:00
+sub_info  0B  10G  2024-02-20 01:18:03+08:00  (剩余 10G 2 days, 23:59:55.758578)
+sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=2538abe1a4bbbadfb79d1654281862f8
+time  2024-02-17 01:18:03.988777+08:00
 type  v2board
