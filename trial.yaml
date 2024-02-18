@@ -64,7 +64,6 @@ proxy-groups:
   - 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯
   - 【中级】🇺🇸 美国|临时节点 - 一元云梯
   - 【高级】🇺🇸 美国|中转|VMESS - 一元云梯
-  - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
@@ -215,7 +214,6 @@ proxy-groups:
   - 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯
   - 【中级】🇺🇸 美国|临时节点 - 一元云梯
   - 【高级】🇺🇸 美国|中转|VMESS - 一元云梯
-  - 🇺🇸美国01 - 都是梦
   - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸 美国 1 ChatGPT - 西瓜皮是真的皮
   - 🇺🇸 美国 2 ChatGPT - 西瓜皮是真的皮
@@ -306,7 +304,6 @@ proxies:
 - {name: 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-sg-2024.bzqcmi.top}}, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 51653, type: ss, cipher: chacha20-ietf-poly1305, password: 0b93727d-4452-4510-b85f-ad8f24f6dc4f, udp: true}
 - {name: 🇸🇬新加坡01 - 都是梦, server: dl4.doushimeng.com, port: 2095, type: vmess, uuid: 0b93727d-4452-4510-b85f-ad8f24f6dc4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-sg3.doushimeng.com}}, udp: true}
-- {name: 🇺🇸美国01 - 都是梦, server: us4.doushimeng.com, port: 35652, type: ss, cipher: chacha20-ietf-poly1305, password: 0b93727d-4452-4510-b85f-ad8f24f6dc4f, udp: true}
 - {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 0b93727d-4452-4510-b85f-ad8f24f6dc4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de11.doushimeng.com}}, udp: true}
 - {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: c8c3cd80-c0cd-4b10-8730-129da42024ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19831, type: vmess, uuid: b1a9a154-9240-32ae-8c23-b91945ca21d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
