@@ -5,7 +5,7 @@ email  ffvpikw16@gmail.com
 last_checkin  2024-02-25 04:20:43.433423+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-02-25 06:20:43+08:00  (剩余 10.12G 1:59:06.084103)
+sub_info  13.99K  10.12G  2024-02-25 06:20:43+08:00  (剩余 10.12G 1:48:51.331801)
 sub_url  https://b.dx035.top/link/awWM3CZSy4WQdNsS?sub=3
 time  2024-02-25 04:20:53.037168+08:00
 type  sspanel
@@ -19,6 +19,7 @@ sub_info  766.6M  10G  2024-02-25 23:47:22+08:00  (剩余 9.251G 19:27:22.341022
 sub_url  https://dingyue.doushimeng.com/api/v1/client/subscribe?token=3ec03c981cc07c76febcf034a8b166c7
 time  2024-02-22 23:48:56.731072+08:00
 type  v2board
+更新旧订阅失败  {'message': '未登录或登陆已过期'}
 
 [my.bfhk.xyz]
 buy  pass
@@ -47,12 +48,12 @@ type  sspanel
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
 buy  pass
-email  ndlffdw640@gmail.com
+email  saxuhtmcv579@gmail.com
 name  一元云梯
 node_n  21
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=4181dde3c407812cde9dc347f06d2a68
-time  2024-02-25 04:20:05.144046+08:00
+sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=b5554406a0d8aa576d0957a15c052a89
+time  2024-02-25 04:31:50.783414+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -63,7 +64,7 @@ buy  pass
 email  ropcwkb97@gmail.com
 name  可乐云
 node_n  2
-sub_info  0B  10G  2024-02-27 17:49:49+08:00  (剩余 10G 2 days, 13:29:49.417121)
+sub_info  0B  10G  2024-02-27 17:49:49+08:00  (剩余 10G 2 days, 13:17:16.892977)
 sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=075faec55737f5548a163c88899c8a46
 time  2024-02-24 17:49:50.512003+08:00
 type  v2board
