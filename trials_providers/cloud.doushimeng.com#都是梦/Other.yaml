@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 893a5e4e-294e-4fd7-85c3-c21e1c067add, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de13.doushimeng.com}}, udp: true}
-- {name: 🇫🇷法国01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 893a5e4e-294e-4fd7-85c3-c21e1c067add, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss6.nicehand.top}}, udp: true}
+- {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 8d9dcd14-7c8d-4f86-94b4-240d98c34748, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de13.doushimeng.com}}, udp: true}
+- {name: 🇫🇷法国01 - 都是梦, server: dl1.doushimeng.com, port: 2082, type: vmess, uuid: 8d9dcd14-7c8d-4f86-94b4-240d98c34748, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss6.nicehand.top}}, udp: true}
