@@ -5,7 +5,7 @@ email  nzeyrspl522@gmail.com
 last_checkin  2024-02-28 02:50:19.270682+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-02-28 04:50:19+08:00  (剩余 10.1G 1:59:47.640113)
+sub_info  1.872G  10.1G  2024-02-28 04:50:19+08:00  (剩余 8.23G 1:44:47.917965)
 sub_url  https://b.dx035.top/link/gL80VGHduzFIxCOK?sub=3
 time  2024-02-28 02:50:29.333911+08:00
 type  sspanel
@@ -15,7 +15,7 @@ buy  pass
 email  gpekyoih553@gmail.com
 name  都是梦
 node_n  5
-sub_info  0B  10G  2024-03-02 02:48:39+08:00  (剩余 10G 2 days, 23:58:21.177271)
+sub_info  2.641G  10G  2024-03-02 02:48:39+08:00  (剩余 7.359G 2 days, 23:42:31.435203)
 sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=02ae5e7bc015518724b9ac7aaea594cf
 time  2024-02-28 02:50:15.572268+08:00
 type  v2board
@@ -42,17 +42,17 @@ sub_url  https://s.haituncloud.vip/link/MYBmMOOwUpvqPLgw?sub=3
 time  2024-02-18 15:19:02.286817+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /link/MYBmMOOwUpvqPLgw?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  (https://haituncloud.xyz/link/MYBmMOOwUpvqPLgw?sub=3): 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
 
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
 buy  pass
-email  aeyvhsg923@gmail.com
+email  tkyybfcia194@gmail.com
 name  一元云梯
 node_n  21
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=4a01914a1cd237499eae597452fda1bf
-time  2024-02-28 02:51:06.013073+08:00
+sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=8c45fb7639b5c06881b972be58288988
+time  2024-02-28 03:05:40.807766+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -63,7 +63,7 @@ buy  pass
 email  ayikatarj148@gmail.com
 name  可乐云
 node_n  3
-sub_info  0B  10G  2024-03-02 02:39:25+08:00  (剩余 10G 2 days, 23:49:12.585619)
+sub_info  4.31G  10G  2024-03-02 02:39:25+08:00  (剩余 5.69G 2 days, 23:33:49.212291)
 sub_url  https://cloud4.colacloud.site/api/v1/client/subscribe?token=3596f79cd341dbc4afde10e90c1ad9b4
 time  2024-02-28 02:39:25.997599+08:00
 type  v2board
