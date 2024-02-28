@@ -1,23 +1,23 @@
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  zcvagewqk136@gmail.com
-last_checkin  2024-02-28 11:46:54.607702+08:00
+email  zmicsgb671@gmail.com
+last_checkin  2024-02-28 12:22:28.961850+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-02-28 13:46:54+08:00  (剩余 10.14G 1:48:45.089209)
-sub_url  https://b.dx035.top/link/rdz16N4np1YuNVZT?sub=3
-time  2024-02-28 11:47:05.276864+08:00
+sub_info  0B  10.11G  2024-02-28 14:22:28+08:00  (剩余 10.11G 1:59:40.497473)
+sub_url  https://b.dx035.top/link/IObB3J78HlS2awPl?sub=3
+time  2024-02-28 12:22:38.882805+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  gygmhhret932@gmail.com
+email  tptdlvjum445@gmail.com
 name  都是梦
 node_n  5
-sub_info  29.28M  10G  2024-03-02 11:17:56+08:00  (剩余 9.971G 2 days, 23:19:41.951992)
-sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=ff0fe137d305b1d097570b13f0127a70
-time  2024-02-28 11:19:32.633479+08:00
+sub_info  0B  10G  2024-03-02 12:20:57+08:00  (剩余 10G 2 days, 23:57:34.558211)
+sub_url  https://dingyue.doushimeng.com/api/v1/client/subscribe?token=37b42cc57b45c41d9f33a59ceba4b2a2
+time  2024-02-28 12:22:34.449797+08:00
 type  v2board
 
 [my.bfhk.xyz]
@@ -41,18 +41,18 @@ sub_info  318K  100.9G  2024-03-19 15:19:00+08:00  (剩余 100.9G 28 days, 6:14:
 sub_url  https://s.haituncloud.vip/link/MYBmMOOwUpvqPLgw?sub=3
 time  2024-02-18 15:19:02.286817+08:00
 type  sspanel
-尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+尝试签到失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)
 更新旧订阅失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /link/MYBmMOOwUpvqPLgw?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)"))
 
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
 buy  pass
-email  kbqoitvxk733@gmail.com
+email  apuomcbsb329@gmail.com
 name  一元云梯
 node_n  21
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=81925cf423d93319f9cfa7ff94d965a4
-time  2024-02-28 11:58:12.246772+08:00
+sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=d1d0ff6b55fc9ec6f17c874117d0881b
+time  2024-02-28 12:22:42.117246+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -63,7 +63,7 @@ buy  pass
 email  kpyjbibh66@gmail.com
 name  可乐云
 node_n  3
-sub_info  0B  10G  2024-03-02 11:58:10+08:00  (剩余 10G 2 days, 23:59:56.973758)
+sub_info  1.3G  10G  2024-03-02 11:58:10+08:00  (剩余 8.7G 2 days, 23:35:41.836102)
 sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=449cb00f7ea7fbafa0de0e9328b0dba6
 time  2024-02-28 11:58:11.026116+08:00
 type  v2board
