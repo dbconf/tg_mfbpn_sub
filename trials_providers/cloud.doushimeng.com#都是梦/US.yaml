@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国01 - 都是梦, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: 94a00464-d20a-45a0-bfe9-a970aeb7e845, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us.doushimeng.free.hr}}, udp: true}
-- {name: 🇺🇸美国02|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: 94a00464-d20a-45a0-bfe9-a970aeb7e845, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: dl4.doushimeng.com, port: 2086, type: vmess, uuid: fe89ba46-28a2-4126-9da8-cf71b0d8cf33, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us.doushimeng.free.hr}}, udp: true}
+- {name: 🇺🇸美国02|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: fe89ba46-28a2-4126-9da8-cf71b0d8cf33, udp: true}
