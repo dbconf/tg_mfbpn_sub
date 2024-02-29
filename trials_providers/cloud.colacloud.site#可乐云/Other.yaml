@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 941c8cdc-3971-405a-bc1f-740e2bf04806, udp: true}
+- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 280b5275-6b49-460f-a379-3b70fcdac312, udp: true}
