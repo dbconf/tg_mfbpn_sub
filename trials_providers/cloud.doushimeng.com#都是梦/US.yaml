@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: f16e3a49-c25b-49ab-8962-6cb385e29ada, udp: true}
+- {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: 0e3cd16f-3f0f-41cb-9147-5a074ad03c6b, udp: true}
