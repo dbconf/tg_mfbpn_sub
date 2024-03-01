@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: 00eb0d65-8413-4e10-ba96-5897bb3e8a6c, udp: true}
-- {name: 🇺🇸美国02|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20061, type: trojan, password: 00eb0d65-8413-4e10-ba96-5897bb3e8a6c, sni: us5.doushimeng.free.hr, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: add0cd0d-1a83-4d11-bc5e-cbf067cff066, udp: true}
+- {name: 🇺🇸美国02|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20061, type: trojan, password: add0cd0d-1a83-4d11-bc5e-cbf067cff066, sni: us5.doushimeng.free.hr, skip-cert-verify: true, udp: true}
