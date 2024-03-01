@@ -97,9 +97,9 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 51653, type: ss, cipher: chacha20-ietf-poly1305, password: c1967852-250c-4598-920e-3d2d80811de7, udp: true}
-- {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: c1967852-250c-4598-920e-3d2d80811de7, udp: true}
-- {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: c1967852-250c-4598-920e-3d2d80811de7, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 51653, type: ss, cipher: chacha20-ietf-poly1305, password: e03593c4-0d03-491f-b368-b3928161cd3e, udp: true}
+- {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: e03593c4-0d03-491f-b368-b3928161cd3e, udp: true}
+- {name: 🇺🇸美国01|V6 - 都是梦, server: us5.doushimeng.free.hr, port: 20060, type: ss, cipher: chacha20-ietf-poly1305, password: e03593c4-0d03-491f-b368-b3928161cd3e, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
