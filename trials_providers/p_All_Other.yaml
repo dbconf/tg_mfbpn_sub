@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 8085104c-d0f6-43c7-adf0-ee8950e31bbc, udp: true}
+- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 624ceeee-b98c-4ed5-a219-e20610ff703d, udp: true}
 - {name: ℹ 网址：m08.yiyuanvpn.top - 一元云梯, server: yyyt-sub.996699.top, port: 20012, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-20240211.bzqcmi.top}}, udp: true}
 - {name: ℹ 【中文地址】一元云梯.top - 一元云梯, server: yyyt-sub.996699.top, port: 20012, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-20240211.bzqcmi.top}}, udp: true}
 - {name: ℹ 【英文地址】yiyuanvpn.top - 一元云梯, server: yyyt-sub.996699.top, port: 20012, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-hk-20240211.bzqcmi.top}}, udp: true}
@@ -17,8 +17,8 @@ proxies:
 - {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: cc16de38-79e1-47d7-8b8f-c2885852eee3, udp: true}
 - {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: cc16de38-79e1-47d7-8b8f-c2885852eee3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de13.doushimeng.com}}, udp: true}
 - {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: cc16de38-79e1-47d7-8b8f-c2885852eee3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee1.doushimeng.free.hr}}, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 8219f901-6acb-3023-bc6e-b7d6beaf0b3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 8219f901-6acb-3023-bc6e-b7d6beaf0b3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 8219f901-6acb-3023-bc6e-b7d6beaf0b3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 8219f901-6acb-3023-bc6e-b7d6beaf0b3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 8219f901-6acb-3023-bc6e-b7d6beaf0b3f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 5d1cebb3-6633-325a-aa64-3349f83cbdac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 5d1cebb3-6633-325a-aa64-3349f83cbdac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 5d1cebb3-6633-325a-aa64-3349f83cbdac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 5d1cebb3-6633-325a-aa64-3349f83cbdac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 5d1cebb3-6633-325a-aa64-3349f83cbdac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
