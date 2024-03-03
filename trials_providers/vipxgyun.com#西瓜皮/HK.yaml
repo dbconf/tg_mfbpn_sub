@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 92c01e50-f4c3-32a3-a46b-dc378c3afafe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 92c01e50-f4c3-32a3-a46b-dc378c3afafe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19811, type: vmess, uuid: 92de129b-e1a2-3183-ac90-6e9266a89a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct1.dx001.top, port: 19812, type: vmess, uuid: 92de129b-e1a2-3183-ac90-6e9266a89a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
