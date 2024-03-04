@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 51653, type: ss, cipher: chacha20-ietf-poly1305, password: d30101e1-5c89-436a-90b1-fee56b53aa23, udp: true}
-- {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: d30101e1-5c89-436a-90b1-fee56b53aa23, udp: true}
-- {name: 🇺🇸美国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: d30101e1-5c89-436a-90b1-fee56b53aa23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us4.doushimeng.free.hr}}, udp: true}
-- {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: d30101e1-5c89-436a-90b1-fee56b53aa23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de15.doushimeng.com}}, udp: true}
-- {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: d30101e1-5c89-436a-90b1-fee56b53aa23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee2.doushimeng.free.hr}}, udp: true}
-- {name: 🇫🇷法国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: d30101e1-5c89-436a-90b1-fee56b53aa23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss9.nicehand.top}}, udp: true}
+- {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 51653, type: ss, cipher: chacha20-ietf-poly1305, password: ea3aaace-cc86-4928-a6d2-142528873c02, udp: true}
+- {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: ea3aaace-cc86-4928-a6d2-142528873c02, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: ea3aaace-cc86-4928-a6d2-142528873c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us4.doushimeng.free.hr}}, udp: true}
+- {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: ea3aaace-cc86-4928-a6d2-142528873c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de15.doushimeng.com}}, udp: true}
+- {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: ea3aaace-cc86-4928-a6d2-142528873c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee2.doushimeng.free.hr}}, udp: true}
+- {name: 🇫🇷法国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: ea3aaace-cc86-4928-a6d2-142528873c02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss9.nicehand.top}}, udp: true}
