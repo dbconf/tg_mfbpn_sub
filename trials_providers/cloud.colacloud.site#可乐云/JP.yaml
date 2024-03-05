@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: f01dd093-94aa-45a3-b480-a8217ecf9910, udp: true}
+- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 5e68c6a6-e9c7-4696-8438-610173eac4d5, udp: true}
