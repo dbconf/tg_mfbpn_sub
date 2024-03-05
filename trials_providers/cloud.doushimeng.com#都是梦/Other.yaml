@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: f6c37f69-bb8a-4a42-b55d-814f9806f6df, udp: true}
-- {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: f6c37f69-bb8a-4a42-b55d-814f9806f6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de15.doushimeng.com}}, udp: true}
-- {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: f6c37f69-bb8a-4a42-b55d-814f9806f6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee2.doushimeng.free.hr}}, udp: true}
-- {name: 🇫🇷法国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: f6c37f69-bb8a-4a42-b55d-814f9806f6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss9.nicehand.top}}, udp: true}
+- {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: 2bcf8768-cd6a-453b-8569-3c44bc8e64be, udp: true}
+- {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 2bcf8768-cd6a-453b-8569-3c44bc8e64be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de15.doushimeng.com}}, udp: true}
+- {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 2bcf8768-cd6a-453b-8569-3c44bc8e64be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee2.doushimeng.free.hr}}, udp: true}
+- {name: 🇫🇷法国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 2bcf8768-cd6a-453b-8569-3c44bc8e64be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss9.nicehand.top}}, udp: true}
