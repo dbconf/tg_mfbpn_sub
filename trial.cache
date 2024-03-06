@@ -13,12 +13,12 @@ type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  yhxuvcq254@gmail.com
+email  zwacptzp210@gmail.com
 name  都是梦
 node_n  6
-sub_info  7.122G  10G  2024-03-09 16:37:04+08:00  (剩余 2.878G 2 days, 23:29:49.172920)
-sub_url  https://dingyue.doushimeng.com/api/v1/client/subscribe?token=81b3269f808cc478f77e5ad3d259ca04
-time  2024-03-06 16:38:44.505682+08:00
+sub_info  0B  10G  2024-03-09 17:20:25+08:00  (剩余 10G 2 days, 23:58:16.632917)
+sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=03c863aef3fbeaa9e73d810c6fa0c8f5
+time  2024-03-06 17:22:05.179493+08:00
 type  v2board
 
 [my.bfhk.xyz]
@@ -48,12 +48,12 @@ type  sspanel
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
 buy  pass
-email  xyhxdyizh1@gmail.com
+email  xokjoqyjh55@gmail.com
 name  一元云梯
 node_n  21
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=e747f908065816c5f7d0c266ff99e3d2
-time  2024-03-06 17:07:24.535513+08:00
+sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=fdbbb646962e1a47579f0834972e865a
+time  2024-03-06 17:22:51.113500+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -61,10 +61,10 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  hduekbrid789@gmail.com
+email  fbfwytc55@gmail.com
 name  可乐云
 node_n  3
-sub_info  5.739G  10G  2024-03-09 16:38:43+08:00  (剩余 4.261G 2 days, 23:31:24.557323)
-sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=35a2e9bcba43d0eb62b7ef26b51065f2
-time  2024-03-06 16:38:44.070264+08:00
+sub_info  0B  10G  2024-03-09 17:22:09+08:00  (剩余 10G 2 days, 23:59:56.880248)
+sub_url  https://cloud4.colacloud.site/api/v1/client/subscribe?token=dfc5c36047b0795f558d5d5df6ee85ee
+time  2024-03-06 17:22:09.654043+08:00
 type  v2board
