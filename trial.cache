@@ -5,19 +5,19 @@ email  mbvtknfn963@gmail.com
 last_checkin  2024-03-07 02:22:24.421658+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-03-07 04:22:24+08:00  (剩余 10.12G 1:59:07.000299)
+sub_info  0B  10.12G  2024-03-07 04:22:24+08:00  (剩余 10.12G 1:45:30.424984)
 sub_url  https://b.dx035.top/link/ORS4zC7ZYe7PTQTQ?sub=3
 time  2024-03-07 02:22:34.896901+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  glpslrt293@gmail.com
+email  kxzluss361@gmail.com
 name  都是梦
 node_n  6
-sub_info  765.7M  10G  2024-03-10 01:55:15+08:00  (剩余 9.252G 2 days, 23:32:45.637470)
-sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=0a936b42b20149b2e2cb08febc97dfff
-time  2024-03-07 01:56:55.479480+08:00
+sub_info  0B  10G  2024-03-10 02:35:09+08:00  (剩余 10G 2 days, 23:58:10.689857)
+sub_url  https://dingyue.doushimeng.com/api/v1/client/subscribe?token=bd5134addcd2a64ec8214177fc74e885
+time  2024-03-07 02:36:49.536360+08:00
 type  v2board
 
 [my.bfhk.xyz]
@@ -47,12 +47,12 @@ type  sspanel
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
 buy  pass
-email  utbsmdkgs473@gmail.com
+email  qmehswkp73@gmail.com
 name  一元云梯
 node_n  21
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=55d5ff7de4f5c1b2917f66a800f49ebe
-time  2024-03-07 02:23:09.599592+08:00
+sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=41b400bdaabf891040039e77c4cf1757
+time  2024-03-07 02:36:56.184513+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -60,11 +60,10 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  dkvskbw56@gmail.com
+email  wcyoenlu771@gmail.com
 name  可乐云
 node_n  3
-sub_info  0B  10G  2024-03-10 01:56:48+08:00  (剩余 10G 2 days, 23:59:56.566658)
-sub_url  https://cloud.colacloud.site/api/v1/client/subscribe?token=a45702eb7a2f9abe2681808968aa9ca5
-time  2024-03-07 01:56:48.553317+08:00
+sub_info  0B  10G  2024-03-10 02:36:50+08:00  (剩余 10G 2 days, 23:59:56.715749)
+sub_url  https://cloud3.colacloud.site/api/v1/client/subscribe?token=293c028e703969e85d071e178e6fde57
+time  2024-03-07 02:36:51.450026+08:00
 type  v2board
-更新旧订阅失败  {'message': '未登录或登陆已过期'}
