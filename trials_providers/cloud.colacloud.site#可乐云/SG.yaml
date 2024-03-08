@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 42752, type: ss, cipher: chacha20-ietf-poly1305, password: ad259142-0e9a-48d2-aafd-0aa0e1a19bf4, udp: true}
+- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 42752, type: ss, cipher: chacha20-ietf-poly1305, password: ea78b59e-812f-47ac-a6d4-d8d7efc23df0, udp: true}
