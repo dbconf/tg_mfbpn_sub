@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸美国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 60d9eddb-4928-4180-90ce-5a3b6141ef91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us5.doushimeng.free.hr}}, udp: true}
+- {name: 🇺🇸美国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 3d3b5566-cffa-4913-9cf7-3f95c7574c9f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us5.doushimeng.free.hr}}, udp: true}
