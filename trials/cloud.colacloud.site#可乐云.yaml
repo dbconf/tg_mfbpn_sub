@@ -97,9 +97,9 @@ proxy-groups:
   type: select
   proxies: *id004
 proxies:
-- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: e00e9d33-ea14-461d-8976-602d628b2714, udp: true}
-- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 42752, type: ss, cipher: chacha20-ietf-poly1305, password: e00e9d33-ea14-461d-8976-602d628b2714, udp: true}
-- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: e00e9d33-ea14-461d-8976-602d628b2714, udp: true}
+- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 9650988e-7806-4c2e-b350-6e72dc64b0ba, udp: true}
+- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 42752, type: ss, cipher: chacha20-ietf-poly1305, password: 9650988e-7806-4c2e-b350-6e72dc64b0ba, udp: true}
+- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 9650988e-7806-4c2e-b350-6e72dc64b0ba, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
