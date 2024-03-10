@@ -5,19 +5,19 @@ email  rqsoaolg910@gmail.com
 last_checkin  2024-03-11 04:38:53.857866+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-03-11 06:38:53+08:00  (剩余 10.12G 1:59:45.437870)
+sub_info  0B  10.12G  2024-03-11 06:38:53+08:00  (剩余 10.12G 1:48:33.333082)
 sub_url  https://c.dx035.top/link/LIvv85Q5oL30yVyj?sub=3
 time  2024-03-11 04:39:05.641538+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  mwrmbcxd278@gmail.com
+email  hxadjfzv274@gmail.com
 name  都是梦
 node_n  6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=fd9a2153acd90a7699a50d6f408cd4ec
-time  2024-03-11 04:39:37.189140+08:00
+sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=815290dd54a679396bb7a77a31ee6737
+time  2024-03-11 04:50:21.579208+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -48,12 +48,12 @@ type  sspanel
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
 buy  pass
-email  dfbttpyt803@gmail.com
+email  olsrekj740@gmail.com
 name  一元云梯
 node_n  21
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=7c3b7a1e6629e738bd1de91a75fbdc75
-time  2024-03-11 04:39:00.613425+08:00
+sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=ce614e18eabe517bbc4f536f6d26f34e
+time  2024-03-11 04:50:27.483418+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -69,3 +69,4 @@ sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=84202eeb0cb
 time  2024-03-11 04:39:07.584867+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新旧订阅失败  {'message': '未登录或登陆已过期'}
