@@ -1,18 +1,18 @@
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  eikvlfujy642@gmail.com
-last_checkin  2024-03-12 00:33:33.297185+08:00
+email  pccwpkck319@gmail.com
+last_checkin  2024-03-12 01:17:41.937519+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-03-12 02:33:33+08:00  (剩余 10.1G 1:35:36.977862)
-sub_url  https://c.dx035.top/link/4WG7ABtDLDTmpY5H?sub=3
-time  2024-03-12 00:33:45.669132+08:00
+sub_info  0B  10.13G  2024-03-12 03:17:41+08:00  (剩余 10.13G 1:59:42.163383)
+sub_url  https://c.dx035.top/link/dQJz6dtSLwg1wwjk?sub=3
+time  2024-03-12 01:17:57.163789+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  losuvtzdk207@gmail.com
+email  ybezlhtf264@gmail.com
 name  都是梦
 node_n  6
 sub_info  0B  0B  永不过期  (剩余 0B)
@@ -20,6 +20,7 @@ sub_url  https://dingyue2.doushimeng.com/api/v1/client/subscribe?token=d8b8781a6
 time  2024-03-12 00:58:01.603699+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
 
 [my.bfhk.xyz]
 buy  pass
@@ -48,12 +49,12 @@ type  sspanel
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
 buy  pass
-email  anfqhvsce641@gmail.com
+email  wsbjgbcmq172@gmail.com
 name  一元云梯
 node_n  21
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=1c39910546b5b274b297ae89e6f48331
-time  2024-03-12 00:58:08.273485+08:00
+sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=2df2cc8e2063c49ea5163eaad6b9037b
+time  2024-03-12 01:17:43.591998+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -61,11 +62,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  etjlmjuba435@gmail.com
+email  wzetxbeyp757@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud4.colacloud.site/api/v1/client/subscribe?token=1e43c95195536e2ebed3201696112ceb
-time  2024-03-12 00:57:59.695830+08:00
+sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=807655f7e8fe5df0887663fa44b80c4b
+time  2024-03-12 01:18:23.301976+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
