@@ -5,19 +5,19 @@ email  lavxbwa884@gmail.com
 last_checkin  2024-03-14 21:48:18.559025+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-03-14 23:48:18+08:00  (剩余 10.11G 1:48:20.739585)
+sub_info  0B  10.11G  2024-03-14 23:48:18+08:00  (剩余 10.11G 1:27:29.939636)
 sub_url  https://c.dx035.top/link/4dD0SdkP1ipmWvoL?sub=3
 time  2024-03-14 21:48:33.723042+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  drrnmrr31@gmail.com
+email  smrznud784@gmail.com
 name  都是梦
 node_n  6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://dingyue3.doushimeng.com/api/v1/client/subscribe?token=7c9096d53194b1dd0a19b7e0b0945f47
-time  2024-03-14 21:59:54.497664+08:00
+sub_url  http://dingyue3.doushimeng.com/api/v1/client/subscribe?token=4561058808647665af2d726e7ec21f18
+time  2024-03-14 22:20:53.011822+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -62,12 +62,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  cpltsxg217@gmail.com
+email  jwfliffa331@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=64140efd498869b3988201fc561ebc0e
-time  2024-03-14 21:48:27.129664+08:00
+sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=615f54aac3c9c19534aa322c7f509e1e
+time  2024-03-14 22:20:51.891484+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  {'message': '未登录或登陆已过期'}
