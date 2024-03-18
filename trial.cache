@@ -5,19 +5,19 @@ email  tpbaegh860@gmail.com
 last_checkin  2024-03-19 03:05:12.849701+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-03-19 05:05:12+08:00  (剩余 10.12G 1:47:58.612256)
+sub_info  0B  10.12G  2024-03-19 05:05:12+08:00  (剩余 10.12G 1:36:07.457221)
 sub_url  https://c.dx035.top/link/JSZuBSkO3i9FLGgk?sub=3
 time  2024-03-19 03:05:24.402048+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  zcgmmqnbf76@gmail.com
+email  qzhvxzpbn659@gmail.com
 name  都是梦
 node_n  6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  http://dingyue3.doushimeng.com/api/v1/client/subscribe?token=e71c823a6d0ac134a487b308d8346555
-time  2024-03-19 03:17:12.321007+08:00
+sub_url  http://dingyue3.doushimeng.com/api/v1/client/subscribe?token=061eb32dc1a7531046bd049a3baa5a8c
+time  2024-03-19 03:28:51.941190+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -43,7 +43,7 @@ sub_url  https://s.haituncloud.vip/link/MYBmMOOwUpvqPLgw?sub=3
 time  2024-02-18 15:19:02.286817+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  (https://haituncloud.xyz/link/MYBmMOOwUpvqPLgw?sub=3): 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
+更新旧订阅失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /link/MYBmMOOwUpvqPLgw?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)"))
 
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
