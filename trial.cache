@@ -5,19 +5,19 @@ email  lhzgycmnd724@gmail.com
 last_checkin  2024-03-21 02:47:26.836934+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-03-21 04:47:26+08:00  (剩余 10.1G 1:59:03.787627)
+sub_info  0B  10.1G  2024-03-21 04:47:26+08:00  (剩余 10.1G 1:49:20.325130)
 sub_url  https://c.dx035.top/link/Nq0ZfIbSfy9hidER?sub=3
 time  2024-03-21 02:47:38.308805+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  badcdsrk731@gmail.com
+email  rztsyup791@gmail.com
 name  都是梦
 node_n  6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dingyue3.doushimeng.com/api/v1/client/subscribe?token=c89ac7bab009367562af26738efd4204
-time  2024-03-21 02:46:45.308605+08:00
+sub_url  https://dingyue3.doushimeng.com/api/v1/client/subscribe?token=3dfee7fd1fbe834b7f76bc90176ff87e
+time  2024-03-21 02:58:08.419750+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -43,7 +43,7 @@ sub_url  https://s.haituncloud.vip/link/MYBmMOOwUpvqPLgw?sub=3
 time  2024-02-18 15:19:02.286817+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  (https://haituncloud.xyz/link/MYBmMOOwUpvqPLgw?sub=3): 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
+更新旧订阅失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /link/MYBmMOOwUpvqPLgw?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)"))
 
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
@@ -62,11 +62,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  niuclco348@gmail.com
+email  pbhakzkl782@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud4.colacloud.site/api/v1/client/subscribe?token=72e1a66fe980ed62443e24d23aa2f45b
-time  2024-03-21 02:47:32.716602+08:00
+sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=d10a45e460acee1ebfb1921bc80b9541
+time  2024-03-21 02:58:15.760919+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
