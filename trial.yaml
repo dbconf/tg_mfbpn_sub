@@ -32,13 +32,13 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯
   - 【中级】🇭🇰 香港|临时节点 - 一元云梯
   - 【高级】🇭🇰 香港1|中转|VMESS - 一元云梯
   - 【高级】🇭🇰 香港2|中转|VMESS - 一元云梯
   - 【高级】🇭🇰 香港3|中转|VMESS - 一元云梯
+  - 🇭🇰 香港 1 - 西瓜皮是真的皮
+  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
   - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
   - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
@@ -46,32 +46,27 @@ proxy-groups:
   - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
   - 🇹🇼 V4-4007|台湾|x2.0 - 海豚云
   - 🇹🇼 V4-4008|台湾|x2.0 - 海豚云
+  - 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯
   - 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
-  - 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯
-  - 🇸🇬 SG新加坡 A - 可乐云
   - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
   - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
+  - 🇸🇬 SG新加坡 A - 可乐云
+  - 🇯🇵日本01 - 都是梦
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵日本01 - 都是梦
-  - 🇯🇵 JP日本 A - 可乐云
   - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
   - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
-  - 🇺🇸 美国 1 - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 - 西瓜皮是真的皮
+  - 🇯🇵 JP日本 A - 可乐云
+  - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸美国01 - 都是梦
   - 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯
   - 【中级】🇺🇸 美国|临时节点 - 一元云梯
   - 【高级】🇺🇸 美国|中转|VMESS - 一元云梯
+  - 🇺🇸 美国 1 - 西瓜皮是真的皮
+  - 🇺🇸 美国 2 - 西瓜皮是真的皮
   - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
   - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
-  - 🇺🇸美国 🌐「达拉斯」 - 北方航空
-  - 🇩🇪 德国 1 - 西瓜皮是真的皮
-  - 🇩🇪 德国2 - 西瓜皮是真的皮
-  - 🇬🇧 英国 1 - 西瓜皮是真的皮
-  - 🇬🇧 英国 2 - 西瓜皮是真的皮
-  - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇰🇷韩国01|V6 - 都是梦
   - 🇩🇪德国01 - 都是梦
   - 🇩🇪德国02 - 都是梦
@@ -88,6 +83,11 @@ proxy-groups:
   - 【高级】🇩🇪 德国|中转|VMESS - 一元云梯
   - 【高级】🇮🇳 印度|中转|VMESS - 一元云梯
   - 【高级】🇦🇺 澳洲|中转|VMESS - 一元云梯
+  - 🇩🇪 德国 1 - 西瓜皮是真的皮
+  - 🇩🇪 德国2 - 西瓜皮是真的皮
+  - 🇬🇧 英国 1 - 西瓜皮是真的皮
+  - 🇬🇧 英国 2 - 西瓜皮是真的皮
+  - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇰🇷 KR韩国 A - 可乐云
 - name: 🛩️ ‍墙内
   type: select
@@ -141,13 +141,13 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯
   - 【中级】🇭🇰 香港|临时节点 - 一元云梯
   - 【高级】🇭🇰 香港1|中转|VMESS - 一元云梯
   - 【高级】🇭🇰 香港2|中转|VMESS - 一元云梯
   - 【高级】🇭🇰 香港3|中转|VMESS - 一元云梯
+  - 🇭🇰 香港 1 - 西瓜皮是真的皮
+  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
   - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
   - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
@@ -167,13 +167,13 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 【中级】🇭🇰 香港|CDN|VMESS - 一元云梯
   - 【中级】🇭🇰 香港|临时节点 - 一元云梯
   - 【高级】🇭🇰 香港1|中转|VMESS - 一元云梯
   - 【高级】🇭🇰 香港2|中转|VMESS - 一元云梯
   - 【高级】🇭🇰 香港3|中转|VMESS - 一元云梯
+  - 🇭🇰 香港 1 - 西瓜皮是真的皮
+  - 🇭🇰 香港 2 - 西瓜皮是真的皮
   - 🇭🇰 V4-4009|香港|x1.0 - 海豚云
   - 🇭🇰 V4-4010|香港|x2.0 - 海豚云
   - 🇭🇰 V4-4011|香港|x2.0 - 海豚云
@@ -187,50 +187,45 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
+  - 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯
   - 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
-  - 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯
-  - 🇸🇬 SG新加坡 A - 可乐云
   - 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云
   - 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云
+  - 🇸🇬 SG新加坡 A - 可乐云
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
+  - 🇯🇵日本01 - 都是梦
   - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
   - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵日本01 - 都是梦
-  - 🇯🇵 JP日本 A - 可乐云
   - 🇯🇵 V4-4001|日本|x1.5 - 海豚云
   - 🇯🇵 V4-4002|日本|x2.0 - 海豚云
+  - 🇯🇵 JP日本 A - 可乐云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 美国 1 - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 - 西瓜皮是真的皮
+  - 🇺🇸美国 🌐「达拉斯」 - 北方航空
   - 🇺🇸美国01 - 都是梦
   - 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯
   - 【中级】🇺🇸 美国|临时节点 - 一元云梯
   - 【高级】🇺🇸 美国|中转|VMESS - 一元云梯
+  - 🇺🇸 美国 1 - 西瓜皮是真的皮
+  - 🇺🇸 美国 2 - 西瓜皮是真的皮
   - 🇺🇸 V4-4005|美国|x2.0 - 海豚云
   - 🇺🇸 V4-4006|美国|x1.5 - 海豚云
-  - 🇺🇸美国 🌐「达拉斯」 - 北方航空
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
   proxies: &id008
-  - 🇩🇪 德国 1 - 西瓜皮是真的皮
-  - 🇩🇪 德国2 - 西瓜皮是真的皮
-  - 🇬🇧 英国 1 - 西瓜皮是真的皮
-  - 🇬🇧 英国 2 - 西瓜皮是真的皮
-  - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇰🇷韩国01|V6 - 都是梦
   - 🇩🇪德国01 - 都是梦
   - 🇩🇪德国02 - 都是梦
@@ -247,6 +242,11 @@ proxy-groups:
   - 【高级】🇩🇪 德国|中转|VMESS - 一元云梯
   - 【高级】🇮🇳 印度|中转|VMESS - 一元云梯
   - 【高级】🇦🇺 澳洲|中转|VMESS - 一元云梯
+  - 🇩🇪 德国 1 - 西瓜皮是真的皮
+  - 🇩🇪 德国2 - 西瓜皮是真的皮
+  - 🇬🇧 英国 1 - 西瓜皮是真的皮
+  - 🇬🇧 英国 2 - 西瓜皮是真的皮
+  - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇰🇷 KR韩国 A - 可乐云
 - name: 👆🏻 ‍指定
   type: select
@@ -273,28 +273,13 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: wk-ct2.dx001.top, port: 19862, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: 4a1d7438-609f-36be-b7a0-1def2382bf13, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: c8c3cd80-c0cd-4b10-8730-129da42024ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
 - {name: 🇺🇸美国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 03407433-29b2-4988-ac84-9056c3e1d50d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-us5.doushimeng.free.hr}}, udp: true}
 - {name: 🇰🇷韩国01|V6 - 都是梦, server: krv6.doushimeng.free.hr, port: 55257, type: ss, cipher: chacha20-ietf-poly1305, password: 03407433-29b2-4988-ac84-9056c3e1d50d, udp: true}
 - {name: 🇩🇪德国01 - 都是梦, server: dl3s.doushimeng.com, port: 2082, type: vmess, uuid: 03407433-29b2-4988-ac84-9056c3e1d50d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-de16.doushimeng.com}}, udp: true}
 - {name: 🇩🇪德国02 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 03407433-29b2-4988-ac84-9056c3e1d50d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-dee3.doushimeng.free.hr}}, udp: true}
 - {name: 🇫🇷法国01 - 都是梦, server: dl3s.doushimeng.com, port: 2086, type: vmess, uuid: 03407433-29b2-4988-ac84-9056c3e1d50d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /asdas, headers: {Host: cf-frsss9.nicehand.top}}, udp: true}
 - {name: 🇯🇵日本01 - 都是梦, server: jp.doushimeng.com, port: 51653, type: ss, cipher: chacha20-ietf-poly1305, password: 03407433-29b2-4988-ac84-9056c3e1d50d, udp: true}
-- {name: 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-sg-2024.bzqcmi.top}}, udp: true}
 - {name: 【中级】🇺🇸 美国|CDN|VMESS - 一元云梯, server: cf-cdn.996699.top, port: 2082, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-us-20240211.bzqcmi.top}}, udp: true}
 - {name: 【中级】🇺🇸 美国|临时节点 - 一元云梯, server: yyyt-sub.996699.top, port: 20012, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-us-20240211.bzqcmi.top}}, udp: true}
 - {name: 【高级】🇺🇸 美国|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-us-2024.bzqcmi.top}}, udp: true}
@@ -315,11 +300,22 @@ proxies:
 - {name: 【高级】🇩🇪 德国|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-de-2024.bzqcmi.top}}, udp: true}
 - {name: 【高级】🇮🇳 印度|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-in-2024.bzqcmi.top}}, udp: true}
 - {name: 【高级】🇦🇺 澳洲|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-au-2024.bzqcmi.top}}, udp: true}
-- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 42752, type: ss, cipher: chacha20-ietf-poly1305, password: 23b4a3bf-b8ea-43da-8f0a-8ca422c61d09, udp: true}
-- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 23b4a3bf-b8ea-43da-8f0a-8ca422c61d09, udp: true}
-- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 23b4a3bf-b8ea-43da-8f0a-8ca422c61d09, udp: true}
-- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12001, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12002, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 【高级】🇸🇬新加坡|中转|VMESS - 一元云梯, server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: 8182dbd9-553a-4683-92a9-eefeb310694d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /202402, headers: {Host: yyyt-sg-2024.bzqcmi.top}}, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: wk-ct2.dx001.top, port: 19862, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19821, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19822, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国2 - 西瓜皮是真的皮, server: jsxc1.dx001.top, port: 19892, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 1 - 西瓜皮是真的皮, server: gzxd1.dx001.top, port: 19893, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19841, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19842, type: vmess, uuid: dc25d10e-47f9-36c1-8099-3b11ebab1458, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 V4-4005|美国|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11301, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇺🇸 V4-4006|美国|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 11302, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c512ec2b8a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇹🇼 V4-4007|台湾|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14099, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
@@ -329,7 +325,11 @@ proxies:
 - {name: 🇭🇰 V4-4011|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 17002, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af483582-6269-468c-93af-c512ec2b1a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇯🇵 V4-4001|日本|x1.5 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14109, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
 - {name: 🇯🇵 V4-4002|日本|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 14110, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇺🇸美国 🌐「达拉斯」 - 北方航空, server: cdn.chigua.tk, port: 80, type: vmess, uuid: c8c3cd80-c0cd-4b10-8730-129da42024ab, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /usc03, headers: {Host: usc03.galenet.online}}, udp: true}
+- {name: 🇸🇬 V4-4003|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12001, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fdfs2f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇸🇬 V4-4004|新加坡|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 12002, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /12e884bf-1622-7ceb-3009-7d47fd1322f9a5, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
+- {name: 🇰🇷 KR韩国 A - 可乐云, server: kr.colacloud.site, port: 20352, type: ss, cipher: chacha20-ietf-poly1305, password: 23b4a3bf-b8ea-43da-8f0a-8ca422c61d09, udp: true}
+- {name: 🇯🇵 JP日本 A - 可乐云, server: jp.colacloud.site, port: 51310, type: ss, cipher: chacha20-ietf-poly1305, password: 23b4a3bf-b8ea-43da-8f0a-8ca422c61d09, udp: true}
+- {name: 🇸🇬 SG新加坡 A - 可乐云, server: sg.colacloud.site, port: 42752, type: ss, cipher: chacha20-ietf-poly1305, password: 23b4a3bf-b8ea-43da-8f0a-8ca422c61d09, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
