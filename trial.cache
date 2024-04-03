@@ -5,19 +5,19 @@ email  zrjlexwdz991@gmail.com
 last_checkin  2024-04-04 01:40:08.981809+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-04-04 03:40:08+08:00  (剩余 10.1G 1:59:42.881102)
+sub_info  0B  10.1G  2024-04-04 03:40:08+08:00  (剩余 10.1G 1:48:28.906972)
 sub_url  https://c.dx035.top/link/lV8XZ8TbrbIGjTIv?sub=3
 time  2024-04-04 01:40:22.813145+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  xpummittf177@gmail.com
+email  bhuadyg194@gmail.com
 name  都是梦
 node_n  6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dingyue3.doushimeng.com/api/v1/client/subscribe?token=086c2a83cb804bf6c0f70a33eca4e1ae
-time  2024-04-04 01:40:46.084551+08:00
+sub_url  https://dingyue3.doushimeng.com/api/v1/client/subscribe?token=9ffcedce2b035421fbd67b1df681c1d0
+time  2024-04-04 01:51:48.739679+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -31,7 +31,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fae98fd1690>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff87c67bf10>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -62,12 +62,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  nelqfxtq948@gmail.com
+email  xextrxb319@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=301e4c39fea3af45f49bc21676066a59
-time  2024-04-04 01:31:01.421099+08:00
+sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=f6efdfe6dcd82bfcb77e40c56fe984aa
+time  2024-04-04 01:51:47.698661+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  {'message': '未登录或登陆已过期'}
