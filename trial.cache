@@ -5,19 +5,19 @@ email  gfxqtata445@gmail.com
 last_checkin  2024-04-03 15:17:56.823244+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2024-04-03 17:17:56+08:00  (剩余 10.13G 1:59:19.545501)
+sub_info  0B  10.13G  2024-04-03 17:17:56+08:00  (剩余 10.13G 1:48:34.085816)
 sub_url  https://c.dx035.top/link/UEqHw1UIoY00vTeG?sub=3
 time  2024-04-03 15:18:17.656945+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  cnxwweh667@gmail.com
+email  rectlsehz9@gmail.com
 name  都是梦
 node_n  6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dingyue3.doushimeng.com/api/v1/client/subscribe?token=a1f4773edd4129d5f1c4d5b0257a6967
-time  2024-04-03 15:17:58.780125+08:00
+sub_url  https://dingyue3.doushimeng.com/api/v1/client/subscribe?token=a199742822a934b203fb6e2fb4cb6538
+time  2024-04-03 15:31:59.083786+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -31,7 +31,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc848cde560>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3ef011e770>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -70,3 +70,4 @@ sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=28467d3c4f0
 time  2024-04-03 15:17:52.234103+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(izvgtsdqc409@gmail.com): 遇到了些问题，我们正在进行处理
