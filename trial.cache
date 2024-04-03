@@ -1,23 +1,23 @@
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  lxfoqtox766@gmail.com
-last_checkin  2024-04-03 11:20:45.913650+08:00
+email  vnjrbyx896@gmail.com
+last_checkin  2024-04-03 11:48:17.488412+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  7.947G  10.14G  2024-04-03 13:20:45+08:00  (剩余 2.194G 1:43:43.683657)
-sub_url  https://c.dx035.top/link/RkzLEpN2uGrYidOV?sub=3
-time  2024-04-03 11:21:03.281618+08:00
+sub_info  0B  10.1G  2024-04-03 13:48:17+08:00  (剩余 10.1G 1:57:42.188008)
+sub_url  https://c.dx035.top/link/rMzsqR46cQqzWxDe?sub=3
+time  2024-04-03 11:48:32.313110+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
-email  uxkvcnvu154@gmail.com
+email  sfjyzsamr869@gmail.com
 name  都是梦
 node_n  6
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dingyue3.doushimeng.com/api/v1/client/subscribe?token=c89f5dd50c13f8bd9b0917ee525d6943
-time  2024-04-03 11:37:43.288245+08:00
+sub_url  https://dingyue3.doushimeng.com/api/v1/client/subscribe?token=ebbf1aad58649d1d5aec06448c6ef632
+time  2024-04-03 11:51:02.246018+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -31,7 +31,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f899675a2f0>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1540b5d3f0>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -62,11 +62,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  ubpgkdlwy699@gmail.com
+email  fofgcup516@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud4.colacloud.site/api/v1/client/subscribe?token=fc40cfc0e111dd0f645472cebb08c429
-time  2024-04-03 11:37:06.336578+08:00
+sub_url  https://cloud.colacloud.site/api/v1/client/subscribe?token=2765f5f6204aeaa3a610e5cf4b2683ce
+time  2024-04-03 11:51:31.030330+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
