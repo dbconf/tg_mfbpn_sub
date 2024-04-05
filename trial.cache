@@ -5,7 +5,7 @@ email  sjyffomvm463@gmail.com
 last_checkin  2024-04-06 03:16:37.145703+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-04-06 05:16:37+08:00  (剩余 10.12G 1:59:42.218039)
+sub_info  0B  10.12G  2024-04-06 05:16:37+08:00  (剩余 10.12G 1:48:40.389459)
 sub_url  https://c.dx035.top/link/VzWzOcidUWCt8KKa?sub=3
 time  2024-04-06 03:16:51.348682+08:00
 type  sspanel
@@ -32,7 +32,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff0c864ed10>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd4c8e6ab60>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -57,13 +57,13 @@ sub_url  https://yy-cmi.mozhiti.top/api/v1/client/subscribe?token=5e2280e4359dac
 time  2024-03-12 15:40:29.269192+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(lgikfqmvq329@gmail.com): 注册频繁，请等待 60 分钟后再次尝试
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
 
 [www.yongdong.xyz#永动机]
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  hotedgeph417@gmail.com
+email  jmvcrpbsq291@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
@@ -71,3 +71,4 @@ sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=01281f90a0a
 time  2024-04-06 03:18:38.780519+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
