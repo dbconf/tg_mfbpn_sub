@@ -33,7 +33,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f376baa20e0>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6b94da6620>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -64,11 +64,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  hgrpgsbjj436@gmail.com
+email  qiclvihzp670@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud3.colacloud.site/api/v1/client/subscribe?token=b10d334ceda2d026d67ad09a1df50ef0
-time  2024-04-06 16:18:24.189775+08:00
+sub_url  https://cloud4.colacloud.site/api/v1/client/subscribe?token=720ee15ca6fc7eec5b0b291ac84f26e8
+time  2024-04-06 16:29:45.801700+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
