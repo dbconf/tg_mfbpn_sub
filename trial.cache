@@ -5,11 +5,10 @@ email  rsfgrpd73@gmail.com
 last_checkin  2024-04-14 03:13:29.607248+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-04-14 05:13:29+08:00  (剩余 10.1G 1:57:54.384707)
+sub_info  0B  10.1G  2024-04-14 05:13:29+08:00  (剩余 10.1G 1:46:54.433453)
 sub_url  https://dy1.dx035.top/link/T75A9fV2IJ8t8gRf?sub=3
 time  2024-04-14 03:13:32.622614+08:00
 type  sspanel
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
 
 [cloud.doushimeng.com#都是梦]
 buy  pass
@@ -33,7 +32,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f9db8415600>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4c4d0ae8c0>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -64,11 +63,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  dumbligqh589@gmail.com
+email  dmfpbbip321@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=5e4aca43bafa30a7fc1a43a144a003b0
-time  2024-04-14 03:13:33.393858+08:00
+sub_url  https://cloud5.colacloud.site/api/v1/client/subscribe?token=787356f464a66888b5082e578696a5ec
+time  2024-04-14 03:28:41.848605+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
