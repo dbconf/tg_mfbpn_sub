@@ -5,7 +5,7 @@ email  qjldorah903@gmail.com
 last_checkin  2024-04-13 11:03:19.894022+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-04-13 13:03:19+08:00  (剩余 10.11G 1:33:52.998294)
+sub_info  103.9K  10.11G  2024-04-13 13:03:19+08:00  (剩余 10.11G 1:22:19.119002)
 sub_url  https://dy1.dx035.top/link/BNMAjAFKmebHC9EQ?sub=3
 time  2024-04-13 11:03:23.068304+08:00
 type  sspanel
@@ -32,7 +32,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2efc88fb80>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5d985adfc0>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -63,11 +63,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  twlhxfjcc53@gmail.com
+email  cxxpdpe198@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=b200a265b2ef27a13d770127a3a3b969
-time  2024-04-13 11:29:35.282346+08:00
+sub_url  https://cloud4.colacloud.site/api/v1/client/subscribe?token=9efe39343eb607a3bdcd91031c415705
+time  2024-04-13 11:41:04.526418+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
