@@ -5,7 +5,7 @@ email  hhhvegqhk459@gmail.com
 last_checkin  2024-04-15 20:28:09.883729+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2024-04-15 22:28:09+08:00  (剩余 10.13G 1:42:15.143713)
+sub_info  0B  10.13G  2024-04-15 22:28:09+08:00  (剩余 10.13G 1:30:33.086080)
 sub_url  https://dy1.dx035.top/link/kK5bT4xV0nOwEEFu?sub=3
 time  2024-04-15 20:28:13.054817+08:00
 type  sspanel
@@ -32,7 +32,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5b9d1bd180>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f69bd622d40>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -44,7 +44,7 @@ sub_url  https://s.haituncloud.vip/link/MYBmMOOwUpvqPLgw?sub=3
 time  2024-02-18 15:19:02.286817+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='haituncloud.xyz', port=443): Max retries exceeded with url: /link/MYBmMOOwUpvqPLgw?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='haituncloud.xyz', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  (https://haituncloud.xyz/link/MYBmMOOwUpvqPLgw?sub=3): 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
 
 [yiyuanvpn.top#一元云梯]
 banned_domains  smartnator.com  psnator.com  linshiyou.com  tmpnator.live
@@ -63,11 +63,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  tgtptbi52@gmail.com
+email  qpfqmvrm686@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=1d27698e3c6198c66320e7f4c4873d7b
-time  2024-04-15 20:46:09.041009+08:00
+sub_url  https://cloud2.colacloud.site/api/v1/client/subscribe?token=e07c30637597ac621090752dcf31cabd
+time  2024-04-15 20:59:41.704063+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
