@@ -1,20 +1,51 @@
 [cooc.cloud#小白云]
 buy  pass
-email  ulytypg2@gmail.com
+email  jgrvmgsu928@gmail.com
 name  小白云
 node_n  21
-sub_info  2.211G  5G  2024-04-18 10:22:36+08:00  (剩余 2.789G 5:45:01.059503)
-sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=da0dd1de80282719b39bb1363da2e779
-time  2024-04-18 04:22:37.382334+08:00
+sub_info  0B  5G  2024-04-18 10:48:44+08:00  (剩余 5G 5:59:57.018232)
+sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=92c9eb3cb810d7d00964390c12516aec
+time  2024-04-18 04:48:44.897823+08:00
 type  v2board
 
 [www.flybar4.cc]
-email  kngsgouz444@guerrillamail.biz
-invite_code  CVwg  10000
-last_checkin  2024-04-18 04:07:52.911699+08:00
+email  hothqtm63@mail.wvwvw.tech
+invite_code  CVwg  9999
+last_checkin  0
 name  飞翔吧
 node_n  47
-sub_info  9.27G  10.17G  2024-04-19 04:07:51+08:00  (剩余 925M 23:30:13.180295)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/9B9HTAszbeZyvWYg?sub=3
-time  2024-04-18 04:07:54.230299+08:00
+sub_info  0B  10G  2024-04-19 04:49:04+08:00  (剩余 10G 23:59:56.576989)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/6QWZpFkGVsb5p5Ye?sub=3
+time  2024-04-18 04:49:06.271083+08:00
 type  sspanel
+尝试签到失败  解析 json 失败: Extra data: line 1 column 5 (char 4) (400 Bad Request '400 Bad Request')
+
+[vipxgyun.com#西瓜皮]
+auto_invite  F
+buy  pass
+email  qiphwabr435@gmail.com
+last_checkin  2024-04-18 04:48:42.041619+08:00
+name  西瓜皮是真的皮
+node_n  15
+sub_info  0B  10.1G  2024-04-18 06:48:40+08:00  (剩余 10.1G 1:59:50.999441)
+sub_url  https://dy1.dx035.top/link/5o4DyrcAyKCEwogG?sub=3
+time  2024-04-18 04:48:45.927634+08:00
+type  sspanel
+
+[mgnet.vip]
+auto_invite  F
+buy  pass
+email  asyqgkq760@gmail.com
+last_checkin  2024-04-18 04:48:42.322079+08:00
+name  MG Network
+node_n  11
+sub_info  0B  5.407G  2024-04-20 05:48:41+08:00  (剩余 5.407G 2 days, 0:59:56.891262)
+sub_url  https://www.mgnet.sbs/link/vEbCaMwW6e0PZWSN?sub=3
+time  2024-04-18 04:48:42.804094+08:00
+type  sspanel
+
+[www.qlgq.top]
+banned_domains  mydefipet.live
+name  墙了个墙
+type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(zuyhaqrng135@mydefipet.live)
