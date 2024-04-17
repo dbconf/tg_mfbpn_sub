@@ -10,21 +10,49 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - SG
-  - JP
-  - Other
+  proxies: &id001
+  - 🇭🇰 香港 / A｜HK - 小白云
+  - 🇭🇰 香港 / B｜HK - 小白云
+  - 🇹🇼 台湾 / A｜TW - 小白云
+  - 🇹🇼 台湾 / B｜TW - 小白云
+  - 🇹🇼 TW｜海外用户 - 小白云
+  - 🇸🇬 新加坡 / A｜SG - 小白云
+  - 🇸🇬 新加坡 / B｜SG - 小白云
+  - 🇯🇵 日本 / A｜JP - 小白云
+  - 🇯🇵 日本 / B｜JP - 小白云
+  - 🇺🇸 美国 / A｜US - 小白云
+  - 🇺🇸 美国 / B｜US - 小白云
+  - ℹ️ 官网:cooc.wiki - 小白云
+  - 🇰🇷 韩国 / A｜KR - 小白云
+  - 🇰🇷 韩国 / B｜KR - 小白云
+  - 🇹🇭 泰国 / TH｜BIZ - 小白云
+  - 🇻🇳 越南 / VN | BIZ - 小白云
+  - 🇬🇧 英国 / UK | BIZ - 小白云
+  - 🇩🇪 德国 / DE | BIZ - 小白云
+  - 🇫🇷 法国 / FR｜BIZ - 小白云
+  - 🇷🇺 俄罗斯 / RU｜BIZ - 小白云
+  - 🇲🇾 马来西亚 / MY | BIZ - 小白云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -40,17 +68,27 @@ proxy-groups:
 - name: 📺 ‍B站
   type: select
   proxies:
+  - 🇨🇳 ‍中国
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🛩️ ‍墙内
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - ✈️ ‍起飞
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 👆🏻 ‍指定
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - ✈️ ‍起飞
@@ -61,61 +99,120 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港 / A｜HK - 小白云
+  - 🇭🇰 香港 / B｜HK - 小白云
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 台湾 / A｜TW - 小白云
+  - 🇹🇼 台湾 / B｜TW - 小白云
+  - 🇹🇼 TW｜海外用户 - 小白云
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 香港 / A｜HK - 小白云
+  - 🇭🇰 香港 / B｜HK - 小白云
+  - 🇹🇼 台湾 / A｜TW - 小白云
+  - 🇹🇼 台湾 / B｜TW - 小白云
+  - 🇹🇼 TW｜海外用户 - 小白云
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - SG
+  proxies: &id005
+  - 🇸🇬 新加坡 / A｜SG - 小白云
+  - 🇸🇬 新加坡 / B｜SG - 小白云
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - JP
+  proxies: &id006
+  - 🇯🇵 日本 / A｜JP - 小白云
+  - 🇯🇵 日本 / B｜JP - 小白云
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸 美国 / A｜US - 小白云
+  - 🇺🇸 美国 / B｜US - 小白云
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id004
-  - Other
+  proxies: &id008
+  - ℹ️ 官网:cooc.wiki - 小白云
+  - 🇰🇷 韩国 / A｜KR - 小白云
+  - 🇰🇷 韩国 / B｜KR - 小白云
+  - 🇹🇭 泰国 / TH｜BIZ - 小白云
+  - 🇻🇳 越南 / VN | BIZ - 小白云
+  - 🇬🇧 英国 / UK | BIZ - 小白云
+  - 🇩🇪 德国 / DE | BIZ - 小白云
+  - 🇫🇷 法国 / FR｜BIZ - 小白云
+  - 🇷🇺 俄罗斯 / RU｜BIZ - 小白云
+  - 🇲🇾 马来西亚 / MY | BIZ - 小白云
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id002
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id003
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id004
-proxy-providers:
-  SG:
-    type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cloud.colacloud.site#可乐云/SG.yaml
-    interval: 180
-    path: trials_providers/cloud.colacloud.site#可乐云/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cloud.colacloud.site#可乐云/JP.yaml
-    interval: 180
-    path: trials_providers/cloud.colacloud.site#可乐云/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cloud.colacloud.site#可乐云/Other.yaml
-    interval: 180
-    path: trials_providers/cloud.colacloud.site#可乐云/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇰🇷 韩国 / A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇰🇷 韩国 / B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇹🇼 台湾 / A｜TW - 小白云, server: tw1.iepl.cooc.icu, port: 35109, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇹🇼 台湾 / B｜TW - 小白云, server: tw2.iepl.cooc.icu, port: 35110, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇸🇬 新加坡 / A｜SG - 小白云, server: sg1.iepl.cooc.icu, port: 35105, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇸🇬 新加坡 / B｜SG - 小白云, server: sg2.iepl.cooc.icu, port: 35106, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇹🇭 泰国 / TH｜BIZ - 小白云, server: th.iepl.cooc.icu, port: 35613, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇻🇳 越南 / VN | BIZ - 小白云, server: vn1.iepl.cooc.icu, port: 35601, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇬🇧 英国 / UK | BIZ - 小白云, server: uk1.iepl.cooc.icu, port: 35605, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇩🇪 德国 / DE | BIZ - 小白云, server: ger1.iepl.cooc.icu, port: 35607, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇫🇷 法国 / FR｜BIZ - 小白云, server: fr1.iepl.cooc.icu, port: 35611, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇷🇺 俄罗斯 / RU｜BIZ - 小白云, server: ru.iepl.cooc.icu, port: 35612, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇲🇾 马来西亚 / MY | BIZ - 小白云, server: mas1.iepl.cooc.icu, port: 35603, type: ss, cipher: aes-128-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
+- {name: 🇹🇼 TW｜海外用户 - 小白云, server: tw.cooc.icu, port: 36881, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -202,6 +299,7 @@ rules:
 - DOMAIN-SUFFIX,ctobsnssdk.com,💩 ‍广告
 - DOMAIN,api.hzsanjiaomao.com,💩 ‍广告
 - DOMAIN,api.juliangcili.com,💩 ‍广告
+- DOMAIN-SUFFIX,anythinktech.com,💩 ‍广告
 - DOMAIN-KEYWORD,admarvel,💩 ‍广告
 - DOMAIN-KEYWORD,admaster,💩 ‍广告
 - DOMAIN-KEYWORD,adsage,💩 ‍广告
@@ -1793,7 +1891,6 @@ rules:
 - DOMAIN-SUFFIX,gtm.oasisfeng.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,mtalk.google.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ocsp.pki.goog,🛩️ ‍墙内
-- DOMAIN-SUFFIX,recaptcha.net,🛩️ ‍墙内
 - DOMAIN-SUFFIX,safebrowsing-cache.google.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,settings.crashlytics.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com,🛩️ ‍墙内
@@ -5350,6 +5447,7 @@ rules:
 - DOMAIN-SUFFIX,realsexpass.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,reason.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,rebatesrule.net,✈️ ‍起飞
+- DOMAIN-SUFFIX,recaptcha.net,✈️ ‍起飞
 - DOMAIN-SUFFIX,recordhistory.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,recoveryversion.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,red-lang.org,✈️ ‍起飞

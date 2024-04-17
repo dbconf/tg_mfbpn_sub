@@ -145,54 +145,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/vipxgyun.com#西瓜皮/HK.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cooc.cloud#小白云/HK.yaml
     interval: 180
-    path: trials_providers/vipxgyun.com#西瓜皮/HK.yaml
+    path: trials_providers/cooc.cloud#小白云/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/vipxgyun.com#西瓜皮/TW.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cooc.cloud#小白云/TW.yaml
     interval: 180
-    path: trials_providers/vipxgyun.com#西瓜皮/TW.yaml
+    path: trials_providers/cooc.cloud#小白云/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/vipxgyun.com#西瓜皮/SG.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cooc.cloud#小白云/SG.yaml
     interval: 180
-    path: trials_providers/vipxgyun.com#西瓜皮/SG.yaml
+    path: trials_providers/cooc.cloud#小白云/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/vipxgyun.com#西瓜皮/JP.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cooc.cloud#小白云/JP.yaml
     interval: 180
-    path: trials_providers/vipxgyun.com#西瓜皮/JP.yaml
+    path: trials_providers/cooc.cloud#小白云/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/vipxgyun.com#西瓜皮/US.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cooc.cloud#小白云/US.yaml
     interval: 180
-    path: trials_providers/vipxgyun.com#西瓜皮/US.yaml
+    path: trials_providers/cooc.cloud#小白云/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/vipxgyun.com#西瓜皮/Other.yaml
+    url: https://raw.kgithub.com/dbconf/ausub/sub/trials_providers/cooc.cloud#小白云/Other.yaml
     interval: 180
-    path: trials_providers/vipxgyun.com#西瓜皮/Other.yaml
+    path: trials_providers/cooc.cloud#小白云/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
