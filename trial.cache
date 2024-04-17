@@ -3,7 +3,7 @@ buy  pass
 email  jgrvmgsu928@gmail.com
 name  小白云
 node_n  21
-sub_info  0B  5G  2024-04-18 10:48:44+08:00  (剩余 5G 5:59:57.018232)
+sub_info  3.2G  5G  2024-04-18 10:48:44+08:00  (剩余 1.8G 5:48:26.390984)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=92c9eb3cb810d7d00964390c12516aec
 time  2024-04-18 04:48:44.897823+08:00
 type  v2board
@@ -11,14 +11,13 @@ type  v2board
 [www.flybar4.cc]
 email  hothqtm63@mail.wvwvw.tech
 invite_code  CVwg  9999
-last_checkin  0
+last_checkin  2024-04-18 05:00:02.163966+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10G  2024-04-19 04:49:04+08:00  (剩余 10G 23:59:56.576989)
+sub_info  239K  10.18G  2024-04-19 04:49:04+08:00  (剩余 10.18G 23:48:42.254898)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/6QWZpFkGVsb5p5Ye?sub=3
 time  2024-04-18 04:49:06.271083+08:00
 type  sspanel
-尝试签到失败  解析 json 失败: Extra data: line 1 column 5 (char 4) (400 Bad Request '400 Bad Request')
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -27,7 +26,7 @@ email  qiphwabr435@gmail.com
 last_checkin  2024-04-18 04:48:42.041619+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-04-18 06:48:40+08:00  (剩余 10.1G 1:59:50.999441)
+sub_info  396.4M  10.1G  2024-04-18 06:48:40+08:00  (剩余 9.716G 1:48:34.466058)
 sub_url  https://dy1.dx035.top/link/5o4DyrcAyKCEwogG?sub=3
 time  2024-04-18 04:48:45.927634+08:00
 type  sspanel
@@ -39,13 +38,20 @@ email  asyqgkq760@gmail.com
 last_checkin  2024-04-18 04:48:42.322079+08:00
 name  MG Network
 node_n  11
-sub_info  0B  5.407G  2024-04-20 05:48:41+08:00  (剩余 5.407G 2 days, 0:59:56.891262)
+sub_info  0B  5.407G  2024-04-20 05:48:41+08:00  (剩余 5.407G 2 days, 0:48:37.005844)
 sub_url  https://www.mgnet.sbs/link/vEbCaMwW6e0PZWSN?sub=3
 time  2024-04-18 04:48:42.804094+08:00
 type  sspanel
 
 [www.qlgq.top]
+auto_invite  F
 banned_domains  mydefipet.live
+buy  pass
+email  rawlwxo77@adxp.haihantnc.xyz
+last_checkin  2024-04-18 05:00:13.369273+08:00
 name  墙了个墙
+node_n  28
+sub_info  0B  888G  2024-04-19 05:00:10+08:00  (剩余 888G 23:59:52.239515)
+sub_url  https://www.qlgq.top/link/2de9b4a2d0d9d62e?clash=1#墙了个墙
+time  2024-04-18 05:00:14.186768+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(zuyhaqrng135@mydefipet.live)
