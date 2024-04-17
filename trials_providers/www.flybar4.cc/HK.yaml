@@ -1,11 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 V4-4009|香港|x1.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13004, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇭🇰 V4-4010|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 13002, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /ef483582-6269-468c-93af-c511eccb8a69, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇭🇰 V4-4011|香港|x2.0 - 海豚云, server: dnspsdhaitun.ncsuwei.top, port: 17002, type: vmess, uuid: 3080fd65-3646-31b1-b972-d1a1ec4cb6f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af483582-6269-468c-93af-c512ec2b1a61, headers: {Host: dnspsdhaitun.ncsuwei.top}}, udp: true}
-- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
-- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: d03cb74a-eb8c-4e47-99d3-10dcb7cc06fc, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: cfdab3d2-c500-3b3b-a01b-c61722207d37, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: cfdab3d2-c500-3b3b-a01b-c61722207d37, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: cfdab3d2-c500-3b3b-a01b-c61722207d37, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
