@@ -1,13 +1,13 @@
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  txoafbf903@gmail.com
-last_checkin  2024-04-17 11:46:45.021481+08:00
+email  lzsbbkm133@gmail.com
+last_checkin  2024-04-17 12:23:18.127782+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-04-17 13:46:44+08:00  (剩余 10.11G 1:48:32.719807)
-sub_url  https://dy1.dx035.top/link/iXTizCj4n6Z0Q45H?sub=3
-time  2024-04-17 11:46:48.224698+08:00
+sub_info  0B  10.1G  2024-04-17 14:23:18+08:00  (剩余 10.1G 1:59:55.622864)
+sub_url  https://dy1.dx035.top/link/dNEHc4x2pTN5mVN0?sub=3
+time  2024-04-17 12:23:21.236032+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
@@ -32,7 +32,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd1160e9000>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f136cdfa5c0>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -63,11 +63,11 @@ type  v2board
 
 [cloud.colacloud.site#可乐云]
 buy  pass
-email  vthwvzfu79@gmail.com
+email  bxtmyiadu390@gmail.com
 name  可乐云
 node_n  3
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud3.colacloud.site/api/v1/client/subscribe?token=37468400b90df1a94e9ce638247a668b
-time  2024-04-17 12:00:14.172296+08:00
+sub_url  https://cloud.colacloud.site/api/v1/client/subscribe?token=319d3e9d2e150812bc01ef09ce9e9450
+time  2024-04-17 12:23:25.040196+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
