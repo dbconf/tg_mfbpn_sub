@@ -20,7 +20,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3b3ccfb5b0>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7febeae4e2c0>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -39,7 +39,7 @@ buy  pass
 email  eprmhll617@gmail.com
 name  小白云
 node_n  21
-sub_info  0B  5G  2024-04-18 09:26:57+08:00  (剩余 5G 5:48:27.127653)
+sub_info  297.1M  5G  2024-04-18 09:26:57+08:00  (剩余 4.71G 5:36:51.208024)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=ec829fc954a654c15a853eba2d9ac5ec
 time  2024-04-18 03:26:58.552033+08:00
 type  v2board
@@ -50,7 +50,7 @@ invite_code  FHgC  10000
 last_checkin  2024-04-18 03:38:41.511767+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.1G  2024-04-19 03:38:39+08:00  (剩余 10.1G 23:57:51.758785)
+sub_info  0B  10.1G  2024-04-19 03:38:39+08:00  (剩余 10.1G 23:48:32.428239)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/Sdjw3B6Vojf0WrON?sub=3
 time  2024-04-18 03:38:42.806211+08:00
 type  sspanel
