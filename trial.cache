@@ -1,13 +1,13 @@
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  barakmv228@gmail.com
-last_checkin  2024-04-18 02:39:13.157085+08:00
+email  isntmhg423@gmail.com
+last_checkin  2024-04-18 03:12:35.263138+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-04-18 04:39:13+08:00  (剩余 10.12G 1:48:34.178706)
-sub_url  https://dy1.dx035.top/link/IcGfOXuJVYkBvBAV?sub=3
-time  2024-04-18 02:39:16.480352+08:00
+sub_info  0B  10.11G  2024-04-18 05:12:35+08:00  (剩余 10.11G 1:55:46.437845)
+sub_url  https://dy1.dx035.top/link/jhEpnQJCQCP8OPKb?sub=3
+time  2024-04-18 03:12:38.388628+08:00
 type  sspanel
 
 [cloud.doushimeng.com#都是梦]
@@ -32,7 +32,7 @@ sub_url  https://my.bfhk.xyz//api/v1/client/subscribe?token=4796a1b9cdfa39f53c73
 time  2024-01-22 19:31:12.865340+08:00
 type  v2board
 保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 16, column 150: ... o Domain Parking</a>. Disclaimer: Sedo maintains no relationship ... ^ (line: 16)
-更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f19ace94190>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='my.bfhk.xyz', port=443): Max retries exceeded with url: //api/v1/client/subscribe?token=4796a1b9cdfa39f53c7317ff54789eae (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff6b6aaa770>: Failed to resolve 'my.bfhk.xyz' ([Errno -2] Name or service not known)"))
 
 [haituncloud.xyz]
 email  qqwynfhol474@gmail.com
@@ -71,4 +71,4 @@ sub_url  https://cloud1.colacloud.site/api/v1/client/subscribe?token=c3e5886bdfd
 time  2024-04-17 23:36:50.182965+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c3e5886bdfda842a39eba563619226d4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f19ace976a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+更新旧订阅失败  HTTPSConnectionPool(host='cloud.colacloud.site', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c3e5886bdfda842a39eba563619226d4 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff6b44c2980>: Failed to establish a new connection: [Errno 111] Connection refused'))
