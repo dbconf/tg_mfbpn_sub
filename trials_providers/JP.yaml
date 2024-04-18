@@ -3,8 +3,8 @@
 proxies:
 - {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19831, type: vmess, uuid: 94a00537-2c89-3d4d-8a35-052a8ce61036, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19832, type: vmess, uuid: 94a00537-2c89-3d4d-8a35-052a8ce61036, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: e7b17022-e7ed-4ea6-b318-e3b987efb7f8, udp: true}
-- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: e7b17022-e7ed-4ea6-b318-e3b987efb7f8, udp: true}
+- {name: 🇯🇵 日本 / A｜JP - 小白云, server: jp1.iepl.cooc.icu, port: 47100, type: ss, cipher: aes-256-gcm, password: 2467741a-604e-47ce-881e-5be05a47c887, udp: true}
+- {name: 🇯🇵 日本 / B｜JP - 小白云, server: jp2.iepl.cooc.icu, port: 47101, type: ss, cipher: aes-256-gcm, password: 2467741a-604e-47ce-881e-5be05a47c887, udp: true}
 - {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61239, type: trojan, password: 13f67a3a-a417-3eaf-afe7-8014865d1c45, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61238, type: trojan, password: 13f67a3a-a417-3eaf-afe7-8014865d1c45, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
 - {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61237, type: trojan, password: 13f67a3a-a417-3eaf-afe7-8014865d1c45, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
