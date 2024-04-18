@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: c291f3ec-5828-3aa3-b3c0-cd0b822a3dca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: c291f3ec-5828-3aa3-b3c0-cd0b822a3dca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 4daba7ef-fcdd-3def-90e6-466ece0c3dd8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: 4daba7ef-fcdd-3def-90e6-466ece0c3dd8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 477fd7ae-2c42-47f5-aa4d-cb01dcfa8737, udp: true}
 - {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 477fd7ae-2c42-47f5-aa4d-cb01dcfa8737, udp: true}
 - {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 13f67a3a-a417-3eaf-afe7-8014865d1c45, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
