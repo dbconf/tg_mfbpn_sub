@@ -3,24 +3,24 @@ buy  pass
 email  usvhvtniy930@gmail.com
 name  小白云
 node_n  21
-sub_info  481.3M  5G  2024-04-18 23:16:02+08:00  (剩余 4.53G 5:48:39.837265)
-sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=e9e2e23f70c1282b7c33f3f6ff82f9da
+sub_info  10.85G  5G  2024-04-18 23:16:02+08:00  (剩余 -5.854G 5:17:35.313321)
+sub_url  https://cooc.cloud/api/v1/client/subscribe?token=e9e2e23f70c1282b7c33f3f6ff82f9da
 time  2024-04-18 17:16:03.029881+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=e9e2e23f70c1282b7c33f3f6ff82f9da (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f80ccc37640>, 'Connection to cooc.cloud timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(etsvwrvg434@gmail.com): HTTPSConnectionPool(host='cooc.cloud', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5582312cb0>, 'Connection to cooc.cloud timed out. (connect timeout=30)'))
 
 [www.flybar4.cc]
 banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com
-email  njaacakuw209@ipiso.tmmad.com
-invite_code  afBE  10000
-last_checkin  2024-04-18 16:28:38.440234+08:00
+email  uxwrepp28@www.nm.pe
+invite_code  afBE  9999
+last_checkin  0
 name  飞翔吧
 node_n  47
-sub_info  11.72G  10.12G  2024-04-19 16:28:36+08:00  (剩余 -1.599G 22:47:39.572379)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/mzNMzUYi3wuDSHSs?sub=3
-time  2024-04-18 16:28:39.744112+08:00
+sub_info  0B  10G  2024-04-19 17:51:40+08:00  (剩余 10G 23:57:51.018425)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/wbKkMIwcSYoxPNQk?sub=3
+time  2024-04-18 17:51:42.655664+08:00
 type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(iwziljgf242@psnator.com)
+尝试签到失败  解析 json 失败: Extra data: line 1 column 5 (char 4) (400 Bad Request '400 Bad Request')
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -29,7 +29,7 @@ email  qpvbblvpm368@gmail.com
 last_checkin  2024-04-18 17:39:44.575680+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-04-18 19:39:44+08:00  (剩余 10.11G 1:59:54.242816)
+sub_info  0B  10.11G  2024-04-18 19:39:44+08:00  (剩余 10.11G 1:48:15.984208)
 sub_url  https://dy1.dx035.top/link/4Hqfb1TZoypuHnHV?sub=3
 time  2024-04-18 17:39:48.090949+08:00
 type  sspanel
@@ -42,7 +42,7 @@ email  rawlwxo77@adxp.haihantnc.xyz
 last_checkin  2024-04-18 05:00:13.369273+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-19 05:00:10+08:00  (剩余 888G 11:20:25.268519)
+sub_info  0B  888G  2024-04-19 05:00:10+08:00  (剩余 888G 11:04:37.862748)
 sub_url  https://www.qlgq.top/link/2de9b4a2d0d9d62e?clash=1#墙了个墙
 time  2024-04-18 05:00:14.186768+08:00
 type  sspanel
