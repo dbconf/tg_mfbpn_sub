@@ -1,26 +1,24 @@
 [cooc.cloud#小白云]
 buy  pass
-email  upynmbz200@gmail.com
+email  depvqkr386@gmail.com
 name  小白云
 node_n  21
-sub_info  2.673G  5G  2024-04-20 13:00:17+08:00  (剩余 2.327G 5:38:43.108624)
-sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=b1a34c766bd567a11bc042a62617e642
-time  2024-04-20 07:00:18.144154+08:00
+sub_info  0B  5G  2024-04-20 13:38:23+08:00  (剩余 5G 5:59:50.853171)
+sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=333561ad56f887c010c02fe1e57f714f
+time  2024-04-20 07:38:24.146130+08:00
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [www.flybar4.cc]
 banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com  moakt.co  tmails.net
 email  jyymfut819@haihantnc.xyz
 invite_code  FHZj  9998
-last_checkin  0
+last_checkin  2024-04-20 07:38:18.920585+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10G  2024-04-21 07:21:52+08:00  (剩余 10G 23:59:50.352452)
+sub_info  3.929G  10.14G  2024-04-21 07:21:52+08:00  (剩余 6.209G 23:41:08.559192)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/yMbkvDZpOBOgqyg8?sub=3
 time  2024-04-20 07:21:54.640970+08:00
 type  sspanel
-尝试签到失败  解析 json 失败: Extra data: line 1 column 5 (char 4) (400 Bad Request '400 Bad Request')
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -29,7 +27,7 @@ email  rqqhpivz483@gmail.com
 last_checkin  2024-04-20 07:21:34.596662+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2024-04-20 09:21:34+08:00  (剩余 10.13G 1:59:50.073113)
+sub_info  5.516G  10.13G  2024-04-20 09:21:34+08:00  (剩余 4.616G 1:43:08.149379)
 sub_url  https://dy1.dx035.top/link/F6WBt1DKn3Vy7xum?sub=3
 time  2024-04-20 07:21:37.879892+08:00
 type  sspanel
@@ -42,7 +40,7 @@ email  jlghnbp8@btcstar.site
 last_checkin  2024-04-20 03:52:45.810629+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-21 03:52:45+08:00  (剩余 888G 20:29:10.174359)
+sub_info  0B  888G  2024-04-21 03:52:45+08:00  (剩余 888G 20:14:18.969387)
 sub_url  https://www.qlgq.top/link/802f67ce8d0b4300?clash=1#墙了个墙
 time  2024-04-20 03:52:46.439983+08:00
 type  sspanel
