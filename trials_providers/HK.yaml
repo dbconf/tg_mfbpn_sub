@@ -1,10 +1,10 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 11316b83-55e2-336b-afcc-ecb1e1f1f536, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 11316b83-55e2-336b-afcc-ecb1e1f1f536, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 6d9b93bb-c21d-46eb-9162-10b218c4baee, udp: true}
-- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 6d9b93bb-c21d-46eb-9162-10b218c4baee, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 9e48fa0b-b395-30be-ba66-624d4fbfefbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 9e48fa0b-b395-30be-ba66-624d4fbfefbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: ebee30a1-ca3a-4434-912c-5b6dcb4b4834, udp: true}
+- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: ebee30a1-ca3a-4434-912c-5b6dcb4b4834, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq.fun, port: 12249, type: trojan, password: e9a232c5-3b0b-3a32-9853-f8c7040ec204, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
 - {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip102.qlgq.fun, port: 22249, type: trojan, password: e9a232c5-3b0b-3a32-9853-f8c7040ec204, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
 - {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: e9a232c5-3b0b-3a32-9853-f8c7040ec204, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
