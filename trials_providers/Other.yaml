@@ -1,11 +1,11 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 36b6842b-a522-3bdd-8a3e-1a36391f9e99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: 36b6842b-a522-3bdd-8a3e-1a36391f9e99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: 36b6842b-a522-3bdd-8a3e-1a36391f9e99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: 36b6842b-a522-3bdd-8a3e-1a36391f9e99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 36b6842b-a522-3bdd-8a3e-1a36391f9e99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19891, type: vmess, uuid: 4712ceb4-c0d5-300d-9d24-121d5735976a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19892, type: vmess, uuid: 4712ceb4-c0d5-300d-9d24-121d5735976a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19893, type: vmess, uuid: 4712ceb4-c0d5-300d-9d24-121d5735976a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19894, type: vmess, uuid: 4712ceb4-c0d5-300d-9d24-121d5735976a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 4712ceb4-c0d5-300d-9d24-121d5735976a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 官网:cooc.wiki - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 5b3a8269-0600-4d78-816a-fbf64e0dedf9, udp: true}
 - {name: 🇰🇷 韩国 / A｜KR - 小白云, server: kr1.iepl.cooc.icu, port: 35101, type: ss, cipher: aes-128-gcm, password: 5b3a8269-0600-4d78-816a-fbf64e0dedf9, udp: true}
 - {name: 🇰🇷 韩国 / B｜KR - 小白云, server: kr2.iepl.cooc.icu, port: 35102, type: ss, cipher: aes-128-gcm, password: 5b3a8269-0600-4d78-816a-fbf64e0dedf9, udp: true}
@@ -21,12 +21,12 @@ proxies:
 - {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq.fun, port: 31789, type: trojan, password: f27d10df-6118-387f-bc51-50971c9c3c41, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
 - {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip101.qlgq.fun, port: 41789, type: trojan, password: f27d10df-6118-387f-bc51-50971c9c3c41, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
 - {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip101.qlgq.fun, port: 51789, type: trojan, password: f27d10df-6118-387f-bc51-50971c9c3c41, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
-- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 74044566-e4c0-3ff3-a98c-357fffb28a5f, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国302•GPT - 飞翔吧, server: gy.58n.net, port: 20302, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国303•GPT - 飞翔吧, server: gy.58n.net, port: 20303, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国304•GPT - 飞翔吧, server: gy.58n.net, port: 20304, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国305•GPT - 飞翔吧, server: gy.58n.net, port: 20305, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 中转•德国306•GPT - 飞翔吧, server: gy.58n.net, port: 20306, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 中转•英国268•高速 - 飞翔吧, server: gy.58n.net, port: 11215, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: 85c51740-ae97-39e6-a570-32d03ab3b7fd, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
