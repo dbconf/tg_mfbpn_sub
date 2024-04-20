@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 3d419e91-6e04-3928-a7a7-a8d09463f32d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 3d419e91-6e04-3928-a7a7-a8d09463f32d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: f62d7fc0-bd74-3e5c-a6e0-586540ed4133, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: f62d7fc0-bd74-3e5c-a6e0-586540ed4133, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 84d897bb-9900-44c8-a76e-72eacdfee3d4, udp: true}
 - {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 84d897bb-9900-44c8-a76e-72eacdfee3d4, udp: true}
 - {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip102.qlgq.fun, port: 12249, type: trojan, password: f27d10df-6118-387f-bc51-50971c9c3c41, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
