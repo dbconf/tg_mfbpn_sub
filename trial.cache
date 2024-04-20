@@ -3,22 +3,23 @@ buy  pass
 email  gtlbvtu250@gmail.com
 name  小白云
 node_n  21
-sub_info  0B  5G  2024-04-21 09:49:34+08:00  (剩余 5G 5:59:55.533484)
+sub_info  534.4M  5G  2024-04-21 09:49:34+08:00  (剩余 4.478G 5:44:39.323888)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=18d866aeea78866489c096472402e82b
 time  2024-04-21 03:49:35.094063+08:00
 type  v2board
 
 [www.flybar4.cc]
-banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com  moakt.co  tmails.net  tmail.ws
-email  vpxqjdqk579@guerrillamail.de
-invite_code  uW2Q  10000
-last_checkin  2024-04-21 03:27:17.295561+08:00
+banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com  moakt.co  tmails.net  tmail.ws  bareed.ws
+email  xllryifd923@guerrillamail.com
+invite_code  uW2Q  9999
+last_checkin  0
 name  飞翔吧
 node_n  47
-sub_info  3.406G  10.13G  2024-04-22 03:27:15+08:00  (剩余 6.726G 23:37:39.390121)
-sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/JzWPy0IetfyV88zA?sub=3
-time  2024-04-21 03:27:18.457817+08:00
+sub_info  0B  10G  2024-04-22 04:05:38+08:00  (剩余 10G 23:59:52.818881)
+sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/pB2PJBz6FRUMBcXv?sub=3
+time  2024-04-21 04:05:40.903297+08:00
 type  sspanel
+尝试签到失败  解析 json 失败: Extra data: line 1 column 5 (char 4) (400 Bad Request '400 Bad Request')
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -27,7 +28,7 @@ email  dzxcyagy192@gmail.com
 last_checkin  2024-04-21 03:38:02.100001+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-04-21 05:38:02+08:00  (剩余 10.14G 1:48:31.774094)
+sub_info  8.485G  10.14G  2024-04-21 05:38:02+08:00  (剩余 1.659G 1:33:01.945155)
 sub_url  https://dy1.dx035.top/link/gWdmkRmzFvqZ01Cg?sub=3
 time  2024-04-21 03:38:05.503382+08:00
 type  sspanel
@@ -40,7 +41,7 @@ email  rehronpgh278@disbox.org
 last_checkin  2024-04-21 03:17:24.729174+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-22 03:17:24+08:00  (剩余 888G 23:27:52.188623)
+sub_info  0B  888G  2024-04-22 03:17:24+08:00  (剩余 888G 23:12:10.482975)
 sub_url  https://www.qlgq.top/link/106cd5f009229223?clash=1#墙了个墙
 time  2024-04-21 03:17:25.383400+08:00
 type  sspanel
