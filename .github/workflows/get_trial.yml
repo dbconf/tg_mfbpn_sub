@@ -2,11 +2,12 @@ name: get_trial.py
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0/10 * * * *'
+    - cron:  '0/5 * * * *'
 permissions: write-all
 jobs:
   main:
-    runs-on: ubuntu-latest
+ #   runs-on: ubuntu-latest
+    runs-on: self-hosted
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       DDAL_EMAIL: ${{ secrets.DDAL_EMAIL }}
