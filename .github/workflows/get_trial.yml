@@ -18,7 +18,7 @@ jobs:
           ref: ${{ github.ref }}
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.6'
+          python-version: '3.6' 
       - name: Prepare
         run: pip install requests beautifulsoup4 ruamel.yaml json5
       - name: Run get_trial.py
