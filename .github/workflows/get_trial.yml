@@ -18,11 +18,11 @@ jobs:
           ref: ${{ github.ref }}
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.6' 
+          python-version: '3.9' 
       - name: Prepare
-        run: pip3.6 install requests beautifulsoup4 ruamel.yaml json5
+        run: pip install requests beautifulsoup4 ruamel.yaml json5
       - name: Run get_trial.py
-        run: python3.6 get_trial.py
+        run: python get_trial.py
       - name: Commit
         id: commit
         continue-on-error: true
@@ -35,4 +35,4 @@ jobs:
       - uses: ad-m/github-push-action@master
         if: ${{ steps.commit.outcome == 'success' }}
       - name: Run get_trial_update_url.py
-        run: python3.6 get_trial_update_url.py
+        run: python get_trial_update_url.py
