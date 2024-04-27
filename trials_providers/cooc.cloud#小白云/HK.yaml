@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 0d3c3d55-3737-4d08-956c-d2cafa012faf, udp: true}
-- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 0d3c3d55-3737-4d08-956c-d2cafa012faf, udp: true}
+- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 56f39c6a-3e4f-4ea9-b31c-03566857e11f, udp: true}
+- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 56f39c6a-3e4f-4ea9-b31c-03566857e11f, udp: true}
