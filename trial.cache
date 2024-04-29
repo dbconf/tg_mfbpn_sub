@@ -4,7 +4,7 @@ buy  pass
 email  iuixuph419@jkb.tmmad.com
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-04-29 13:25:31+08:00  (剩余 5G 3:09:38.504993)
+sub_info  0B  5G  2024-04-29 13:25:31+08:00  (剩余 5G 2:58:50.156403)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=7028a2be3675de2d516662537b262548
 time  2024-04-29 07:25:31.337217+08:00
 type  v2board
@@ -23,7 +23,7 @@ type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(bnbdhcfta110@end.tw): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"xsvanwfsk672@rootsh.com","success":"false"}'
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -32,7 +32,7 @@ email  ikoinme768@gmail.com
 last_checkin  2024-04-29 09:57:26.886196+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-04-29 11:57:26+08:00  (剩余 10.14G 1:41:34.010704)
+sub_info  0B  10.14G  2024-04-29 11:57:26+08:00  (剩余 10.14G 1:30:34.986727)
 sub_url  https://dy2.dx035.top/link/baSYoSEwTH3CjDae?sub=3
 time  2024-04-29 09:57:30.627626+08:00
 type  sspanel
@@ -45,7 +45,7 @@ email  pfraylrh288@btcstar.site
 last_checkin  2024-04-29 00:48:37.703487+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-30 00:48:37+08:00  (剩余 888G 14:32:41.888612)
+sub_info  0B  888G  2024-04-30 00:48:37+08:00  (剩余 888G 14:21:56.253275)
 sub_url  https://www.qlgq.top/link/dd7ce17f1670b016?clash=1#墙了个墙
 time  2024-04-29 00:48:38.279457+08:00
 type  sspanel
