@@ -4,7 +4,7 @@ buy  pass
 email  ehrmyzzz917@965.tmmad.com
 name  小白云
 node_n  23
-sub_info  355.7M  5G  2024-05-01 08:26:04+08:00  (剩余 4.653G 3:05:24.352304)
+sub_info  355.7M  5G  2024-05-01 08:26:04+08:00  (剩余 4.653G 2:58:37.187582)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=ffa6f37cbb07bdd909e42d8ade53695a
 time  2024-05-01 02:26:05.084881+08:00
 type  v2board
@@ -20,10 +20,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 9, column 27: <title>sub.xeton.dev | 502: Bad gateway</title> ^ (line: 9)
+保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(tlltvrggb813@wfes.site): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(rxxilqxs709@grr.la): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -32,7 +32,7 @@ email  hrcxpzpgj273@gmail.com
 last_checkin  2024-05-01 05:19:36.627582+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-05-01 07:19:36+08:00  (剩余 10.1G 1:57:48.734569)
+sub_info  0B  10.1G  2024-05-01 07:19:36+08:00  (剩余 10.1G 1:52:09.123834)
 sub_url  https://dy2.dx035.top/link/GfUEXBnLNXUXJmmo?sub=3
 time  2024-05-01 05:19:40.228966+08:00
 type  sspanel
@@ -45,7 +45,7 @@ email  fwlokqny402@mynanaimohomes.com
 last_checkin  2024-05-01 00:36:36.296659+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888.1G  2024-05-01 23:37:06+08:00  (剩余 888.1G 18:17:30.239512)
+sub_info  0B  888.1G  2024-05-01 23:37:06+08:00  (剩余 888.1G 18:09:14.510838)
 sub_url  https://www.qlgq.top/link/502f862d30f01752?clash=1#墙了个墙
 time  2024-04-30 23:37:07.653973+08:00
 type  sspanel
