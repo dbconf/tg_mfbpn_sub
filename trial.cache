@@ -4,7 +4,7 @@ buy  pass
 email  vfgguaaot865@moakt.co
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-05-04 12:57:01+08:00  (剩余 5G 5:54:54.171552)
+sub_info  18.98K  5G  2024-05-04 12:57:01+08:00  (剩余 5G 5:46:19.294347)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=88b3378e72e54e43a7ba834d5ddc1d54
 time  2024-05-04 06:57:02.170623+08:00
 type  v2board
@@ -20,10 +20,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(qnayjaqrm491@xxxhi.cc): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(beiggln184@guerrillamail.org): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -32,7 +32,7 @@ email  ttggpqt21@gmail.com
 last_checkin  2024-05-04 06:12:54.791265+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  604.7M  10.13G  2024-05-04 08:12:54+08:00  (剩余 9.541G 1:10:49.517164)
+sub_info  1.484G  10.13G  2024-05-04 08:12:54+08:00  (剩余 8.648G 1:02:13.049925)
 sub_url  https://dy2.dx035.top/link/EkavCK5ZLFUhyODa?sub=3
 time  2024-05-04 06:12:58.841976+08:00
 type  sspanel
@@ -45,7 +45,7 @@ email  crrtwvs615@moakt.cc
 last_checkin  2024-05-04 00:37:19.197559+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-04 21:56:03+08:00  (剩余 888G 14:53:56.110522)
+sub_info  0B  888G  2024-05-04 21:56:03+08:00  (剩余 888G 14:43:17.883021)
 sub_url  https://www.qlgq.top/link/1913e32038c6cc22?clash=1#墙了个墙
 time  2024-05-03 21:56:04.694113+08:00
 type  sspanel
