@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: c8c2c404-8428-3eab-b300-61240ccf063f, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: c8c2c404-8428-3eab-b300-61240ccf063f, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: c8c2c404-8428-3eab-b300-61240ccf063f, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: b375e243-6bf6-3735-bffe-7d488a87241b, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: b375e243-6bf6-3735-bffe-7d488a87241b, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: b375e243-6bf6-3735-bffe-7d488a87241b, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
 - {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -13,8 +13,8 @@ proxies:
 - {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: f249aa7f-cfba-32d0-a77d-e6307394cc55, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: f249aa7f-cfba-32d0-a77d-e6307394cc55, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: d4a86b02-505d-431c-aa25-a5b0f1c0f370, udp: true}
-- {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: d4a86b02-505d-431c-aa25-a5b0f1c0f370, udp: true}
-- {name: 🇺🇸 US｜海外用户 - 小白云, server: us.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: d4a86b02-505d-431c-aa25-a5b0f1c0f370, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: 2ba6dc12-d777-3876-9060-52d31d7cc988, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: 2ba6dc12-d777-3876-9060-52d31d7cc988, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: d92da4e4-0f8f-48c6-9f6d-3821f0a3d236, udp: true}
+- {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: d92da4e4-0f8f-48c6-9f6d-3821f0a3d236, udp: true}
+- {name: 🇺🇸 US｜海外用户 - 小白云, server: us.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: d92da4e4-0f8f-48c6-9f6d-3821f0a3d236, udp: true}
