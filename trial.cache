@@ -4,7 +4,7 @@ buy  pass
 email  amipraog469@tmpmail.org
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-05-04 23:56:44+08:00  (剩余 5G 5:36:58.218920)
+sub_info  219.1M  5G  2024-05-04 23:56:44+08:00  (剩余 4.786G 5:26:53.999481)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=58c3117fec123d10cadb43597ab1dc44
 time  2024-05-04 17:56:44.304582+08:00
 type  v2board
@@ -20,10 +20,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 9, column 25: <title>api.dler.io | 502: Bad gateway</title> ^ (line: 9)
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(hyraimz351@linshiyou.com): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(egqnjrxc794@qabq.com): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -32,7 +32,7 @@ email  osprsua318@gmail.com
 last_checkin  2024-05-04 18:10:14.460084+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-05-04 20:10:14+08:00  (剩余 10.1G 1:50:25.588762)
+sub_info  1.411K  10.1G  2024-05-04 20:10:14+08:00  (剩余 10.1G 1:40:27.498494)
 sub_url  https://dy2.dx035.top/link/C66afg9GIhK8yI3T?sub=3
 time  2024-05-04 18:10:18.324480+08:00
 type  sspanel
@@ -45,7 +45,7 @@ email  crrtwvs615@moakt.cc
 last_checkin  2024-05-04 00:37:19.197559+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-04 21:56:03+08:00  (剩余 888G 3:36:15.417143)
+sub_info  0B  888G  2024-05-04 21:56:03+08:00  (剩余 888G 3:26:15.368877)
 sub_url  https://www.qlgq.top/link/1913e32038c6cc22?clash=1#墙了个墙
 time  2024-05-03 21:56:04.694113+08:00
 type  sspanel
