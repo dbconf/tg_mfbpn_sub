@@ -4,7 +4,7 @@ buy  pass
 email  rwrewad612@disbox.org
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-05-04 17:38:51+08:00  (剩余 5G 5:50:45.563255)
+sub_info  142.8M  5G  2024-05-04 17:38:51+08:00  (剩余 4.861G 5:41:04.178286)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=fcd619329643b8489e772fa2dc3697eb
 time  2024-05-04 11:38:52.234044+08:00
 type  v2board
@@ -20,21 +20,21 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(xyscgqw607@nm.pe): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(gphguzsqx203@ipiso.tmmad.com): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  hnavixxon422@gmail.com
-last_checkin  2024-05-04 11:04:21.060863+08:00
+email  qozfdvhok697@gmail.com
+last_checkin  2024-05-04 11:57:50.476655+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  9.462G  10.12G  2024-05-04 13:04:20+08:00  (剩余 678M 1:16:11.537255)
-sub_url  https://dy2.dx035.top/link/QOIYXgqcikOY0omG?sub=3
-time  2024-05-04 11:04:25.026714+08:00
+sub_info  0B  10.14G  2024-05-04 13:57:50+08:00  (剩余 10.14G 1:59:49.547474)
+sub_url  https://dy2.dx035.top/link/ndxUIsLnU3DotYgo?sub=3
+time  2024-05-04 11:57:54.108755+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -45,7 +45,8 @@ email  crrtwvs615@moakt.cc
 last_checkin  2024-05-04 00:37:19.197559+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-04 21:56:03+08:00  (剩余 888G 10:07:56.490982)
+sub_info  0B  888G  2024-05-04 21:56:03+08:00  (剩余 888G 9:58:16.284387)
 sub_url  https://www.qlgq.top/link/1913e32038c6cc22?clash=1#墙了个墙
 time  2024-05-03 21:56:04.694113+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
