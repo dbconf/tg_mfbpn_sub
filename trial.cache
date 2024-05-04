@@ -4,7 +4,7 @@ buy  pass
 email  wxqxdhsww980@moakt.ws
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-05-05 03:02:57+08:00  (剩余 5G 5:53:20.996061)
+sub_info  62.67M  5G  2024-05-05 03:02:57+08:00  (剩余 4.939G 5:44:09.220119)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=9b36acb136e132017d140ceda64b165b
 time  2024-05-04 21:02:58.215389+08:00
 type  v2board
@@ -20,10 +20,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(dbemkzp307@xdanae.com): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"xnlbjvs826@rootsh.com","success":"false"}'
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -32,7 +32,7 @@ email  ndrbyjfp91@gmail.com
 last_checkin  2024-05-04 20:35:07.387308+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  171.8M  10.13G  2024-05-04 22:35:07+08:00  (剩余 9.967G 1:25:33.823497)
+sub_info  2.197G  10.13G  2024-05-04 22:35:07+08:00  (剩余 7.938G 1:16:17.988208)
 sub_url  https://dy2.dx035.top/link/u9Bjms9K5aO3HUOD?sub=3
 time  2024-05-04 20:35:11.024891+08:00
 type  sspanel
@@ -41,11 +41,11 @@ type  sspanel
 auto_invite  F
 banned_domains  mydefipet.live
 buy  pass
-email  crrtwvs615@moakt.cc
-last_checkin  2024-05-04 00:37:19.197559+08:00
+email  jehocimub539@wj32.haihantnc.xyz
+last_checkin  2024-05-04 21:18:54.246484+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-04 21:56:03+08:00  (剩余 888G 0:46:21.582549)
-sub_url  https://www.qlgq.top/link/1913e32038c6cc22?clash=1#墙了个墙
-time  2024-05-03 21:56:04.694113+08:00
+sub_info  0B  888G  2024-05-05 21:18:54+08:00  (剩余 888G 23:59:55.663667)
+sub_url  https://www.qlgq.top/link/48edcd5e8837acd3?clash=1#墙了个墙
+time  2024-05-04 21:18:55.403370+08:00
 type  sspanel
