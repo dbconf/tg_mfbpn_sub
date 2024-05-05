@@ -4,7 +4,7 @@ buy  pass
 email  cetgzzbam16@tmpnator.live
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-05-06 07:43:38+08:00  (剩余 5G 5:50:31.938837)
+sub_info  25.79K  5G  2024-05-06 07:43:38+08:00  (剩余 5G 5:44:15.033912)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=3a5465f29fdd2ab92bb03fa3436d27ba
 time  2024-05-06 01:43:39.136331+08:00
 type  v2board
@@ -20,10 +20,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(bsrdueke403@uuf.me): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"axjdeqy521@rootsh.com","success":"false"}'
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -32,7 +32,7 @@ email  szwaxmp621@gmail.com
 last_checkin  2024-05-06 01:52:30.360314+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-05-06 03:52:30+08:00  (剩余 10.1G 1:59:52.400321)
+sub_info  0B  10.1G  2024-05-06 03:52:30+08:00  (剩余 10.1G 1:52:44.930707)
 sub_url  https://dy2.dx035.top/link/KHeEc1BTMPyOScCP?sub=3
 time  2024-05-06 01:52:34.116524+08:00
 type  sspanel
@@ -45,7 +45,7 @@ email  nexdxykyj267@tmpbox.net
 last_checkin  2024-05-06 00:34:11.673892+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888.1G  2024-05-06 20:48:38+08:00  (剩余 888.1G 18:58:09.391216)
+sub_info  0B  888.1G  2024-05-06 20:48:38+08:00  (剩余 888.1G 18:49:16.544730)
 sub_url  https://www.qlgq.top/link/40507b69270c7fe7?clash=1#墙了个墙
 time  2024-05-05 20:48:39.899630+08:00
 type  sspanel
