@@ -4,13 +4,13 @@ buy  pass
 email  gjahjoqiw792@bareed.ws
 name  小白云
 node_n  23
-sub_info  0B  5G  2024-05-07 04:10:50+08:00  (剩余 5G 5:50:08.288297)
+sub_info  0B  5G  2024-05-07 04:10:50+08:00  (剩余 5G 5:41:14.318644)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=2507c2c59a9df0ac32bcae6a6b0033e0
 time  2024-05-06 22:10:50.615663+08:00
 type  v2board
 
 [www.flybar4.cc]
-banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com  moakt.co  tmails.net  tmail.ws  bareed.ws  moakt.ws  tmpmail.net  mydefipet.live  tmpnator.live  smartnator.com
+banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com  moakt.co  tmails.net  tmail.ws  bareed.ws  moakt.ws  tmpmail.net  mydefipet.live  tmpnator.live  smartnator.com  muatoc.com
 email  yqxkjyh76@youxiang.dev
 invite_code  suep  10000
 last_checkin  2024-04-27 00:37:18.752257+08:00
@@ -23,18 +23,18 @@ type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(mbuqtukal480@maxamba.com): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  获取邮箱验证码超时(iagbdxugz900@muatoc.com)
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  yfeavhqkm625@gmail.com
-last_checkin  2024-05-06 21:54:50.693586+08:00
+email  wpwwdapl341@gmail.com
+last_checkin  2024-05-06 22:30:39.318400+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  6.715G  10.14G  2024-05-06 23:54:50+08:00  (剩余 3.428G 1:32:04.696337)
-sub_url  https://dy2.dx035.top/link/P1LNjSqhZpVnBQdX?sub=3
-time  2024-05-06 21:54:54.536469+08:00
+sub_info  0B  10.13G  2024-05-07 00:30:39+08:00  (剩余 10.13G 1:59:33.509530)
+sub_url  https://dy2.dx035.top/link/PdlxmRf8OekzBmbs?sub=3
+time  2024-05-06 22:30:44.063227+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -45,7 +45,7 @@ email  zzrpluoa790@jkd.tmmad.com
 last_checkin  2024-05-06 20:14:07.630440+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-07 20:14:07+08:00  (剩余 888G 21:53:26.243737)
+sub_info  0B  888G  2024-05-07 20:14:07+08:00  (剩余 888G 21:44:31.885716)
 sub_url  https://www.qlgq.top/link/9fc3546d567c8510?clash=1#墙了个墙
 time  2024-05-06 20:14:08.485336+08:00
 type  sspanel
