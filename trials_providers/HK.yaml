@@ -22,5 +22,5 @@ proxies:
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 19811, type: vmess, uuid: 8a300a4f-7ce3-3638-95f3-349df5fbac95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19812, type: vmess, uuid: 8a300a4f-7ce3-3638-95f3-349df5fbac95, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 5d8dae6e-cf97-49f8-9cf7-55d49d979fe3, udp: true}
-- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 5d8dae6e-cf97-49f8-9cf7-55d49d979fe3, udp: true}
+- {name: 🇭🇰 香港 / A｜HK - 小白云, server: hk1.iepl.cooc.icu, port: 21881, type: ss, cipher: aes-256-gcm, password: 1f84b068-3d73-4109-9a98-6ac1dde4e2ab, udp: true}
+- {name: 🇭🇰 香港 / B｜HK - 小白云, server: hk2.iepl.cooc.icu, port: 22881, type: ss, cipher: aes-256-gcm, password: 1f84b068-3d73-4109-9a98-6ac1dde4e2ab, udp: true}
