@@ -4,10 +4,11 @@ buy  pass
 email  srcbkdur578@zhangjie.studio
 name  小白云
 node_n  23
-sub_info  35.34G  5G  2024-05-08 23:59:20+08:00  (剩余 -30.34G 0:02:35.155211)
+sub_info  35.34G  5G  2024-05-08 23:59:20+08:00  (剩余 -30.34G -1 day, 23:52:16.050823)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=7f66926ca70954c7bc15b55f8dd9a4c7
 time  2024-05-08 17:59:22.108672+08:00
 type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
 
 [www.flybar4.cc]
@@ -21,10 +22,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(ynojmok798@lista.cc): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(zgyjrqxip202@guerrillamail.com): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -37,6 +38,7 @@ sub_info  8.596G  10.12G  2024-05-09 01:32:37+08:00  (剩余 1.523G 1:35:55.9353
 sub_url  https://dy2.dx035.top/link/ElBmfjgm4OsFOZGc?sub=3
 time  2024-05-08 23:32:41.152424+08:00
 type  sspanel
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/ElBmfjgm4OsFOZGc?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
 
 [www.qlgq.top]
 auto_invite  F
@@ -46,7 +48,7 @@ email  konkdgg189@965.tmmad.com
 last_checkin  2024-05-08 19:07:46.694526+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-09 19:07:46+08:00  (剩余 888G 19:11:01.944136)
+sub_info  0B  888G  2024-05-09 19:07:46+08:00  (剩余 888G 19:01:01.134523)
 sub_url  https://www.qlgq.top/link/46c1448a16269785?clash=1#墙了个墙
 time  2024-05-08 19:07:47.622720+08:00
 type  sspanel
