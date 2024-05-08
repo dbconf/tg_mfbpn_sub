@@ -3,12 +3,12 @@ banned_domains  bccto.cc  youxiang.dev  nespressopixie.com  guerrillamail.net  m
 buy  pass
 email  srcbkdur578@zhangjie.studio
 name  小白云
-node_n  23
-sub_info  35.34G  5G  2024-05-08 23:59:20+08:00  (剩余 -30.34G 0:26:41.040973)
+node_n  25
+sub_info  35.34G  5G  2024-05-08 23:59:20+08:00  (剩余 -30.34G 0:10:37.410467)
 sub_url  https://ic-cvws.tyro.wiki/api/v1/client/subscribe?token=7f66926ca70954c7bc15b55f8dd9a4c7
 time  2024-05-08 17:59:22.108672+08:00
 type  v2board
-更新旧订阅失败  {'message': '遇到了些问题，我们正在进行处理'}
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
 
 [www.flybar4.cc]
 banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com  moakt.co  tmails.net  tmail.ws  bareed.ws  moakt.ws  tmpmail.net  mydefipet.live  tmpnator.live  smartnator.com  muatoc.com  nespressopixie.com  mynanaimohomes.com
@@ -21,10 +21,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(vxhpbzut176@sharklasers.com): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(qtspzpih67@snapmail.cc): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -33,7 +33,7 @@ email  hzqfyhrq210@gmail.com
 last_checkin  2024-05-08 23:32:37.234528+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-05-09 01:32:37+08:00  (剩余 10.12G 1:51:52.302010)
+sub_info  595.3M  10.12G  2024-05-09 01:32:37+08:00  (剩余 9.538G 1:43:56.923564)
 sub_url  https://dy2.dx035.top/link/ElBmfjgm4OsFOZGc?sub=3
 time  2024-05-08 23:32:41.152424+08:00
 type  sspanel
@@ -46,7 +46,7 @@ email  konkdgg189@965.tmmad.com
 last_checkin  2024-05-08 19:07:46.694526+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-09 19:07:46+08:00  (剩余 888G 19:27:09.167263)
+sub_info  0B  888G  2024-05-09 19:07:46+08:00  (剩余 888G 19:19:04.587426)
 sub_url  https://www.qlgq.top/link/46c1448a16269785?clash=1#墙了个墙
 time  2024-05-08 19:07:47.622720+08:00
 type  sspanel
