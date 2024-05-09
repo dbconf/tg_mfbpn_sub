@@ -24,19 +24,19 @@ time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-尝试签到失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /auth/login (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))
-更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
+更新订阅链接/续费续签失败  注册失败(jexhgdixg870@jkb.tmmad.com): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  qwidjvfwn766@gmail.com
-last_checkin  2024-05-10 07:12:31.278567+08:00
+email  kkbyoctg454@gmail.com
+last_checkin  2024-05-10 07:27:26.332829+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.15G  2024-05-09 03:08:39+08:00  (剩余 10.15G -2 days, 19:56:01.474403)
-sub_url  https://dy2.dx035.top/link/tct6lLJR2dGUglVi?sub=3
-time  2024-05-10 07:12:35.065181+08:00
+sub_info  0B  10.13G  2024-05-09 03:24:48+08:00  (剩余 10.13G -2 days, 19:54:50.506228)
+sub_url  https://dy2.dx035.top/link/RViMJIa9oX6uzflH?sub=3
+time  2024-05-10 07:27:30.043204+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -47,7 +47,7 @@ email  ewktuggl590@snapmail.cc
 last_checkin  2024-05-10 00:34:00.982307+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-10 18:45:25+08:00  (剩余 888G 11:30:49.343520)
+sub_info  0B  888G  2024-05-10 18:45:25+08:00  (剩余 888G 11:19:21.653360)
 sub_url  https://www.qlgq.top/link/a7e120b6434acb5d?clash=1#墙了个墙
 time  2024-05-09 18:45:26.105415+08:00
 type  sspanel
