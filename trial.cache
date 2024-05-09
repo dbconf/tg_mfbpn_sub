@@ -25,18 +25,18 @@ type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(kgqtqbvtr457@guerrillamail.com): 请不要频繁注册账号！
+更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /user (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  rrlfxiwmu319@gmail.com
-last_checkin  2024-05-10 06:51:05.528646+08:00
+email  hiktcxjk568@gmail.com
+last_checkin  2024-05-10 07:00:12.119363+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2024-05-09 02:45:26+08:00  (剩余 10.13G -2 days, 19:54:14.045957)
-sub_url  https://dy2.dx035.top/link/Y6zLLU7jmt8B6eah?sub=3
-time  2024-05-10 06:51:09.447834+08:00
+sub_info  0B  10.14G  2024-05-09 02:55:18+08:00  (剩余 10.14G -2 days, 19:54:23.229484)
+sub_url  https://dy2.dx035.top/link/EvBrtvg8CsVFbXNs?sub=3
+time  2024-05-10 07:00:15.804994+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -47,7 +47,7 @@ email  ewktuggl590@snapmail.cc
 last_checkin  2024-05-10 00:34:00.982307+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-10 18:45:25+08:00  (剩余 888G 11:54:17.292228)
+sub_info  0B  888G  2024-05-10 18:45:25+08:00  (剩余 888G 11:45:12.626785)
 sub_url  https://www.qlgq.top/link/a7e120b6434acb5d?clash=1#墙了个墙
 time  2024-05-09 18:45:26.105415+08:00
 type  sspanel
