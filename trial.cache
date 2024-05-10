@@ -22,21 +22,21 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+更新订阅链接/续费续签失败  注册失败(fknwqimvi572@nqmo.com): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  ymcsjspn119@gmail.com
-last_checkin  2024-05-11 03:29:33.280213+08:00
+email  qmrzsreg758@gmail.com
+last_checkin  2024-05-11 03:36:57.789148+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-05-10 01:07:06+08:00  (剩余 10.12G -2 days, 21:34:50.104046)
-sub_url  https://dy2.dx035.top/link/vecCv0o8ymuckxWD?sub=3
-time  2024-05-11 03:29:37.238678+08:00
+sub_info  0B  10.13G  2024-05-10 01:15:07+08:00  (剩余 10.13G -2 days, 21:38:03.129470)
+sub_url  https://dy2.dx035.top/link/kSxbvKl1BL794XfJ?sub=3
+time  2024-05-11 03:37:01.686243+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -47,7 +47,7 @@ email  tgvjbte571@teml.net
 last_checkin  2024-05-11 00:34:52.385755+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888.1G  2024-05-11 18:11:45+08:00  (剩余 888.1G 14:42:15.183826)
+sub_info  0B  888.1G  2024-05-11 18:11:45+08:00  (剩余 888.1G 14:34:44.709045)
 sub_url  https://www.qlgq.top/link/46ec4f7d9dcfe185?clash=1#墙了个墙
 time  2024-05-10 18:11:46.797350+08:00
 type  sspanel
