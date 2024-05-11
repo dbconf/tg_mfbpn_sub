@@ -25,18 +25,18 @@ type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
+更新订阅链接/续费续签失败  注册失败(jdevtbv43@wj32.haihantnc.xyz): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  rrksszjtu55@gmail.com
-last_checkin  2024-05-11 18:20:25.062300+08:00
+email  tfzlznlp169@gmail.com
+last_checkin  2024-05-11 18:28:23.503746+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-05-10 17:12:12+08:00  (剩余 10.12G -2 days, 22:51:34.179972)
-sub_url  https://dy2.dx035.top/link/iQGWxdu0m2Fc7ere?sub=3
-time  2024-05-11 18:20:29.390624+08:00
+sub_info  0B  10.11G  2024-05-10 17:20:50+08:00  (剩余 10.11G -2 days, 22:52:20.524623)
+sub_url  https://dy2.dx035.top/link/tQnVjr8dlhvVzL1p?sub=3
+time  2024-05-11 18:28:27.516336+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -47,7 +47,7 @@ email  poekjcnij816@dijingka.com
 last_checkin  2024-05-11 17:42:41.273538+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-12 17:42:41+08:00  (剩余 888G 23:22:14.644232)
+sub_info  0B  888G  2024-05-12 17:42:41+08:00  (剩余 888G 23:14:23.627910)
 sub_url  https://www.qlgq.top/link/41a25e845c33700c?clash=1#墙了个墙
 time  2024-05-11 17:42:42.796340+08:00
 type  sspanel
