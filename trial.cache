@@ -22,21 +22,21 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 9, column 25: <title>api.dler.io | 502: Bad gateway</title> ^ (line: 9)
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(zjzdarm92@lista.cc): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(olouyxlxl472@xdanae.com): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  rfwoeiky769@gmail.com
-last_checkin  2024-05-12 06:13:05.831624+08:00
+email  nsaplbyl405@gmail.com
+last_checkin  2024-05-12 06:25:31.040441+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-05-11 06:04:16+08:00  (剩余 10.14G -2 days, 23:51:03.081845)
-sub_url  https://dy2.dx035.top/link/lvMH4uB5U0gYDQ3h?sub=3
-time  2024-05-12 06:13:09.844587+08:00
+sub_info  0B  10.12G  2024-05-11 06:17:43+08:00  (剩余 10.12G -2 days, 23:51:52.070729)
+sub_url  https://dy2.dx035.top/link/lYKwXqZbAUygVIzA?sub=3
+time  2024-05-12 06:25:35.043071+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -47,7 +47,7 @@ email  poekjcnij816@dijingka.com
 last_checkin  2024-05-12 00:31:09.983920+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888.1G  2024-05-12 17:42:41+08:00  (剩余 888.1G 11:27:36.023431)
+sub_info  0B  888.1G  2024-05-12 17:42:41+08:00  (剩余 888.1G 11:17:09.266214)
 sub_url  https://www.qlgq.top/link/41a25e845c33700c?clash=1#墙了个墙
 time  2024-05-11 17:42:42.796340+08:00
 type  sspanel
