@@ -25,18 +25,18 @@ type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(hitlaliq34@uuf.me): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  bxsxugk137@gmail.com
-last_checkin  2024-05-13 02:13:25.398073+08:00
+email  uyupmexy227@gmail.com
+last_checkin  2024-05-13 02:28:26.318216+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-05-12 03:44:37+08:00  (剩余 10.12G -1 day, 1:31:05.475665)
-sub_url  https://dy2.dx035.top/link/ZFPzq3LCl9uST113?sub=3
-time  2024-05-13 02:13:29.232382+08:00
+sub_info  0B  10.12G  2024-05-12 04:00:53+08:00  (剩余 10.12G -1 day, 1:32:20.912724)
+sub_url  https://dy2.dx035.top/link/ZfryRb8yip5gQF9M?sub=3
+time  2024-05-13 02:28:30.414975+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -47,7 +47,7 @@ email  jdqmctnmd619@youxiang.dev
 last_checkin  2024-05-13 00:36:00.569329+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888.1G  2024-05-13 17:03:49+08:00  (剩余 888.1G 14:50:22.697387)
+sub_info  0B  888.1G  2024-05-13 17:03:49+08:00  (剩余 888.1G 14:35:25.211505)
 sub_url  https://www.qlgq.top/link/b57d2e93bfd15e6d?clash=1#墙了个墙
 time  2024-05-12 17:03:50.470475+08:00
 type  sspanel
