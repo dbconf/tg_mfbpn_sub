@@ -233,6 +233,29 @@ rules:
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
+- DOMAIN,3.7.cr,🛩️ ‍墙内
+- DOMAIN,7.7.cr,🛩️ ‍墙内
+- DOMAIN,c.7.cr,🛩️ ‍墙内
+- DOMAIN,i.7.cr,🛩️ ‍墙内
+- DOMAIN,j.7.cr,🛩️ ‍墙内
+- DOMAIN,n.7.cr,🛩️ ‍墙内
+- DOMAIN,r.7.cr,🛩️ ‍墙内
+- DOMAIN,api.v1.mk,🛩️ ‍墙内
+- DOMAIN,api.dler.io,🛩️ ‍墙内
+- DOMAIN,api.subcsub.com,🛩️ ‍墙内
+- DOMAIN,api.tsutsu.one,🛩️ ‍墙内
+- DOMAIN,gh.api.99988866.xyz,🛩️ ‍墙内
+- DOMAIN,ghproxy.top,🛩️ ‍墙内
+- DOMAIN,ghproxy.net,🛩️ ‍墙内
+- DOMAIN,ghproxy.org,🛩️ ‍墙内
+- DOMAIN,ghproxy.cc,🛩️ ‍墙内
+- DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
+- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
+- DOMAIN,gh.idayer.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
+- DOMAIN,gh.con.sh,🛩️ ‍墙内
+- DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
+- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
@@ -1912,12 +1935,20 @@ rules:
 - DOMAIN-SUFFIX,hdslb.com,📺 ‍B站
 - DOMAIN-SUFFIX,im9.com,📺 ‍B站
 - DOMAIN-SUFFIX,smtcdns.net,📺 ‍B站
+- DOMAIN-SUFFIX,openai.com,🤖 ‍AI
+- DOMAIN-SUFFIX,chatgpt.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaistatic.com,🤖 ‍AI
+- DOMAIN-SUFFIX,oaiusercontent.com,🤖 ‍AI
+- DOMAIN-SUFFIX,bing.com,🤖 ‍AI
+- DOMAIN,copilot.microsoft.com,🤖 ‍AI
+- DOMAIN,gemini.google.com,🤖 ‍AI
+- DOMAIN-SUFFIX,claude.ai,🤖 ‍AI
+- DOMAIN-SUFFIX,anthropic.com,🤖 ‍AI
 - DOMAIN-SUFFIX,1password.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,adguard.org,✈️ ‍起飞
 - DOMAIN-SUFFIX,bit.no.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,btlibrary.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,cccat.io,✈️ ‍起飞
-- DOMAIN-SUFFIX,chat.openai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,cloudcone.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,dubox.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,gameloft.com,✈️ ‍起飞
@@ -1928,7 +1959,6 @@ rules:
 - DOMAIN-SUFFIX,linkedin.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,myteamspeak.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,notion.so,✈️ ‍起飞
-- DOMAIN-SUFFIX,openai.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,ping.pe,✈️ ‍起飞
 - DOMAIN-SUFFIX,reddit.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,teddysun.com,✈️ ‍起飞
@@ -2440,7 +2470,6 @@ rules:
 - DOMAIN-SUFFIX,biliworld.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,billypan.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binance.com,✈️ ‍起飞
-- DOMAIN-SUFFIX,bing.com,✈️ ‍起飞
 - DOMAIN-SUFFIX,binux.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,binwang.me,✈️ ‍起飞
 - DOMAIN-SUFFIX,bird.so,✈️ ‍起飞
