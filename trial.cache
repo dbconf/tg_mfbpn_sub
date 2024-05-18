@@ -22,21 +22,21 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(mhgydect635@wj1.haihantnc.xyz): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(kepegysq130@linshiyou.com): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
 buy  pass
-email  mlwqhqwfu16@gmail.com
-last_checkin  2024-05-18 17:23:16.148303+08:00
+email  bjyncvd649@gmail.com
+last_checkin  2024-05-18 17:32:22.723846+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-05-18 06:10:17+08:00  (剩余 10.1G -1 day, 12:46:52.306655)
-sub_url  https://dy2.dx035.top/link/uVL65ECg1PcnfrJt?sub=3
-time  2024-05-18 17:23:22.263633+08:00
+sub_info  0B  10.14G  2024-05-18 06:20:09+08:00  (剩余 10.14G -1 day, 12:47:35.785356)
+sub_url  https://dy2.dx035.top/link/PpTpLeTaS9IQw8Vh?sub=3
+time  2024-05-18 17:32:26.776246+08:00
 type  sspanel
 
 [www.qlgq.top]
@@ -47,7 +47,7 @@ email  laxgtlj746@psnator.com
 last_checkin  2024-05-18 13:50:22.624494+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-05-19 13:50:22+08:00  (剩余 888G 20:27:06.196761)
+sub_info  0B  888G  2024-05-19 13:50:22+08:00  (剩余 888G 20:17:59.022486)
 sub_url  https://www.qlgq.top/link/6f894b495cc29679?clash=1#墙了个墙
 time  2024-05-18 13:50:23.109368+08:00
 type  sspanel
