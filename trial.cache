@@ -25,7 +25,7 @@ type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱验证码超时(fsnwstqo349@xdanae.com)
+更新订阅链接/续费续签失败  注册失败(kmnymhhv746@guerrillamail.biz): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -34,7 +34,7 @@ email  blzejxl581@gmail.com
 last_checkin  2024-05-26 03:22:53.079979+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  3.157G  10.11G  2024-05-26 05:22:52+08:00  (剩余 6.95G 1:25:36.733187)
+sub_info  9.002G  10.11G  2024-05-26 05:22:52+08:00  (剩余 1.104G 1:15:20.375939)
 sub_url  https://dy2.dx035.top/link/RgRgAO0O7ceSpNFJ?sub=3
 time  2024-05-26 03:22:57.242158+08:00
 type  sspanel
@@ -47,8 +47,7 @@ email  qxxabbdp261@wfes.site
 last_checkin  2024-05-26 00:35:37.073704+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888.1G  2024-05-26 10:01:30+08:00  (剩余 888.1G 6:04:13.230764)
+sub_info  0B  888.1G  2024-05-26 10:01:30+08:00  (剩余 888.1G 5:53:55.064438)
 sub_url  https://www.qlgq.top/link/942be5979b567da4?clash=1#墙了个墙
 time  2024-05-25 10:01:31.467829+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
