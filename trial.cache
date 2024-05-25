@@ -12,7 +12,7 @@ type  v2board
 更新旧订阅失败  {'message': '该账户已被停止使用'}
 
 [www.flybar4.cc]
-banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com  moakt.co  tmails.net  tmail.ws  bareed.ws  moakt.ws  tmpmail.net  mydefipet.live  tmpnator.live  smartnator.com  muatoc.com  nespressopixie.com  mynanaimohomes.com  adxp.haihantnc.xyz  guerrillamail.com  uuf.me
+banned_domains  tmpmail.org  disbox.org  disbox.net  psnator.com  moakt.co  tmails.net  tmail.ws  bareed.ws  moakt.ws  tmpmail.net  mydefipet.live  tmpnator.live  smartnator.com  muatoc.com  nespressopixie.com  mynanaimohomes.com  adxp.haihantnc.xyz  guerrillamail.com  uuf.me  xdanae.com
 email  yqxkjyh76@youxiang.dev
 invite_code  suep  10000
 last_checkin  2024-04-27 00:37:18.752257+08:00
@@ -22,10 +22,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(gwvnmjx897@btcstar.site): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  获取邮箱验证码超时(fsnwstqo349@xdanae.com)
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -34,7 +34,7 @@ email  blzejxl581@gmail.com
 last_checkin  2024-05-26 03:22:53.079979+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  1.898G  10.11G  2024-05-26 05:22:52+08:00  (剩余 8.208G 1:36:12.588951)
+sub_info  3.157G  10.11G  2024-05-26 05:22:52+08:00  (剩余 6.95G 1:25:36.733187)
 sub_url  https://dy2.dx035.top/link/RgRgAO0O7ceSpNFJ?sub=3
 time  2024-05-26 03:22:57.242158+08:00
 type  sspanel
@@ -47,7 +47,8 @@ email  qxxabbdp261@wfes.site
 last_checkin  2024-05-26 00:35:37.073704+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888.1G  2024-05-26 10:01:30+08:00  (剩余 888.1G 6:14:51.764468)
+sub_info  0B  888.1G  2024-05-26 10:01:30+08:00  (剩余 888.1G 6:04:13.230764)
 sub_url  https://www.qlgq.top/link/942be5979b567da4?clash=1#墙了个墙
 time  2024-05-25 10:01:31.467829+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
