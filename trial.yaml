@@ -32,6 +32,16 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 香港 101 - 墙了个墙
+  - 🇭🇰 香港 102 - 墙了个墙
+  - 🇭🇰 香港 103 - 墙了个墙
+  - 🇭🇰 香港 104 - 墙了个墙
+  - 🇭🇰 香港 105 - 墙了个墙
+  - 🇭🇰 香港 106 - 墙了个墙
+  - 🇭🇰 香港 107 - 墙了个墙
+  - 🇭🇰 香港 108 - 墙了个墙
+  - 🇭🇰 香港 109 - 墙了个墙
+  - 🇭🇰 香港 110 - 墙了个墙
   - 🇭🇰 中转•香港301•高速 - 飞翔吧
   - 🇭🇰 广港•香港143•高速 - 飞翔吧
   - 🇭🇰 广港•香港269•高速 - 飞翔吧
@@ -54,6 +64,11 @@ proxy-groups:
   - 🇹🇼 台湾 / A｜TW - 小白云
   - 🇹🇼 台湾 / B｜TW - 小白云
   - 🇹🇼 TW｜海外用户 - 小白云
+  - 🇸🇬 新加坡 101 - 墙了个墙
+  - 🇸🇬 新加坡 102 - 墙了个墙
+  - 🇸🇬 新加坡 103 - 墙了个墙
+  - 🇸🇬 新加坡 104 - 墙了个墙
+  - 🇸🇬 新加坡 105 - 墙了个墙
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
@@ -63,6 +78,11 @@ proxy-groups:
   - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
   - 🇸🇬 新加坡 / A｜SG - 小白云
   - 🇸🇬 新加坡 / B｜SG - 小白云
+  - 🇯🇵 日本 101 - 墙了个墙
+  - 🇯🇵 日本 102 - 墙了个墙
+  - 🇯🇵 日本 103 - 墙了个墙
+  - 🇯🇵 日本 104 - 墙了个墙
+  - 🇯🇵 日本 105 - 墙了个墙
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
   - 🇯🇵 日本•高速114•高速 - 飞翔吧
@@ -79,6 +99,9 @@ proxy-groups:
   - 🇯🇵 日本 / A｜JP - 小白云
   - 🇯🇵 日本 / B｜JP - 小白云
   - 🇯🇵 JP｜海外用户 - 小白云
+  - 🇺🇸 美国 洛杉矶101 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶102 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶103 - 墙了个墙
   - 🇺🇸 中转•美国295•高速 - 飞翔吧
   - 🇺🇸 中转•美国296•高速 - 飞翔吧
   - 🇺🇸 中转•美国308•高速 - 飞翔吧
@@ -93,6 +116,17 @@ proxy-groups:
   - 🇺🇸 美国 / A｜US - 小白云
   - 🇺🇸 美国 / B｜US - 小白云
   - 🇺🇸 US｜海外用户 - 小白云
+  - 🇩🇪 德国 法兰克福101 - 墙了个墙
+  - 🇩🇪 德国 法兰克福102 - 墙了个墙
+  - 🇩🇪 德国 法兰克福103 - 墙了个墙
+  - 🇩🇪 德国 法兰克福104 - 墙了个墙
+  - 🇩🇪 德国 法兰克福105 - 墙了个墙
+  - 🇬🇧 英国 101 - 墙了个墙
+  - 🇬🇧 英国 102 - 墙了个墙
+  - 🇬🇧 英国 103 - 墙了个墙
+  - 🇲🇾 马来西亚 001 - 墙了个墙
+  - 🇲🇾 马来西亚 002 - 墙了个墙
+  - 🇲🇾 马来西亚 003 - 墙了个墙
   - 🇩🇪 中转•德国302•GPT - 飞翔吧
   - 🇩🇪 中转•德国303•GPT - 飞翔吧
   - 🇩🇪 中转•德国304•GPT - 飞翔吧
@@ -169,6 +203,16 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 香港 101 - 墙了个墙
+  - 🇭🇰 香港 102 - 墙了个墙
+  - 🇭🇰 香港 103 - 墙了个墙
+  - 🇭🇰 香港 104 - 墙了个墙
+  - 🇭🇰 香港 105 - 墙了个墙
+  - 🇭🇰 香港 106 - 墙了个墙
+  - 🇭🇰 香港 107 - 墙了个墙
+  - 🇭🇰 香港 108 - 墙了个墙
+  - 🇭🇰 香港 109 - 墙了个墙
+  - 🇭🇰 香港 110 - 墙了个墙
   - 🇭🇰 中转•香港301•高速 - 飞翔吧
   - 🇭🇰 广港•香港143•高速 - 飞翔吧
   - 🇭🇰 广港•香港269•高速 - 飞翔吧
@@ -203,6 +247,16 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
+  - 🇭🇰 香港 101 - 墙了个墙
+  - 🇭🇰 香港 102 - 墙了个墙
+  - 🇭🇰 香港 103 - 墙了个墙
+  - 🇭🇰 香港 104 - 墙了个墙
+  - 🇭🇰 香港 105 - 墙了个墙
+  - 🇭🇰 香港 106 - 墙了个墙
+  - 🇭🇰 香港 107 - 墙了个墙
+  - 🇭🇰 香港 108 - 墙了个墙
+  - 🇭🇰 香港 109 - 墙了个墙
+  - 🇭🇰 香港 110 - 墙了个墙
   - 🇭🇰 中转•香港301•高速 - 飞翔吧
   - 🇭🇰 广港•香港143•高速 - 飞翔吧
   - 🇭🇰 广港•香港269•高速 - 飞翔吧
@@ -231,6 +285,11 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id005
+  - 🇸🇬 新加坡 101 - 墙了个墙
+  - 🇸🇬 新加坡 102 - 墙了个墙
+  - 🇸🇬 新加坡 103 - 墙了个墙
+  - 🇸🇬 新加坡 104 - 墙了个墙
+  - 🇸🇬 新加坡 105 - 墙了个墙
   - 🇸🇬 中转•新加坡299•高速 - 飞翔吧
   - 🇸🇬 中转•新加坡65•青铜 - 飞翔吧
   - 🇸🇬 中转•新加坡83•高速 - 飞翔吧
@@ -246,6 +305,11 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id006
+  - 🇯🇵 日本 101 - 墙了个墙
+  - 🇯🇵 日本 102 - 墙了个墙
+  - 🇯🇵 日本 103 - 墙了个墙
+  - 🇯🇵 日本 104 - 墙了个墙
+  - 🇯🇵 日本 105 - 墙了个墙
   - 🇯🇵 中转•日本298•高速 - 飞翔吧
   - 🇯🇵 中转•日本300•原生 - 飞翔吧
   - 🇯🇵 日本•高速114•高速 - 飞翔吧
@@ -268,6 +332,9 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id007
+  - 🇺🇸 美国 洛杉矶101 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶102 - 墙了个墙
+  - 🇺🇸 美国 洛杉矶103 - 墙了个墙
   - 🇺🇸 中转•美国295•高速 - 飞翔吧
   - 🇺🇸 中转•美国296•高速 - 飞翔吧
   - 🇺🇸 中转•美国308•高速 - 飞翔吧
@@ -288,6 +355,17 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
+  - 🇩🇪 德国 法兰克福101 - 墙了个墙
+  - 🇩🇪 德国 法兰克福102 - 墙了个墙
+  - 🇩🇪 德国 法兰克福103 - 墙了个墙
+  - 🇩🇪 德国 法兰克福104 - 墙了个墙
+  - 🇩🇪 德国 法兰克福105 - 墙了个墙
+  - 🇬🇧 英国 101 - 墙了个墙
+  - 🇬🇧 英国 102 - 墙了个墙
+  - 🇬🇧 英国 103 - 墙了个墙
+  - 🇲🇾 马来西亚 001 - 墙了个墙
+  - 🇲🇾 马来西亚 002 - 墙了个墙
+  - 🇲🇾 马来西亚 003 - 墙了个墙
   - 🇩🇪 中转•德国302•GPT - 飞翔吧
   - 🇩🇪 中转•德国303•GPT - 飞翔吧
   - 🇩🇪 中转•德国304•GPT - 飞翔吧
@@ -337,6 +415,40 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
+- {name: 🇭🇰 香港 101 - 墙了个墙, server: hkvip101.qlgq.fun, port: 12249, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
+- {name: 🇭🇰 香港 102 - 墙了个墙, server: hkvip101.qlgq.fun, port: 22249, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip101}, udp: true}
+- {name: 🇭🇰 香港 103 - 墙了个墙, server: hkvip102.qlgq.fun, port: 32249, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 104 - 墙了个墙, server: hkvip102.qlgq.fun, port: 42249, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip102}, udp: true}
+- {name: 🇭🇰 香港 105 - 墙了个墙, server: hkvip103.qlgq.fun, port: 52249, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 106 - 墙了个墙, server: hkvip103.qlgq.fun, port: 11116, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
+- {name: 🇭🇰 香港 107 - 墙了个墙, server: hkvip104.qlgq.fun, port: 21116, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
+- {name: 🇭🇰 香港 108 - 墙了个墙, server: hkvip104.qlgq.fun, port: 31116, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
+- {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip105.qlgq.fun, port: 41116, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
+- {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip105.qlgq.fun, port: 51116, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
+- {name: 🇸🇬 新加坡 101 - 墙了个墙, server: sgvip101.qlgq.fun, port: 11223, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 102 - 墙了个墙, server: sgvip101.qlgq.fun, port: 21223, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 103 - 墙了个墙, server: sgvip101.qlgq.fun, port: 31223, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 104 - 墙了个墙, server: sgvip101.qlgq.fun, port: 41223, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇸🇬 新加坡 105 - 墙了个墙, server: sgvip101.qlgq.fun, port: 51223, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: sgvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: sgvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福101 - 墙了个墙, server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福102 - 墙了个墙, server: fkvip101.qlgq.fun, port: 21789, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福103 - 墙了个墙, server: fkvip101.qlgq.fun, port: 31789, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: fkvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip101}, udp: true}
+- {name: 🇩🇪 德国 法兰克福104 - 墙了个墙, server: fkvip102.qlgq.fun, port: 41789, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
+- {name: 🇩🇪 德国 法兰克福105 - 墙了个墙, server: fkvip102.qlgq.fun, port: 51789, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: fkvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: fkvip102}, udp: true}
+- {name: 🇯🇵 日本 101 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61239, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 102 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61288, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 103 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61237, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 104 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61236, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇯🇵 日本 105 - 墙了个墙, server: jpvip102.qlgq.fun, port: 61235, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: jpvip102.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: jpvip102}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇬🇧 英国 101 - 墙了个墙, server: ukvip101.qlgq.fun, port: 14568, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 102 - 墙了个墙, server: ukvip101.qlgq.fun, port: 14586, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇬🇧 英国 103 - 墙了个墙, server: ukvip101.qlgq.fun, port: 18885, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: ukvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: ukvip101}, udp: true}
+- {name: 🇲🇾 马来西亚 001 - 墙了个墙, server: klvip101.qlgq.fun, port: 10443, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: 🇲🇾 马来西亚 002 - 墙了个墙, server: klvip101.qlgq.fun, port: 20443, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: 🇲🇾 马来西亚 003 - 墙了个墙, server: klvip101.qlgq.fun, port: 30443, type: trojan, password: 37111299-bc9b-3f1b-95b4-2802637f0f57, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 - {name: 🇭🇰 中转•香港301•高速 - 飞翔吧, server: gy.58n.net, port: 20301, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -458,29 +570,6 @@ rules:
 - DOMAIN-SUFFIX,tplogin.cn,DIRECT
 - DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,kkgithub.com,DIRECT
-- DOMAIN,3.7.cr,🛩️ ‍墙内
-- DOMAIN,7.7.cr,🛩️ ‍墙内
-- DOMAIN,c.7.cr,🛩️ ‍墙内
-- DOMAIN,i.7.cr,🛩️ ‍墙内
-- DOMAIN,j.7.cr,🛩️ ‍墙内
-- DOMAIN,n.7.cr,🛩️ ‍墙内
-- DOMAIN,r.7.cr,🛩️ ‍墙内
-- DOMAIN,api.v1.mk,🛩️ ‍墙内
-- DOMAIN,api.dler.io,🛩️ ‍墙内
-- DOMAIN,api.subcsub.com,🛩️ ‍墙内
-- DOMAIN,api.tsutsu.one,🛩️ ‍墙内
-- DOMAIN,gh.api.99988866.xyz,🛩️ ‍墙内
-- DOMAIN,ghproxy.top,🛩️ ‍墙内
-- DOMAIN,ghproxy.net,🛩️ ‍墙内
-- DOMAIN,ghproxy.org,🛩️ ‍墙内
-- DOMAIN,ghproxy.cc,🛩️ ‍墙内
-- DOMAIN,mirror.ghproxy.com,🛩️ ‍墙内
-- DOMAIN,github.moeyy.xyz,🛩️ ‍墙内
-- DOMAIN,gh.idayer.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,gitmirror.com,🛩️ ‍墙内
-- DOMAIN,gh.con.sh,🛩️ ‍墙内
-- DOMAIN-SUFFIX,githubfast.com,🛩️ ‍墙内
-- DOMAIN-SUFFIX,1976f.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ol.epicgames.com,🛩️ ‍墙内
 - DOMAIN-SUFFIX,dizhensubao.getui.com,🛩️ ‍墙内
 - DOMAIN,dl.google.com,🛩️ ‍墙内
