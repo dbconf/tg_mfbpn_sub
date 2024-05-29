@@ -22,10 +22,10 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  注册失败(ukmzlez902@www.nm.pe): 请不要频繁注册账号！
+更新订阅链接/续费续签失败  注册失败(hlhphqb739@zhangjie.studio): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -34,7 +34,7 @@ email  vlaonuyi812@gmail.com
 last_checkin  2024-05-29 20:13:30.260899+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-05-29 22:13:30+08:00  (剩余 10.11G 1:59:52.371539)
+sub_info  0B  10.11G  2024-05-29 22:13:30+08:00  (剩余 10.11G 1:49:12.078412)
 sub_url  https://dy2.dx035.top/link/MWIxro1koCb1pFHN?sub=3
 time  2024-05-29 20:13:34.610855+08:00
 type  sspanel
@@ -51,3 +51,4 @@ sub_info  0B  888G  2024-05-30 09:16:25+08:00  (剩余 888G 13:02:59.130215)
 sub_url  https://www.qlgq.top/link/39b942d7529f7885?clash=1#墙了个墙
 time  2024-05-29 09:16:26.180882+08:00
 type  sspanel
+更新旧订阅失败  HTTPSConnectionPool(host='www.qlgq.top', port=443): Max retries exceeded with url: /link/39b942d7529f7885?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.qlgq.top', port=443): Read timed out. (read timeout=30)"))
