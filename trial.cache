@@ -22,7 +22,7 @@ sub_info  10.9G  10.26G  2024-04-26 19:13:50+08:00  (剩余 -654.3M 0:07:01.6871
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/kzovZ7JK442PsTkC?sub=3
 time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
 更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
@@ -34,7 +34,7 @@ email  vpgydwm653@gmail.com
 last_checkin  2024-05-29 21:35:57.448189+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  711.4M  10.13G  2024-05-29 23:35:57+08:00  (剩余 9.44G 0:53:27.573080)
+sub_info  864.9M  10.13G  2024-05-29 23:35:57+08:00  (剩余 9.29G 0:41:27.129438)
 sub_url  https://dy2.dx035.top/link/yQlKN9pJLFgEyTHg?sub=3
 time  2024-05-29 21:36:01.679928+08:00
 type  sspanel
