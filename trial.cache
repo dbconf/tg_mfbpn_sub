@@ -25,7 +25,7 @@ type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+更新订阅链接/续费续签失败  注册失败(itgvzfpyx637@965.tmmad.com): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -34,7 +34,7 @@ email  qkrcxcjyy732@gmail.com
 last_checkin  2024-05-31 22:30:33.826446+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-06-01 00:30:33+08:00  (剩余 10.11G 1:59:53.011204)
+sub_info  0B  10.11G  2024-06-01 00:30:33+08:00  (剩余 10.11G 1:52:33.200559)
 sub_url  https://dy2.dx035.top/link/iUpZmaTiF8W6X6pI?sub=3
 time  2024-05-31 22:30:38.058050+08:00
 type  sspanel
@@ -47,7 +47,7 @@ email  qfntjwvd807@dijingka.com
 last_checkin  2024-05-31 08:33:49.319507+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-06-01 08:33:49+08:00  (剩余 888G 10:03:18.331942)
+sub_info  0B  888G  2024-06-01 08:33:49+08:00  (剩余 888G 9:55:48.908065)
 sub_url  https://www.qlgq.top/link/8f4f7df1ce79d8ed?clash=1#墙了个墙
 time  2024-05-31 08:33:49.698884+08:00
 type  sspanel
