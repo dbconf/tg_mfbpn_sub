@@ -24,8 +24,8 @@ time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f710dcf7d30>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
-更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /link/kzovZ7JK442PsTkC?sub=3 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f70ff51ff10>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
+尝试签到失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /auth/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fdea0d1fd90>, 'Connection to www.flybar4.cc timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(drwscggrx980@h11gggujjj.bond): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -34,7 +34,7 @@ email  ohajsjc840@gmail.com
 last_checkin  2024-05-31 13:30:08.390890+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  285.1M  10.11G  2024-05-31 15:30:08+08:00  (剩余 9.833G 1:37:14.814443)
+sub_info  1.159G  10.11G  2024-05-31 15:30:08+08:00  (剩余 8.952G 1:27:00.107543)
 sub_url  https://dy2.dx035.top/link/vQNjePrZKt9iiAKm?sub=3
 time  2024-05-31 13:30:12.491705+08:00
 type  sspanel
@@ -47,7 +47,7 @@ email  qfntjwvd807@dijingka.com
 last_checkin  2024-05-31 08:33:49.319507+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-06-01 08:33:49+08:00  (剩余 888G 18:39:15.636567)
+sub_info  0B  888G  2024-06-01 08:33:49+08:00  (剩余 888G 18:30:52.978610)
 sub_url  https://www.qlgq.top/link/8f4f7df1ce79d8ed?clash=1#墙了个墙
 time  2024-05-31 08:33:49.698884+08:00
 type  sspanel
