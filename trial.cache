@@ -24,8 +24,8 @@ time  2024-04-25 19:13:52.404473+08:00
 type  sspanel
 保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(jfkdeli391@mxl001.win): 请不要频繁注册账号！
+尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
+更新订阅链接/续费续签失败  注册失败(lwqapmour164@h11gggujjj.bond): 请不要频繁注册账号！
 
 [vipxgyun.com#西瓜皮]
 auto_invite  F
@@ -34,7 +34,7 @@ email  esnjiihk176@gmail.com
 last_checkin  2024-05-31 15:24:30.494715+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  1.414G  10.13G  2024-05-31 17:24:30+08:00  (剩余 8.721G 1:25:54.503127)
+sub_info  1.414G  10.13G  2024-05-31 17:24:30+08:00  (剩余 8.721G 1:13:58.094112)
 sub_url  https://dy2.dx035.top/link/2POjgLSh5MsCFfgE?sub=3
 time  2024-05-31 15:24:34.717057+08:00
 type  sspanel
@@ -47,7 +47,7 @@ email  qfntjwvd807@dijingka.com
 last_checkin  2024-05-31 08:33:49.319507+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-06-01 08:33:49+08:00  (剩余 888G 16:37:04.006778)
+sub_info  0B  888G  2024-06-01 08:33:49+08:00  (剩余 888G 16:23:16.246808)
 sub_url  https://www.qlgq.top/link/8f4f7df1ce79d8ed?clash=1#墙了个墙
 time  2024-05-31 08:33:49.698884+08:00
 type  sspanel
