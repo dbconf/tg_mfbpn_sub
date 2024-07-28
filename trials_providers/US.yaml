@@ -1,20 +1,20 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: 9315afe5-2f63-3427-8752-51094ac8b2a2, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: 9315afe5-2f63-3427-8752-51094ac8b2a2, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: 9315afe5-2f63-3427-8752-51094ac8b2a2, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
-- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国46•原生 - 飞翔吧, server: gy.58n.net, port: 14846, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 3de4e3e7-af52-3693-bacf-7ee6e4006359, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xg-cm2.dx001.top, port: 29811, type: vmess, uuid: a1fef4e8-61c8-315e-af11-5de0df1be619, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xg-ct2.dx001.top, port: 19862, type: vmess, uuid: a1fef4e8-61c8-315e-af11-5de0df1be619, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 / A｜US - 小白云, server: usa1.iepl.cooc.icu, port: 31881, type: ss, cipher: aes-256-gcm, password: 99ca652c-c5b1-4fae-91ba-d67501e3d862, udp: true}
 - {name: 🇺🇸 美国 / B｜US - 小白云, server: usa2.iepl.cooc.icu, port: 32881, type: ss, cipher: aes-256-gcm, password: 99ca652c-c5b1-4fae-91ba-d67501e3d862, udp: true}
 - {name: 🇺🇸 US｜海外用户 - 小白云, server: us.cooc.icu, port: 35881, type: ss, cipher: aes-256-gcm, password: 99ca652c-c5b1-4fae-91ba-d67501e3d862, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: 1787105c-430d-33c7-82d4-0d1c21794ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: 1787105c-430d-33c7-82d4-0d1c21794ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国46•原生 - 飞翔吧, server: gy.58n.net, port: 14846, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: dc3e4cc4-f51b-3a29-bdc5-727d185c369a, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 洛杉矶101 - 墙了个墙, server: lavip101.qlgq.fun, port: 11156, type: trojan, password: cf1b28c4-6e3e-3a16-9293-38349fa36cb6, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶102 - 墙了个墙, server: lavip101.qlgq.fun, port: 21156, type: trojan, password: cf1b28c4-6e3e-3a16-9293-38349fa36cb6, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
+- {name: 🇺🇸 美国 洛杉矶103 - 墙了个墙, server: lavip101.qlgq.fun, port: 31156, type: trojan, password: cf1b28c4-6e3e-3a16-9293-38349fa36cb6, sni: lavip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: lavip101}, udp: true}
