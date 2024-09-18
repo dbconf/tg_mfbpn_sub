@@ -5,7 +5,8 @@ invite_code  KT4s  10000
 last_checkin  2024-09-18 00:45:39.897002+08:00
 name  飞翔吧
 node_n  46
-sub_info  1.319G  10.32G  2024-09-18 21:14:31+08:00  (剩余 8.998G 8:47:11.637017)
+sub_info  1.551G  10.32G  2024-09-18 21:14:31+08:00  (剩余 8.766G 8:30:36.794596)
 sub_url  https://www.flybar4.cc/link/96JszR4Kf8JwQxFh?sub=3
 time  2024-09-17 21:14:33.860266+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
