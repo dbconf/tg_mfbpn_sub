@@ -5,7 +5,8 @@ invite_code  QeH3  10000
 last_checkin  2024-10-10 00:46:00.686733+08:00
 name  飞翔吧
 node_n  46
-sub_info  47.61M  10.32G  2024-10-10 20:50:29+08:00  (剩余 10.27G 2:54:47.943094)
+sub_info  47.61M  10.32G  2024-10-10 20:50:29+08:00  (剩余 10.27G 2:26:41.688488)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/jgMqoDhlElJp5m1M?sub=3
 time  2024-10-09 20:50:32.558805+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
