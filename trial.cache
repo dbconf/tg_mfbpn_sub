@@ -9,3 +9,6 @@ sub_info  3.76G  10.24G  2024-10-14 20:40:04+08:00  (剩余 6.478G 0:46:59.78012
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/MjwVZrZCFTzXPBBp?sub=3
 time  2024-10-13 20:40:07.266101+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱失败: HTTPSConnectionPool(host='api.mail.gw', port=443): Read timed out. (read timeout=30)
