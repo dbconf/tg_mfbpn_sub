@@ -9,3 +9,4 @@ sub_info  748.2M  10.27G  2024-10-29 20:45:58+08:00  (剩余 9.536G 4:17:15.0778
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/5sOzvVdv1LLuvc7z?sub=3
 time  2024-10-28 20:45:59.624083+08:00
 type  sspanel
+更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /link/5sOzvVdv1LLuvc7z?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.flybar4.cc', port=443): Read timed out. (read timeout=30)"))
