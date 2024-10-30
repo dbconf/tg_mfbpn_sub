@@ -5,7 +5,8 @@ invite_code  L5vF  10000
 last_checkin  2024-10-30 00:48:36.877065+08:00
 name  飞翔吧
 node_n  46
-sub_info  12.81M  10.29G  2024-10-30 21:22:26+08:00  (剩余 10.28G 6:29:22.929212)
+sub_info  12.81M  10.29G  2024-10-30 21:22:26+08:00  (剩余 10.28G 6:01:56.307779)
 sub_url  https://www.flybar4.cc/link/Dr2aMTcA1PTLX5lE?sub=3
 time  2024-10-29 21:22:28.478425+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
