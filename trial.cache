@@ -5,9 +5,7 @@ invite_code  FqiN  10000
 last_checkin  2024-11-01 22:54:58.850283+08:00
 name  飞翔吧
 node_n  46
-sub_info  0B  10.13G  2024-11-02 20:41:46+08:00  (剩余 10.13G 22:48:28.151587)
+sub_info  0B  10.15G  2024-11-02 22:54:57+08:00  (剩余 10.15G 23:31:21.113750)
 sub_url  https://service-cicbrnbg-1309305287.gz.apigw.tencentcs.com/link/ENFGxj5fxz2oZ2h0?sub=3
 time  2024-11-01 22:55:00.142673+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-保存订阅信息失败  no sub info
