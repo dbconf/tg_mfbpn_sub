@@ -9,3 +9,4 @@ sub_info  0B  10.1G  2024-11-09 20:41:52+08:00  (剩余 10.1G 22:48:39.923119)
 sub_url  http://175.178.9.20/link/76vMJSDDSEwuKzh7?sub=3
 time  2024-11-08 20:41:53.778837+08:00
 type  sspanel
+更新旧订阅失败  _get_sc_config_url: 获取订阅转换配置链接失败: HTTPSConnectionPool(host='api.github.com', port=443): Max retries exceeded with url: /repos/zsokami/ACL4SSR/git/refs/heads/main (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe6d21c6950>, 'Connection to api.github.com timed out. (connect timeout=30)'))
