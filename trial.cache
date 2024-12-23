@@ -9,3 +9,4 @@ sub_info  0B  10.35G  2024-12-23 20:39:43+08:00  (剩余 10.35G 1:42:29.361166)
 sub_url  http://175.178.9.20/link/H7ZfIn2nSUUw0Exc?sub=3
 time  2024-12-22 20:39:45.719314+08:00
 type  sspanel
+更新旧订阅失败  HTTPSConnectionPool(host='www.flybar4.cc', port=443): Max retries exceeded with url: /link/H7ZfIn2nSUUw0Exc?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='www.flybar4.cc', port=443): Read timed out. (read timeout=30)"))
