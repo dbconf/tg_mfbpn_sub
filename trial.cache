@@ -5,8 +5,7 @@ invite_code  MyFG  10000
 last_checkin  2025-01-18 00:43:33.589216+08:00
 name  飞翔吧
 node_n  47
-sub_info  0B  10.29G  2025-01-18 20:41:22+08:00  (剩余 10.29G 15:22:30.979846)
+sub_info  0B  10.29G  2025-01-18 20:41:22+08:00  (剩余 10.29G 15:02:57.162020)
 sub_url  http://175.178.9.20/link/PzmPkMIO1wOi9JPY?sub=3
 time  2025-01-17 20:41:25.396697+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
