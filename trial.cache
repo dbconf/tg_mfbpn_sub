@@ -5,7 +5,8 @@ invite_code  CRnh  9997
 last_checkin  2025-02-01 18:39:28.918791+08:00
 name  飞翔吧
 node_n  47
-sub_info  1.448G  10.12G  2025-02-02 18:39:28+08:00  (剩余 8.671G 19:44:12.706888)
+sub_info  1.714G  10.12G  2025-02-02 18:39:28+08:00  (剩余 8.405G 19:17:15.177379)
 sub_url  http://175.178.9.20/link/7xq4cMke41uB31S1?sub=3
 time  2025-02-01 18:39:30.121528+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
